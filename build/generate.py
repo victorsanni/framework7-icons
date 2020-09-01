@@ -6,6 +6,8 @@ from subprocess import call
 import os
 import json
 
+from existing_map import old_names
+
 
 BUILDER_PATH = os.path.dirname(os.path.abspath(__file__))
 ROOT_PATH = os.path.join(BUILDER_PATH, '..')
@@ -14,23 +16,20 @@ FONTS_FOLDER_PATH = os.path.join(ROOT_PATH, 'fonts')
 def main():
   generate_font_files()
 
-  data = get_build_data()
-  package = get_package()
+  data = get_manifest()
 
-  generate_cheatsheet(data, package)
-  generate_component_json(package)
-  generate_composer_json(package)
-  generate_bower_json(package)
+  generate_dart_file(data)
 
+  generate_cheatsheet(data)
 
 def generate_font_files():
-  print "Generate Fonts"
-  cmd = "fontforge -script %s/scripts/generate_font.py" % (BUILDER_PATH)
+  print("Generate Fonts")
+  cmd = "fontforge -script %s/generate_font.py" % (BUILDER_PATH)
   call(cmd, shell=True)
 
 
-def generate_cheatsheet(data, package):
-  print "Generate Cheatsheet"
+def generate_cheatsheet(data):
+  print("Generate Cheatsheet")
 
   cheatsheet_file_path = os.path.join(ROOT_PATH, 'cheatsheet/index.html')
   template_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'template.html')
@@ -54,7 +53,7 @@ def generate_cheatsheet(data, package):
     content.append(item_row)
 
   template_html = template_html.replace("{{font_name}}", data["name"])
-  template_html = template_html.replace("{{font_version}}", package["version"])
+  # template_html = template_html.replace("{{font_version}}", package["version"])
   template_html = template_html.replace("{{icon_count}}", str(len(data["icons"])) )
   template_html = template_html.replace("{{content}}", '\n'.join(content) )
 
@@ -62,115 +61,47 @@ def generate_cheatsheet(data, package):
   f.write(template_html)
   f.close()
 
-def generate_component_json(package):
-  print "Generate component.json"
-  cssFileName = 'framework7-icons'
-  fontFileName = 'Framework7Icons-Regular';
-  d = {
-    "name": package['name'],
-    "repo": "nolimits4web/framework7-icons",
-    "description": package['description'],
-    "version": package['version'],
-    "keywords": package['keywords'],
-    "dependencies": {},
-    "development": {},
-    "license": package['license'],
-    "styles": [
-      "css/%s.css" % (cssFileName)
-    ],
-    "fonts": [
-      "fonts/%s.eot" % (fontFileName),
-      "fonts/%s.svg" % (fontFileName),
-      "fonts/%s.ttf" % (fontFileName),
-      "fonts/%s.woff" % (fontFileName),
-      "fonts/%s.woff2" % (fontFileName)
-    ]
-  }
-  txt = json.dumps(d, indent=4, separators=(',', ': '))
-
-  component_file_path = os.path.join(ROOT_PATH, 'component.json')
-  f = open(component_file_path, 'w')
-  f.write(txt)
-  f.close()
-
-
-def generate_composer_json(package):
-  print "Generate composer.json"
-  cssFileName = 'framework7-icons'
-  fontFileName = 'Framework7Icons-Regular';
-  d = {
-    "name": "nolimits4web/framework7-icons",
-    "description": package['description'],
-    "keywords": package['keywords'],
-    "homepage": package['homepage'],
-    "authors": [
-      {
-        "name": "Vladimir Kharalmpidi",
-        "email": "nolimits4web@gmail.com",
-        "role": "Designer",
-        "homepage": "https://idangero.us"
-      }
-    ],
-    "extra": {},
-    "license": [ package['license'] ]
-  }
-  txt = json.dumps(d, indent=4, separators=(',', ': '))
-
-  composer_file_path = os.path.join(ROOT_PATH, 'composer.json')
-  f = open(composer_file_path, 'w')
-  f.write(txt)
-  f.close()
-
-
-def generate_bower_json(package):
-  print "Generate bower.json"
-  cssFileName = 'framework7-icons'
-  fontFileName = 'Framework7Icons-Regular';
-  d = {
-    "name": package['name'],
-    "version": package['version'],
-    "homepage": package['homepage'],
-    "authors": [
-      "Vladimir Kharlampidi <nolimits4web@gmail.com>"
-    ],
-    "description": package['description'],
-    "main": [
-      "css/%s.css" % (cssFileName),
-      "fonts/*"
-    ],
-    "keywords": package['keywords'],
-    "license": package['license'],
-    "ignore": [
-      "**/.*",
-      "build",
-      "node_modules",
-      "bower_components",
-      "src",
-      "sketch"
-    ]
-  }
-  txt = json.dumps(d, indent=4, separators=(',', ': '))
-
-  bower_file_path = os.path.join(ROOT_PATH, 'bower.json')
-  f = open(bower_file_path, 'w')
-  f.write(txt)
-  f.close()
-
-
-def get_build_data():
-  build_data_path = os.path.join(BUILDER_PATH, 'build_data.json')
-  f = open(build_data_path, 'r')
+def get_manifest():
+  manifest_path = os.path.join(BUILDER_PATH, 'manifest.json')
+  f = open(manifest_path, 'r')
   data = json.loads(f.read())
   f.close()
   return data
 
-def get_package():
-  package_path = os.path.join(ROOT_PATH, 'package.json')
-  f = open(package_path, 'r')
-  package = json.loads(f.read())
-  f.close()
-  return package
+def generate_dart_file(data):
+  output = []
+  skipped = 0
+  for glyph in data['icons']:
+    if glyph['name'] not in old_names:
+      output.append(f"  /// Cupertino icon for {glyph['name']}. Available on cupertino_icons package 1.0.0+ only.")
+      output.append(f"\n")
+      output.append(f"  static const IconData {glyph['name']} = IconData({hex(glyph['codepoint'])}, fontFamily: iconFont, fontPackage: iconFontPackage);")
+      output.append(f"\n")
+    else:
+      skipped += 1
+  f = open(os.path.join(BUILDER_PATH, 'cupertino_generated_icons.dart'), 'w')
+  f.write('\n'.join(output))
 
+  flutter_root = os.environ['FLUTTER_ROOT']
+  cupertino_icons_file = open(os.path.join(flutter_root, 'packages', 'flutter', 'lib', 'src', 'cupertino', 'icons.dart'), 'r')
+  cupertino_icons = cupertino_icons_file.readlines()
+  cupertino_icons_file.close()
+
+  new_cupertino_icons = []
+  generating = False
+  for line in cupertino_icons:
+    if "END GENERATED" in line:
+      generating = False
+    if not generating:
+      new_cupertino_icons.append(line)
+    if "BEGIN GENERATED" in line:
+      generating = True
+      new_cupertino_icons.extend(output)
+
+  cupertino_icons_file = open(os.path.join(flutter_root, 'packages', 'flutter', 'lib', 'src', 'cupertino', 'icons.dart'), 'w')
+  cupertino_icons_file.write(''.join(new_cupertino_icons))
+  cupertino_icons_file.close()
+  print(f'Skipped {skipped} overlapping glyphs with existing definitions')
 
 if __name__ == "__main__":
   main()

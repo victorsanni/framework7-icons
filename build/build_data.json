@@ -2033,57 +2033,6 @@
       "name": "lock_slash_fill"
     },
     {
-      "name": "logo_android"
-    },
-    {
-      "name": "logo_android_text"
-    },
-    {
-      "name": "logo_apple"
-    },
-    {
-      "name": "logo_facebook"
-    },
-    {
-      "name": "logo_github"
-    },
-    {
-      "name": "logo_google"
-    },
-    {
-      "name": "logo_google_text"
-    },
-    {
-      "name": "logo_googleplus"
-    },
-    {
-      "name": "logo_instagram"
-    },
-    {
-      "name": "logo_ios"
-    },
-    {
-      "name": "logo_linkedin"
-    },
-    {
-      "name": "logo_macos"
-    },
-    {
-      "name": "logo_microsoft"
-    },
-    {
-      "name": "logo_rss"
-    },
-    {
-      "name": "logo_stackoverflow"
-    },
-    {
-      "name": "logo_twitter"
-    },
-    {
-      "name": "logo_windows"
-    },
-    {
       "name": "macwindow"
     },
     {
@@ -2109,9 +2058,6 @@
     },
     {
       "name": "memories_badge_plus"
-    },
-    {
-      "name": "menu"
     },
     {
       "name": "metronome"
@@ -2331,9 +2277,6 @@
     },
     {
       "name": "pause_rectangle_fill"
-    },
-    {
-      "name": "paw"
     },
     {
       "name": "pencil"
@@ -2625,9 +2568,6 @@
     },
     {
       "name": "plusminus_circle_fill"
-    },
-    {
-      "name": "poultry_leg"
     },
     {
       "name": "power"
