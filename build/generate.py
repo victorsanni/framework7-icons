@@ -70,17 +70,22 @@ def get_manifest():
 
 def generate_dart_file(data):
   output = []
-  skipped = 0
+  skipped = []
   for glyph in data['icons']:
-    if glyph['name'] not in old_names:
+    if glyph['name'] not in old_names.keys():
       output.append(f"  /// Cupertino icon for {glyph['name']}. Available on cupertino_icons package 1.0.0+ only.")
-      output.append(f"\n")
+      output.append("\n")
+      if glyph['codepoint'] in old_names.values():
+        for old_name, old_codepoint in old_names.items():
+          if glyph['codepoint'] == old_codepoint:
+            output.append(f"  /// This is the same icon as [{old_name}] which is available in cupertino_icons 0.1.3.")
+            output.append("\n")
       output.append(f"  static const IconData {glyph['name']} = IconData({hex(glyph['codepoint'])}, fontFamily: iconFont, fontPackage: iconFontPackage);")
-      output.append(f"\n")
+      output.append("\n")
     else:
-      skipped += 1
+      skipped.append(glyph['name'])
   f = open(os.path.join(BUILDER_PATH, 'cupertino_generated_icons.dart'), 'w')
-  f.write('\n'.join(output))
+  f.write(''.join(output))
 
   flutter_root = os.environ['FLUTTER_ROOT']
   cupertino_icons_file = open(os.path.join(flutter_root, 'packages', 'flutter', 'lib', 'src', 'cupertino', 'icons.dart'), 'r')
@@ -102,6 +107,14 @@ def generate_dart_file(data):
   cupertino_icons_file.write(''.join(new_cupertino_icons))
   cupertino_icons_file.close()
   print(f'Skipped {skipped} overlapping glyphs with existing definitions')
+
+  # Print instructions for old manual dartdocs
+  # for old_name, old_codepoint in old_names.items():
+  #   for glyph in data['icons']:
+  #     if glyph['codepoint'] == old_codepoint:
+  #       if not old_name in skipped:
+  #         print(f'-- {old_name} -- ')
+  #         print(f"This is the same icon as [{glyph['name']}] in cupertino_icons 1.0.0+.")
 
 if __name__ == "__main__":
   main()

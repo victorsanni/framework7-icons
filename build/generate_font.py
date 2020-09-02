@@ -22,6 +22,7 @@ AUTO_WIDTH = False
 KERNING = 15
 
 unusable_names = {
+  # Keywords in Dart we can't use as names.
   'return': 'return_icon',
 }
 
@@ -51,6 +52,8 @@ build_data['icons'] = []
 
 font_name = manifest_data['name']
 
+# Start at this codepoint since it's the last manually used codepoint from
+# cupertino_icons 0.1.3.
 codepoint = 0xf4d4
 
 for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
@@ -88,6 +91,7 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
           next_codepoint = mapped_codepoints[0][name]
         else:
           next_codepoint = mapped_codepoints[0][name][0]
+        mapped_codepoints[0].pop(name)
       else:
         next_codepoint = codepoint
         codepoint += 1
@@ -162,6 +166,7 @@ subprocess.call('ttfautohint -s -f -n ' + fontfile + '.ttf ' + fontfile + '-hint
 manifest_data['icons'] = sorted(build_data['icons'], key=lambda k: k['name'])
 
 print("Save Manifest, Icons: %s" % ( len(manifest_data['icons']) ))
+print(f"Unused mappings {mapped_codepoints}")
 f = open(MANIFEST_PATH, 'w')
 f.write( json.dumps(manifest_data, indent=2, separators=(',', ': ')) )
 f.close()
