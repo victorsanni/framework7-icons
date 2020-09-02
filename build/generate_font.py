@@ -145,7 +145,11 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
         glyph.left_side_bearing = glyph.right_side_bearing = 0
         glyph.round()
       else:
-        glyph.width = 512
+        if name in ['chevron_back', 'chevron_forward']:
+          # These are special since they're not square shaped. Squish them more.
+          glyph.width = 192
+        else:
+          glyph.width = 512
 
     # resize glyphs if autowidth is enabled
     if AUTO_WIDTH:

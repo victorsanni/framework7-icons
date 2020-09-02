@@ -402,8 +402,8 @@
   /// This is the same icon as [battery_empty] which is available in cupertino_icons 0.1.3.
   static const IconData battery_0 = IconData(0xf112, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for battery_100. Available on cupertino_icons package 1.0.0+ only.
-  /// This is the same icon as [battery_charging] which is available in cupertino_icons 0.1.3.
-  static const IconData battery_100 = IconData(0xf111, fontFamily: iconFont, fontPackage: iconFontPackage);
+  /// This is the same icon as [battery_full] which is available in cupertino_icons 0.1.3.
+  static const IconData battery_100 = IconData(0xf113, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for battery_25. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [battery_25_percent] which is available in cupertino_icons 0.1.3.
   static const IconData battery_25 = IconData(0xf115, fontFamily: iconFont, fontPackage: iconFontPackage);
@@ -628,6 +628,9 @@
   static const IconData checkmark_square = IconData(0xf5cf, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for checkmark_square_fill. Available on cupertino_icons package 1.0.0+ only.
   static const IconData checkmark_square_fill = IconData(0xf5d0, fontFamily: iconFont, fontPackage: iconFontPackage);
+  /// Cupertino icon for chevron_back. Available on cupertino_icons package 1.0.0+ only.
+  /// This is the same icon as [back] which is available in cupertino_icons 0.1.3.
+  static const IconData chevron_back = IconData(0xf3cf, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_compact_down. Available on cupertino_icons package 1.0.0+ only.
   static const IconData chevron_compact_down = IconData(0xf5d1, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_compact_left. Available on cupertino_icons package 1.0.0+ only.
@@ -646,9 +649,12 @@
   static const IconData chevron_down_square = IconData(0xf5d8, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_down_square_fill. Available on cupertino_icons package 1.0.0+ only.
   static const IconData chevron_down_square_fill = IconData(0xf5d9, fontFamily: iconFont, fontPackage: iconFontPackage);
+  /// Cupertino icon for chevron_forward. Available on cupertino_icons package 1.0.0+ only.
+  /// This is the same icon as [forward] which is available in cupertino_icons 0.1.3.
+  static const IconData chevron_forward = IconData(0xf3d1, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_left. Available on cupertino_icons package 1.0.0+ only.
-  /// This is the same icon as [back] which is available in cupertino_icons 0.1.3.
-  static const IconData chevron_left = IconData(0xf3cf, fontFamily: iconFont, fontPackage: iconFontPackage);
+  /// This is the same icon as [left_chevron] which is available in cupertino_icons 0.1.3.
+  static const IconData chevron_left = IconData(0xf3d2, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_left_2. Available on cupertino_icons package 1.0.0+ only.
   static const IconData chevron_left_2 = IconData(0xf5da, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_left_circle. Available on cupertino_icons package 1.0.0+ only.
@@ -662,8 +668,8 @@
   /// Cupertino icon for chevron_left_square_fill. Available on cupertino_icons package 1.0.0+ only.
   static const IconData chevron_left_square_fill = IconData(0xf5df, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_right. Available on cupertino_icons package 1.0.0+ only.
-  /// This is the same icon as [forward] which is available in cupertino_icons 0.1.3.
-  static const IconData chevron_right = IconData(0xf3d1, fontFamily: iconFont, fontPackage: iconFontPackage);
+  /// This is the same icon as [right_chevron] which is available in cupertino_icons 0.1.3.
+  static const IconData chevron_right = IconData(0xf3d3, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_right_2. Available on cupertino_icons package 1.0.0+ only.
   static const IconData chevron_right_2 = IconData(0xf5e0, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for chevron_right_circle. Available on cupertino_icons package 1.0.0+ only.
@@ -2422,8 +2428,8 @@
   /// This is the same icon as [clear_circled] which is available in cupertino_icons 0.1.3.
   static const IconData xmark_circle = IconData(0xf405, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark_circle_fill. Available on cupertino_icons package 1.0.0+ only.
-  /// This is the same icon as [clear_circled_solid] which is available in cupertino_icons 0.1.3.
-  static const IconData xmark_circle_fill = IconData(0xf406, fontFamily: iconFont, fontPackage: iconFontPackage);
+  /// This is the same icon as [clear_thick_circled] which is available in cupertino_icons 0.1.3.
+  static const IconData xmark_circle_fill = IconData(0xf36e, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark_octagon. Available on cupertino_icons package 1.0.0+ only.
   static const IconData xmark_octagon = IconData(0xf8a2, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark_octagon_fill. Available on cupertino_icons package 1.0.0+ only.

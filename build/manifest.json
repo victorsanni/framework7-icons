@@ -783,7 +783,7 @@
     },
     {
       "name": "battery_100",
-      "codepoint": 61713
+      "codepoint": 61715
     },
     {
       "name": "battery_25",
@@ -1218,6 +1218,10 @@
       "codepoint": 62928
     },
     {
+      "name": "chevron_back",
+      "codepoint": 62415
+    },
+    {
       "name": "chevron_compact_down",
       "codepoint": 62929
     },
@@ -1254,8 +1258,12 @@
       "codepoint": 62937
     },
     {
+      "name": "chevron_forward",
+      "codepoint": 62417
+    },
+    {
       "name": "chevron_left",
-      "codepoint": 62415
+      "codepoint": 62418
     },
     {
       "name": "chevron_left_2",
@@ -1283,7 +1291,7 @@
     },
     {
       "name": "chevron_right",
-      "codepoint": 62417
+      "codepoint": 62419
     },
     {
       "name": "chevron_right_2",
@@ -4775,7 +4783,7 @@
     },
     {
       "name": "xmark_circle_fill",
-      "codepoint": 62470
+      "codepoint": 62318
     },
     {
       "name": "xmark_octagon",
