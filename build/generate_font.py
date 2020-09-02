@@ -14,6 +14,14 @@ import collections
 
 from existing_map import mapped_codepoints
 
+SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
+BLANK_PATH = os.path.join(SCRIPT_PATH, 'blank.svg')
+INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', 'src')
+OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', 'fonts')
+MANIFEST_PATH = os.path.join(SCRIPT_PATH, 'manifest.json')
+AUTO_WIDTH = True
+KERNING = 15
+
 def createGlyph(name, codepoint, file):
   glyph = f.createChar(codepoint, name)
 
@@ -62,17 +70,10 @@ def createGlyph(name, codepoint, file):
   else:
     if name in ['chevron_back', 'chevron_forward']:
       # These are special since they're not square shaped. Squish them more.
-      glyph.width = 192
+      glyph.width = 224
+    # There are legacy font glyphs from different svg sources. Leave them as is.
     else:
       glyph.width = 512
-
-SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
-BLANK_PATH = os.path.join(SCRIPT_PATH, 'blank.svg')
-INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', 'src')
-OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', 'fonts')
-MANIFEST_PATH = os.path.join(SCRIPT_PATH, 'manifest.json')
-AUTO_WIDTH = False
-KERNING = 15
 
 unusable_names = {
   # Keywords in Dart we can't use as names.

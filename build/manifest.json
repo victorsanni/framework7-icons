@@ -2,67 +2,67 @@
   "name": "Cupertino Icons",
   "icons": {
     "airplane": [
-      62676
-    ],
-    "alarm": [
       62677
     ],
-    "alarm_fill": [
+    "alarm": [
       62678
     ],
-    "alt": [
+    "alarm_fill": [
       62679
     ],
-    "ant": [
+    "alt": [
       62680
     ],
-    "ant_circle": [
+    "ant": [
       62681
     ],
-    "ant_circle_fill": [
+    "ant_circle": [
       62682
     ],
-    "ant_fill": [
+    "ant_circle_fill": [
       62683
     ],
-    "antenna_radiowaves_left_right": [
+    "ant_fill": [
       62684
     ],
-    "app": [
+    "antenna_radiowaves_left_right": [
       62685
     ],
-    "app_badge": [
+    "app": [
       62686
     ],
-    "app_badge_fill": [
+    "app_badge": [
       62687
     ],
-    "app_fill": [
+    "app_badge_fill": [
       62688
     ],
-    "archivebox": [
+    "app_fill": [
       62689
     ],
-    "archivebox_fill": [
+    "archivebox": [
       62690
     ],
-    "arrow_2_circlepath": [
+    "archivebox_fill": [
       62691
     ],
-    "arrow_2_circlepath_circle": [
+    "arrow_2_circlepath": [
       62692
     ],
-    "arrow_2_circlepath_circle_fill": [
+    "arrow_2_circlepath_circle": [
       62693
     ],
-    "arrow_2_squarepath": [
+    "arrow_2_circlepath_circle_fill": [
       62694
     ],
-    "arrow_3_trianglepath": [
+    "arrow_2_squarepath": [
       62695
     ],
-    "arrow_branch": [
+    "arrow_3_trianglepath": [
       62696
+    ],
+    "arrow_branch": [
+      62697
     ],
     "arrow_clockwise": [
       62618,
@@ -79,334 +79,334 @@
       61980
     ],
     "arrow_counterclockwise_circle": [
-      62697
+      62698
     ],
     "arrow_counterclockwise_circle_fill": [
-      62698
+      62699
     ],
     "arrow_down": [
       62301
     ],
     "arrow_down_circle": [
-      62699
-    ],
-    "arrow_down_circle_fill": [
       62700
     ],
-    "arrow_down_doc": [
+    "arrow_down_circle_fill": [
       62701
     ],
-    "arrow_down_doc_fill": [
+    "arrow_down_doc": [
       62702
     ],
-    "arrow_down_left": [
+    "arrow_down_doc_fill": [
       62703
     ],
-    "arrow_down_left_circle": [
+    "arrow_down_left": [
       62704
     ],
-    "arrow_down_left_circle_fill": [
+    "arrow_down_left_circle": [
       62705
     ],
-    "arrow_down_left_square": [
+    "arrow_down_left_circle_fill": [
       62706
     ],
-    "arrow_down_left_square_fill": [
+    "arrow_down_left_square": [
       62707
     ],
-    "arrow_down_right": [
+    "arrow_down_left_square_fill": [
       62708
+    ],
+    "arrow_down_right": [
+      62709
     ],
     "arrow_down_right_arrow_up_left": [
       62333
     ],
     "arrow_down_right_circle": [
-      62709
-    ],
-    "arrow_down_right_circle_fill": [
       62710
     ],
-    "arrow_down_right_square": [
+    "arrow_down_right_circle_fill": [
       62711
     ],
-    "arrow_down_right_square_fill": [
+    "arrow_down_right_square": [
       62712
     ],
-    "arrow_down_square": [
+    "arrow_down_right_square_fill": [
       62713
     ],
-    "arrow_down_square_fill": [
+    "arrow_down_square": [
       62714
     ],
-    "arrow_down_to_line": [
+    "arrow_down_square_fill": [
       62715
     ],
-    "arrow_down_to_line_alt": [
+    "arrow_down_to_line": [
       62716
     ],
-    "arrow_left": [
+    "arrow_down_to_line_alt": [
       62717
     ],
-    "arrow_left_circle": [
+    "arrow_left": [
       62718
     ],
-    "arrow_left_circle_fill": [
+    "arrow_left_circle": [
       62719
     ],
-    "arrow_left_right": [
+    "arrow_left_circle_fill": [
       62720
     ],
-    "arrow_left_right_circle": [
+    "arrow_left_right": [
       62721
     ],
-    "arrow_left_right_circle_fill": [
+    "arrow_left_right_circle": [
       62722
     ],
-    "arrow_left_right_square": [
+    "arrow_left_right_circle_fill": [
       62723
     ],
-    "arrow_left_right_square_fill": [
+    "arrow_left_right_square": [
       62724
     ],
-    "arrow_left_square": [
+    "arrow_left_right_square_fill": [
       62725
     ],
-    "arrow_left_square_fill": [
+    "arrow_left_square": [
       62726
     ],
-    "arrow_left_to_line": [
+    "arrow_left_square_fill": [
       62727
     ],
-    "arrow_left_to_line_alt": [
+    "arrow_left_to_line": [
       62728
     ],
-    "arrow_merge": [
+    "arrow_left_to_line_alt": [
       62729
     ],
-    "arrow_right": [
+    "arrow_merge": [
       62730
     ],
-    "arrow_right_arrow_left": [
+    "arrow_right": [
       62731
     ],
-    "arrow_right_arrow_left_circle": [
+    "arrow_right_arrow_left": [
       62732
     ],
-    "arrow_right_arrow_left_circle_fill": [
+    "arrow_right_arrow_left_circle": [
       62733
     ],
-    "arrow_right_arrow_left_square": [
+    "arrow_right_arrow_left_circle_fill": [
       62734
     ],
-    "arrow_right_arrow_left_square_fill": [
+    "arrow_right_arrow_left_square": [
       62735
     ],
-    "arrow_right_circle": [
+    "arrow_right_arrow_left_square_fill": [
       62736
     ],
-    "arrow_right_circle_fill": [
+    "arrow_right_circle": [
       62737
     ],
-    "arrow_right_square": [
+    "arrow_right_circle_fill": [
       62738
     ],
-    "arrow_right_square_fill": [
+    "arrow_right_square": [
       62739
     ],
-    "arrow_right_to_line": [
+    "arrow_right_square_fill": [
       62740
     ],
-    "arrow_right_to_line_alt": [
+    "arrow_right_to_line": [
       62741
     ],
-    "arrow_swap": [
+    "arrow_right_to_line_alt": [
       62742
     ],
-    "arrow_turn_down_left": [
+    "arrow_swap": [
       62743
     ],
-    "arrow_turn_down_right": [
+    "arrow_turn_down_left": [
       62744
     ],
-    "arrow_turn_left_down": [
+    "arrow_turn_down_right": [
       62745
     ],
-    "arrow_turn_left_up": [
+    "arrow_turn_left_down": [
       62746
     ],
-    "arrow_turn_right_down": [
+    "arrow_turn_left_up": [
       62747
     ],
-    "arrow_turn_right_up": [
+    "arrow_turn_right_down": [
       62748
     ],
-    "arrow_turn_up_left": [
+    "arrow_turn_right_up": [
       62749
     ],
-    "arrow_turn_up_right": [
+    "arrow_turn_up_left": [
       62750
+    ],
+    "arrow_turn_up_right": [
+      62751
     ],
     "arrow_up": [
       62310
     ],
     "arrow_up_arrow_down": [
-      62751
-    ],
-    "arrow_up_arrow_down_circle": [
       62752
     ],
-    "arrow_up_arrow_down_circle_fill": [
+    "arrow_up_arrow_down_circle": [
       62753
     ],
-    "arrow_up_arrow_down_square": [
+    "arrow_up_arrow_down_circle_fill": [
       62754
     ],
-    "arrow_up_arrow_down_square_fill": [
+    "arrow_up_arrow_down_square": [
       62755
     ],
-    "arrow_up_bin": [
+    "arrow_up_arrow_down_square_fill": [
       62756
     ],
-    "arrow_up_bin_fill": [
+    "arrow_up_bin": [
       62757
     ],
-    "arrow_up_circle": [
+    "arrow_up_bin_fill": [
       62758
     ],
-    "arrow_up_circle_fill": [
+    "arrow_up_circle": [
       62759
     ],
-    "arrow_up_doc": [
+    "arrow_up_circle_fill": [
       62760
     ],
-    "arrow_up_doc_fill": [
+    "arrow_up_doc": [
       62761
     ],
-    "arrow_up_down": [
+    "arrow_up_doc_fill": [
       62762
     ],
-    "arrow_up_down_circle": [
+    "arrow_up_down": [
       62763
     ],
-    "arrow_up_down_circle_fill": [
+    "arrow_up_down_circle": [
       62764
     ],
-    "arrow_up_down_square": [
+    "arrow_up_down_circle_fill": [
       62765
     ],
-    "arrow_up_down_square_fill": [
+    "arrow_up_down_square": [
       62766
     ],
-    "arrow_up_left": [
+    "arrow_up_down_square_fill": [
       62767
+    ],
+    "arrow_up_left": [
+      62768
     ],
     "arrow_up_left_arrow_down_right": [
       62342
     ],
     "arrow_up_left_circle": [
-      62768
-    ],
-    "arrow_up_left_circle_fill": [
       62769
     ],
-    "arrow_up_left_square": [
+    "arrow_up_left_circle_fill": [
       62770
     ],
-    "arrow_up_left_square_fill": [
+    "arrow_up_left_square": [
       62771
     ],
-    "arrow_up_right": [
+    "arrow_up_left_square_fill": [
       62772
     ],
-    "arrow_up_right_circle": [
+    "arrow_up_right": [
       62773
     ],
-    "arrow_up_right_circle_fill": [
+    "arrow_up_right_circle": [
       62774
     ],
-    "arrow_up_right_diamond": [
+    "arrow_up_right_circle_fill": [
       62775
     ],
-    "arrow_up_right_diamond_fill": [
+    "arrow_up_right_diamond": [
       62776
     ],
-    "arrow_up_right_square": [
+    "arrow_up_right_diamond_fill": [
       62777
     ],
-    "arrow_up_right_square_fill": [
+    "arrow_up_right_square": [
       62778
     ],
-    "arrow_up_square": [
+    "arrow_up_right_square_fill": [
       62779
     ],
-    "arrow_up_square_fill": [
+    "arrow_up_square": [
       62780
     ],
-    "arrow_up_to_line": [
+    "arrow_up_square_fill": [
       62781
     ],
-    "arrow_up_to_line_alt": [
+    "arrow_up_to_line": [
       62782
     ],
-    "arrow_uturn_down": [
+    "arrow_up_to_line_alt": [
       62783
     ],
-    "arrow_uturn_down_circle": [
+    "arrow_uturn_down": [
       62784
     ],
-    "arrow_uturn_down_circle_fill": [
+    "arrow_uturn_down_circle": [
       62785
     ],
-    "arrow_uturn_down_square": [
+    "arrow_uturn_down_circle_fill": [
       62786
     ],
-    "arrow_uturn_down_square_fill": [
+    "arrow_uturn_down_square": [
       62787
     ],
-    "arrow_uturn_left": [
+    "arrow_uturn_down_square_fill": [
       62788
     ],
-    "arrow_uturn_left_circle": [
+    "arrow_uturn_left": [
       62789
     ],
-    "arrow_uturn_left_circle_fill": [
+    "arrow_uturn_left_circle": [
       62790
     ],
-    "arrow_uturn_left_square": [
+    "arrow_uturn_left_circle_fill": [
       62791
     ],
-    "arrow_uturn_left_square_fill": [
+    "arrow_uturn_left_square": [
       62792
     ],
-    "arrow_uturn_right": [
+    "arrow_uturn_left_square_fill": [
       62793
     ],
-    "arrow_uturn_right_circle": [
+    "arrow_uturn_right": [
       62794
     ],
-    "arrow_uturn_right_circle_fill": [
+    "arrow_uturn_right_circle": [
       62795
     ],
-    "arrow_uturn_right_square": [
+    "arrow_uturn_right_circle_fill": [
       62796
     ],
-    "arrow_uturn_right_square_fill": [
+    "arrow_uturn_right_square": [
       62797
     ],
-    "arrow_uturn_up": [
+    "arrow_uturn_right_square_fill": [
       62798
     ],
-    "arrow_uturn_up_circle": [
+    "arrow_uturn_up": [
       62799
     ],
-    "arrow_uturn_up_circle_fill": [
+    "arrow_uturn_up_circle": [
       62800
     ],
-    "arrow_uturn_up_square": [
+    "arrow_uturn_up_circle_fill": [
       62801
     ],
-    "arrow_uturn_up_square_fill": [
+    "arrow_uturn_up_square": [
       62802
+    ],
+    "arrow_uturn_up_square_fill": [
+      62803
     ],
     "arrowshape_turn_up_left": [
       62662
@@ -418,172 +418,172 @@
       61982
     ],
     "arrowshape_turn_up_left_circle": [
-      62803
-    ],
-    "arrowshape_turn_up_left_circle_fill": [
       62804
     ],
-    "arrowshape_turn_up_left_fill": [
+    "arrowshape_turn_up_left_circle_fill": [
       62805
     ],
-    "arrowshape_turn_up_right": [
+    "arrowshape_turn_up_left_fill": [
       62806
     ],
-    "arrowshape_turn_up_right_circle": [
+    "arrowshape_turn_up_right": [
       62807
     ],
-    "arrowshape_turn_up_right_circle_fill": [
+    "arrowshape_turn_up_right_circle": [
       62808
     ],
-    "arrowshape_turn_up_right_fill": [
+    "arrowshape_turn_up_right_circle_fill": [
       62809
     ],
-    "arrowtriangle_down": [
+    "arrowshape_turn_up_right_fill": [
       62810
     ],
-    "arrowtriangle_down_circle": [
+    "arrowtriangle_down": [
       62811
     ],
-    "arrowtriangle_down_circle_fill": [
+    "arrowtriangle_down_circle": [
       62812
     ],
-    "arrowtriangle_down_fill": [
+    "arrowtriangle_down_circle_fill": [
       62813
     ],
-    "arrowtriangle_down_square": [
+    "arrowtriangle_down_fill": [
       62814
     ],
-    "arrowtriangle_down_square_fill": [
+    "arrowtriangle_down_square": [
       62815
     ],
-    "arrowtriangle_left": [
+    "arrowtriangle_down_square_fill": [
       62816
     ],
-    "arrowtriangle_left_circle": [
+    "arrowtriangle_left": [
       62817
     ],
-    "arrowtriangle_left_circle_fill": [
+    "arrowtriangle_left_circle": [
       62818
     ],
-    "arrowtriangle_left_fill": [
+    "arrowtriangle_left_circle_fill": [
       62819
     ],
-    "arrowtriangle_left_square": [
+    "arrowtriangle_left_fill": [
       62820
     ],
-    "arrowtriangle_left_square_fill": [
+    "arrowtriangle_left_square": [
       62821
     ],
-    "arrowtriangle_right": [
+    "arrowtriangle_left_square_fill": [
       62822
     ],
-    "arrowtriangle_right_circle": [
+    "arrowtriangle_right": [
       62823
     ],
-    "arrowtriangle_right_circle_fill": [
+    "arrowtriangle_right_circle": [
       62824
     ],
-    "arrowtriangle_right_fill": [
+    "arrowtriangle_right_circle_fill": [
       62825
     ],
-    "arrowtriangle_right_square": [
+    "arrowtriangle_right_fill": [
       62826
     ],
-    "arrowtriangle_right_square_fill": [
+    "arrowtriangle_right_square": [
       62827
     ],
-    "arrowtriangle_up": [
+    "arrowtriangle_right_square_fill": [
       62828
     ],
-    "arrowtriangle_up_circle": [
+    "arrowtriangle_up": [
       62829
     ],
-    "arrowtriangle_up_circle_fill": [
+    "arrowtriangle_up_circle": [
       62830
     ],
-    "arrowtriangle_up_fill": [
+    "arrowtriangle_up_circle_fill": [
       62831
     ],
-    "arrowtriangle_up_square": [
+    "arrowtriangle_up_fill": [
       62832
     ],
-    "arrowtriangle_up_square_fill": [
+    "arrowtriangle_up_square": [
       62833
     ],
-    "asterisk_circle": [
+    "arrowtriangle_up_square_fill": [
       62834
     ],
-    "asterisk_circle_fill": [
+    "asterisk_circle": [
       62835
     ],
-    "at": [
+    "asterisk_circle_fill": [
       62836
     ],
-    "at_badge_minus": [
+    "at": [
       62837
     ],
-    "at_badge_plus": [
+    "at_badge_minus": [
       62838
     ],
-    "at_circle": [
-      63663
-    ],
-    "at_circle_fill": [
-      63664
-    ],
-    "backward": [
+    "at_badge_plus": [
       62839
     ],
-    "backward_end": [
+    "at_circle": [
+      63664
+    ],
+    "at_circle_fill": [
+      63665
+    ],
+    "backward": [
       62840
     ],
-    "backward_end_alt": [
+    "backward_end": [
       62841
     ],
-    "backward_end_alt_fill": [
+    "backward_end_alt": [
       62842
     ],
-    "backward_end_fill": [
+    "backward_end_alt_fill": [
       62843
     ],
-    "backward_fill": [
+    "backward_end_fill": [
       62844
     ],
-    "badge_plus_radiowaves_right": [
+    "backward_fill": [
       62845
     ],
-    "bag": [
+    "badge_plus_radiowaves_right": [
       62846
     ],
-    "bag_badge_minus": [
+    "bag": [
       62847
     ],
-    "bag_badge_plus": [
+    "bag_badge_minus": [
       62848
     ],
-    "bag_fill": [
+    "bag_badge_plus": [
       62849
     ],
-    "bag_fill_badge_minus": [
+    "bag_fill": [
       62850
     ],
-    "bag_fill_badge_plus": [
+    "bag_fill_badge_minus": [
       62851
     ],
-    "bandage": [
+    "bag_fill_badge_plus": [
       62852
     ],
-    "bandage_fill": [
+    "bandage": [
       62853
     ],
-    "barcode": [
+    "bandage_fill": [
       62854
     ],
-    "barcode_viewfinder": [
+    "barcode": [
       62855
     ],
+    "barcode_viewfinder": [
+      62856
+    ],
     "bars": [
-      63665
+      63666
     ],
     "battery_0": [
       61714
@@ -597,97 +597,100 @@
       61717
     ],
     "bed_double": [
-      62856
+      62857
     ],
     "bed_double_fill": [
-      62857
+      62858
     ],
     "bell": [
       62433
     ],
     "bell_circle": [
-      62858
+      62859
     ],
     "bell_circle_fill": [
-      62859
+      62860
     ],
     "bell_fill": [
       62434
     ],
     "bell_slash": [
-      62860
-    ],
-    "bell_slash_fill": [
       62861
     ],
-    "bin_xmark": [
+    "bell_slash_fill": [
       62862
     ],
-    "bin_xmark_fill": [
+    "bin_xmark": [
       62863
     ],
-    "bitcoin": [
-      63666
-    ],
-    "bitcoin_circle": [
-      63667
-    ],
-    "bitcoin_circle_fill": [
-      63668
-    ],
-    "bold": [
+    "bin_xmark_fill": [
       62864
     ],
-    "bold_italic_underline": [
+    "bitcoin": [
+      63667
+    ],
+    "bitcoin_circle": [
+      63668
+    ],
+    "bitcoin_circle_fill": [
+      63669
+    ],
+    "bluetooth": [
+      61718
+    ],
+    "bold": [
       62865
     ],
-    "bold_underline": [
+    "bold_italic_underline": [
       62866
     ],
-    "bolt": [
+    "bold_underline": [
       62867
     ],
-    "bolt_badge_a": [
+    "bolt": [
       62868
     ],
-    "bolt_badge_a_fill": [
+    "bolt_badge_a": [
       62869
     ],
-    "bolt_circle": [
+    "bolt_badge_a_fill": [
       62870
     ],
-    "bolt_circle_fill": [
+    "bolt_circle": [
       62871
     ],
-    "bolt_fill": [
+    "bolt_circle_fill": [
       62872
     ],
-    "bolt_horizontal": [
+    "bolt_fill": [
       62873
     ],
-    "bolt_horizontal_circle": [
+    "bolt_horizontal": [
       62874
     ],
-    "bolt_horizontal_circle_fill": [
+    "bolt_horizontal_circle": [
       62875
     ],
-    "bolt_horizontal_fill": [
+    "bolt_horizontal_circle_fill": [
       62876
     ],
-    "bolt_slash": [
+    "bolt_horizontal_fill": [
       62877
     ],
-    "bolt_slash_fill": [
+    "bolt_slash": [
       62878
+    ],
+    "bolt_slash_fill": [
+      62879
     ],
     "book": [
       62439
     ],
     "book_circle": [
-      62879
+      62880
     ],
     "book_circle_fill": [
-      62880
+      62881
     ],
     "book_fill": [
       62440
@@ -699,88 +702,91 @@
       62442
     ],
     "briefcase": [
-      62881
-    ],
-    "briefcase_fill": [
       62882
     ],
-    "bubble_left": [
+    "briefcase_fill": [
       62883
     ],
-    "bubble_left_bubble_right": [
+    "bubble_left": [
       62884
     ],
-    "bubble_left_bubble_right_fill": [
+    "bubble_left_bubble_right": [
       62885
     ],
-    "bubble_left_fill": [
+    "bubble_left_bubble_right_fill": [
       62886
     ],
-    "bubble_middle_bottom": [
+    "bubble_left_fill": [
       62887
     ],
-    "bubble_middle_bottom_fill": [
+    "bubble_middle_bottom": [
       62888
     ],
-    "bubble_middle_top": [
+    "bubble_middle_bottom_fill": [
       62889
     ],
-    "bubble_middle_top_fill": [
+    "bubble_middle_top": [
       62890
     ],
-    "bubble_right": [
+    "bubble_middle_top_fill": [
       62891
     ],
-    "bubble_right_fill": [
+    "bubble_right": [
       62892
     ],
-    "building_2_fill": [
-      63669
-    ],
-    "burn": [
+    "bubble_right_fill": [
       62893
     ],
-    "burst": [
+    "building_2_fill": [
+      63670
+    ],
+    "burn": [
       62894
     ],
-    "burst_fill": [
+    "burst": [
       62895
     ],
-    "calendar": [
+    "burst_fill": [
       62896
     ],
-    "calendar_badge_minus": [
+    "bus": [
+      62317
+    ],
+    "calendar": [
       62897
     ],
-    "calendar_badge_plus": [
+    "calendar_badge_minus": [
       62898
     ],
-    "calendar_circle": [
+    "calendar_badge_plus": [
       62899
     ],
-    "calendar_circle_fill": [
+    "calendar_circle": [
       62900
     ],
+    "calendar_circle_fill": [
+      62901
+    ],
     "calendar_today": [
-      63670
+      63671
     ],
     "camera": [
       62453
     ],
     "camera_circle": [
-      62901
+      62902
     ],
     "camera_circle_fill": [
-      62902
+      62903
     ],
     "camera_fill": [
       62454
     ],
     "camera_on_rectangle": [
-      62903
+      62904
     ],
     "camera_on_rectangle_fill": [
-      62904
+      62905
     ],
     "camera_rotate": [
       62622
@@ -789,25 +795,31 @@
       62623
     ],
     "camera_viewfinder": [
-      62905
-    ],
-    "capslock": [
       62906
     ],
-    "capslock_fill": [
+    "capslock": [
       62907
     ],
-    "capsule": [
+    "capslock_fill": [
       62908
     ],
-    "capsule_fill": [
+    "capsule": [
       62909
     ],
-    "captions_bubble": [
+    "capsule_fill": [
       62910
     ],
-    "captions_bubble_fill": [
+    "captions_bubble": [
       62911
+    ],
+    "captions_bubble_fill": [
+      62912
+    ],
+    "car": [
+      62676
+    ],
+    "car_detailed": [
+      62145
     ],
     "car_fill": [
       62319
@@ -816,76 +828,76 @@
       62455
     ],
     "cart_badge_minus": [
-      62912
-    ],
-    "cart_badge_plus": [
       62913
     ],
-    "cart_fill": [
+    "cart_badge_plus": [
       62914
     ],
-    "cart_fill_badge_minus": [
+    "cart_fill": [
       62915
     ],
-    "cart_fill_badge_plus": [
+    "cart_fill_badge_minus": [
       62916
     ],
-    "chart_bar": [
+    "cart_fill_badge_plus": [
       62917
     ],
-    "chart_bar_alt_fill": [
-      63671
-    ],
-    "chart_bar_circle": [
-      63672
-    ],
-    "chart_bar_circle_fill": [
-      63673
-    ],
-    "chart_bar_fill": [
+    "chart_bar": [
       62918
     ],
-    "chart_bar_square": [
+    "chart_bar_alt_fill": [
+      63672
+    ],
+    "chart_bar_circle": [
+      63673
+    ],
+    "chart_bar_circle_fill": [
       63674
     ],
-    "chart_bar_square_fill": [
-      63675
-    ],
-    "chart_pie": [
+    "chart_bar_fill": [
       62919
     ],
-    "chart_pie_fill": [
+    "chart_bar_square": [
+      63675
+    ],
+    "chart_bar_square_fill": [
+      63676
+    ],
+    "chart_pie": [
       62920
+    ],
+    "chart_pie_fill": [
+      62921
     ],
     "chat_bubble": [
       62459
     ],
     "chat_bubble_2": [
-      63676
-    ],
-    "chat_bubble_2_fill": [
       63677
     ],
-    "chat_bubble_fill": [
+    "chat_bubble_2_fill": [
       63678
     ],
-    "chat_bubble_text": [
+    "chat_bubble_fill": [
       63679
     ],
-    "chat_bubble_text_fill": [
+    "chat_bubble_text": [
       63680
+    ],
+    "chat_bubble_text_fill": [
+      63681
     ],
     "checkmark": [
       62461
     ],
     "checkmark_alt": [
-      63681
-    ],
-    "checkmark_alt_circle": [
       63682
     ],
-    "checkmark_alt_circle_fill": [
+    "checkmark_alt_circle": [
       63683
+    ],
+    "checkmark_alt_circle_fill": [
+      63684
     ],
     "checkmark_circle": [
       62462
@@ -894,58 +906,58 @@
       62463
     ],
     "checkmark_rectangle": [
-      62921
-    ],
-    "checkmark_rectangle_fill": [
       62922
     ],
-    "checkmark_seal": [
+    "checkmark_rectangle_fill": [
       62923
     ],
-    "checkmark_seal_fill": [
+    "checkmark_seal": [
       62924
     ],
-    "checkmark_shield": [
+    "checkmark_seal_fill": [
       62925
     ],
-    "checkmark_shield_fill": [
+    "checkmark_shield": [
       62926
     ],
-    "checkmark_square": [
+    "checkmark_shield_fill": [
       62927
     ],
-    "checkmark_square_fill": [
+    "checkmark_square": [
       62928
+    ],
+    "checkmark_square_fill": [
+      62929
     ],
     "chevron_back": [
       62415
     ],
     "chevron_compact_down": [
-      62929
-    ],
-    "chevron_compact_left": [
       62930
     ],
-    "chevron_compact_right": [
+    "chevron_compact_left": [
       62931
     ],
-    "chevron_compact_up": [
+    "chevron_compact_right": [
       62932
     ],
-    "chevron_down": [
+    "chevron_compact_up": [
       62933
     ],
-    "chevron_down_circle": [
+    "chevron_down": [
       62934
     ],
-    "chevron_down_circle_fill": [
+    "chevron_down_circle": [
       62935
     ],
-    "chevron_down_square": [
+    "chevron_down_circle_fill": [
       62936
     ],
-    "chevron_down_square_fill": [
+    "chevron_down_square": [
       62937
+    ],
+    "chevron_down_square_fill": [
+      62938
     ],
     "chevron_forward": [
       62417
@@ -954,91 +966,91 @@
       62418
     ],
     "chevron_left_2": [
-      62938
-    ],
-    "chevron_left_circle": [
       62939
     ],
-    "chevron_left_circle_fill": [
+    "chevron_left_circle": [
       62940
     ],
-    "chevron_left_slash_chevron_right": [
+    "chevron_left_circle_fill": [
       62941
     ],
-    "chevron_left_square": [
+    "chevron_left_slash_chevron_right": [
       62942
     ],
-    "chevron_left_square_fill": [
+    "chevron_left_square": [
       62943
+    ],
+    "chevron_left_square_fill": [
+      62944
     ],
     "chevron_right": [
       62419
     ],
     "chevron_right_2": [
-      62944
-    ],
-    "chevron_right_circle": [
       62945
     ],
-    "chevron_right_circle_fill": [
+    "chevron_right_circle": [
       62946
     ],
-    "chevron_right_square": [
+    "chevron_right_circle_fill": [
       62947
     ],
-    "chevron_right_square_fill": [
+    "chevron_right_square": [
       62948
     ],
-    "chevron_up": [
+    "chevron_right_square_fill": [
       62949
     ],
-    "chevron_up_chevron_down": [
+    "chevron_up": [
       62950
     ],
-    "chevron_up_circle": [
+    "chevron_up_chevron_down": [
       62951
     ],
-    "chevron_up_circle_fill": [
+    "chevron_up_circle": [
       62952
     ],
-    "chevron_up_square": [
+    "chevron_up_circle_fill": [
       62953
     ],
-    "chevron_up_square_fill": [
+    "chevron_up_square": [
       62954
+    ],
+    "chevron_up_square_fill": [
+      62955
     ],
     "circle": [
       62465
     ],
     "circle_bottomthird_split": [
-      62955
+      62956
     ],
     "circle_fill": [
       62464
     ],
     "circle_grid_3x3": [
-      62956
-    ],
-    "circle_grid_3x3_fill": [
       62957
     ],
-    "circle_grid_hex": [
+    "circle_grid_3x3_fill": [
       62958
     ],
-    "circle_grid_hex_fill": [
+    "circle_grid_hex": [
       62959
     ],
-    "circle_lefthalf_fill": [
+    "circle_grid_hex_fill": [
       62960
     ],
-    "circle_righthalf_fill": [
+    "circle_lefthalf_fill": [
       62961
     ],
-    "clear": [
+    "circle_righthalf_fill": [
       62962
     ],
-    "clear_fill": [
+    "clear": [
       62963
+    ],
+    "clear_fill": [
+      62964
     ],
     "clock": [
       62466,
@@ -1049,418 +1061,418 @@
       62655
     ],
     "cloud": [
-      62964
-    ],
-    "cloud_bolt": [
       62965
     ],
-    "cloud_bolt_fill": [
+    "cloud_bolt": [
       62966
     ],
-    "cloud_bolt_rain": [
+    "cloud_bolt_fill": [
       62967
     ],
-    "cloud_bolt_rain_fill": [
+    "cloud_bolt_rain": [
       62968
     ],
-    "cloud_download": [
-      63684
-    ],
-    "cloud_download_fill": [
-      63685
-    ],
-    "cloud_drizzle": [
+    "cloud_bolt_rain_fill": [
       62969
     ],
-    "cloud_drizzle_fill": [
-      62970
+    "cloud_download": [
+      63685
     ],
-    "cloud_fill": [
-      62971
-    ],
-    "cloud_fog": [
-      62972
-    ],
-    "cloud_fog_fill": [
-      62973
-    ],
-    "cloud_hail": [
-      62974
-    ],
-    "cloud_hail_fill": [
-      62975
-    ],
-    "cloud_heavyrain": [
-      62976
-    ],
-    "cloud_heavyrain_fill": [
-      62977
-    ],
-    "cloud_moon": [
-      62978
-    ],
-    "cloud_moon_bolt": [
-      62979
-    ],
-    "cloud_moon_bolt_fill": [
-      62980
-    ],
-    "cloud_moon_fill": [
-      62981
-    ],
-    "cloud_moon_rain": [
-      62982
-    ],
-    "cloud_moon_rain_fill": [
-      62983
-    ],
-    "cloud_rain": [
-      62984
-    ],
-    "cloud_rain_fill": [
-      62985
-    ],
-    "cloud_sleet": [
-      62986
-    ],
-    "cloud_sleet_fill": [
-      62987
-    ],
-    "cloud_snow": [
-      62988
-    ],
-    "cloud_snow_fill": [
-      62989
-    ],
-    "cloud_sun": [
-      62990
-    ],
-    "cloud_sun_bolt": [
-      62991
-    ],
-    "cloud_sun_bolt_fill": [
-      62992
-    ],
-    "cloud_sun_fill": [
-      62993
-    ],
-    "cloud_sun_rain": [
-      62994
-    ],
-    "cloud_sun_rain_fill": [
-      62995
-    ],
-    "cloud_upload": [
+    "cloud_download_fill": [
       63686
     ],
-    "cloud_upload_fill": [
-      63687
+    "cloud_drizzle": [
+      62970
     ],
-    "color_filter": [
-      63688
+    "cloud_drizzle_fill": [
+      62971
     ],
-    "color_filter_fill": [
-      63689
+    "cloud_fill": [
+      62972
     ],
-    "command": [
+    "cloud_fog": [
+      62973
+    ],
+    "cloud_fog_fill": [
+      62974
+    ],
+    "cloud_hail": [
+      62975
+    ],
+    "cloud_hail_fill": [
+      62976
+    ],
+    "cloud_heavyrain": [
+      62977
+    ],
+    "cloud_heavyrain_fill": [
+      62978
+    ],
+    "cloud_moon": [
+      62979
+    ],
+    "cloud_moon_bolt": [
+      62980
+    ],
+    "cloud_moon_bolt_fill": [
+      62981
+    ],
+    "cloud_moon_fill": [
+      62982
+    ],
+    "cloud_moon_rain": [
+      62983
+    ],
+    "cloud_moon_rain_fill": [
+      62984
+    ],
+    "cloud_rain": [
+      62985
+    ],
+    "cloud_rain_fill": [
+      62986
+    ],
+    "cloud_sleet": [
+      62987
+    ],
+    "cloud_sleet_fill": [
+      62988
+    ],
+    "cloud_snow": [
+      62989
+    ],
+    "cloud_snow_fill": [
+      62990
+    ],
+    "cloud_sun": [
+      62991
+    ],
+    "cloud_sun_bolt": [
+      62992
+    ],
+    "cloud_sun_bolt_fill": [
+      62993
+    ],
+    "cloud_sun_fill": [
+      62994
+    ],
+    "cloud_sun_rain": [
+      62995
+    ],
+    "cloud_sun_rain_fill": [
       62996
     ],
-    "compass": [
+    "cloud_upload": [
+      63687
+    ],
+    "cloud_upload_fill": [
+      63688
+    ],
+    "color_filter": [
+      63689
+    ],
+    "color_filter_fill": [
       63690
     ],
-    "compass_fill": [
-      63691
-    ],
-    "control": [
+    "command": [
       62997
     ],
-    "creditcard": [
-      62998
+    "compass": [
+      63691
     ],
-    "creditcard_fill": [
-      62999
-    ],
-    "crop": [
-      63000
-    ],
-    "crop_rotate": [
-      63001
-    ],
-    "cube": [
-      63002
-    ],
-    "cube_box": [
-      63003
-    ],
-    "cube_box_fill": [
-      63004
-    ],
-    "cube_fill": [
-      63005
-    ],
-    "cursor_rays": [
-      63006
-    ],
-    "decrease_indent": [
-      63007
-    ],
-    "decrease_quotelevel": [
-      63008
-    ],
-    "delete_left": [
-      63009
-    ],
-    "delete_left_fill": [
-      63010
-    ],
-    "delete_right": [
-      63011
-    ],
-    "delete_right_fill": [
-      63012
-    ],
-    "desktopcomputer": [
-      63013
-    ],
-    "device_desktop": [
+    "compass_fill": [
       63692
     ],
-    "device_laptop": [
-      63693
+    "control": [
+      62998
     ],
-    "device_phone_landscape": [
-      63694
+    "creditcard": [
+      62999
     ],
-    "device_phone_portrait": [
-      63695
+    "creditcard_fill": [
+      63000
     ],
-    "dial": [
+    "crop": [
+      63001
+    ],
+    "crop_rotate": [
+      63002
+    ],
+    "cube": [
+      63003
+    ],
+    "cube_box": [
+      63004
+    ],
+    "cube_box_fill": [
+      63005
+    ],
+    "cube_fill": [
+      63006
+    ],
+    "cursor_rays": [
+      63007
+    ],
+    "decrease_indent": [
+      63008
+    ],
+    "decrease_quotelevel": [
+      63009
+    ],
+    "delete_left": [
+      63010
+    ],
+    "delete_left_fill": [
+      63011
+    ],
+    "delete_right": [
+      63012
+    ],
+    "delete_right_fill": [
+      63013
+    ],
+    "desktopcomputer": [
       63014
     ],
-    "dial_fill": [
-      63015
+    "device_desktop": [
+      63693
     ],
-    "divide": [
-      63016
+    "device_laptop": [
+      63694
     ],
-    "divide_circle": [
-      63017
+    "device_phone_landscape": [
+      63695
     ],
-    "divide_circle_fill": [
-      63018
-    ],
-    "divide_square": [
-      63019
-    ],
-    "divide_square_fill": [
-      63020
-    ],
-    "doc": [
-      63021
-    ],
-    "doc_append": [
-      63022
-    ],
-    "doc_chart": [
+    "device_phone_portrait": [
       63696
     ],
-    "doc_chart_fill": [
-      63697
+    "dial": [
+      63015
     ],
-    "doc_checkmark": [
-      63698
+    "dial_fill": [
+      63016
     ],
-    "doc_checkmark_fill": [
-      63699
+    "divide": [
+      63017
     ],
-    "doc_circle": [
+    "divide_circle": [
+      63018
+    ],
+    "divide_circle_fill": [
+      63019
+    ],
+    "divide_square": [
+      63020
+    ],
+    "divide_square_fill": [
+      63021
+    ],
+    "doc": [
+      63022
+    ],
+    "doc_append": [
       63023
     ],
-    "doc_circle_fill": [
-      63024
+    "doc_chart": [
+      63697
     ],
-    "doc_fill": [
-      63025
+    "doc_chart_fill": [
+      63698
     ],
-    "doc_on_clipboard": [
-      63026
+    "doc_checkmark": [
+      63699
     ],
-    "doc_on_clipboard_fill": [
-      63027
-    ],
-    "doc_on_doc": [
-      63028
-    ],
-    "doc_on_doc_fill": [
-      63029
-    ],
-    "doc_person": [
+    "doc_checkmark_fill": [
       63700
     ],
-    "doc_person_fill": [
-      63701
+    "doc_circle": [
+      63024
     ],
-    "doc_plaintext": [
+    "doc_circle_fill": [
+      63025
+    ],
+    "doc_fill": [
+      63026
+    ],
+    "doc_on_clipboard": [
+      63027
+    ],
+    "doc_on_clipboard_fill": [
+      63028
+    ],
+    "doc_on_doc": [
+      63029
+    ],
+    "doc_on_doc_fill": [
       63030
     ],
-    "doc_richtext": [
-      63031
+    "doc_person": [
+      63701
     ],
-    "doc_text": [
-      63032
-    ],
-    "doc_text_fill": [
-      63033
-    ],
-    "doc_text_search": [
-      63034
-    ],
-    "doc_text_viewfinder": [
-      63035
-    ],
-    "dot_radiowaves_left_right": [
-      63036
-    ],
-    "dot_radiowaves_right": [
-      63037
-    ],
-    "dot_square": [
-      63038
-    ],
-    "dot_square_fill": [
-      63039
-    ],
-    "download_circle": [
+    "doc_person_fill": [
       63702
     ],
-    "download_circle_fill": [
-      63703
+    "doc_plaintext": [
+      63031
     ],
-    "drop": [
-      63704
+    "doc_richtext": [
+      63032
     ],
-    "drop_fill": [
-      63705
+    "doc_text": [
+      63033
     ],
-    "drop_triangle": [
+    "doc_text_fill": [
+      63034
+    ],
+    "doc_text_search": [
+      63035
+    ],
+    "doc_text_viewfinder": [
+      63036
+    ],
+    "dot_radiowaves_left_right": [
+      63037
+    ],
+    "dot_radiowaves_right": [
+      63038
+    ],
+    "dot_square": [
+      63039
+    ],
+    "dot_square_fill": [
       63040
     ],
-    "drop_triangle_fill": [
+    "download_circle": [
+      63703
+    ],
+    "download_circle_fill": [
+      63704
+    ],
+    "drop": [
+      63705
+    ],
+    "drop_fill": [
+      63706
+    ],
+    "drop_triangle": [
       63041
     ],
-    "ear": [
+    "drop_triangle_fill": [
       63042
     ],
-    "eject": [
+    "ear": [
       63043
     ],
-    "eject_fill": [
+    "eject": [
       63044
     ],
-    "ellipses_bubble": [
+    "eject_fill": [
       63045
     ],
-    "ellipses_bubble_fill": [
+    "ellipses_bubble": [
       63046
+    ],
+    "ellipses_bubble_fill": [
+      63047
     ],
     "ellipsis": [
       62570
     ],
     "ellipsis_circle": [
-      63047
-    ],
-    "ellipsis_circle_fill": [
       63048
     ],
-    "ellipsis_vertical": [
-      63706
+    "ellipsis_circle_fill": [
+      63049
     ],
-    "ellipsis_vertical_circle": [
+    "ellipsis_vertical": [
       63707
     ],
-    "ellipsis_vertical_circle_fill": [
+    "ellipsis_vertical_circle": [
       63708
+    ],
+    "ellipsis_vertical_circle_fill": [
+      63709
     ],
     "envelope": [
       62498
     ],
     "envelope_badge": [
-      63049
-    ],
-    "envelope_badge_fill": [
       63050
     ],
-    "envelope_circle": [
+    "envelope_badge_fill": [
       63051
     ],
-    "envelope_circle_fill": [
+    "envelope_circle": [
       63052
+    ],
+    "envelope_circle_fill": [
+      63053
     ],
     "envelope_fill": [
       62499
     ],
     "envelope_open": [
-      63053
-    ],
-    "envelope_open_fill": [
       63054
     ],
-    "equal": [
+    "envelope_open_fill": [
       63055
     ],
-    "equal_circle": [
+    "equal": [
       63056
     ],
-    "equal_circle_fill": [
+    "equal_circle": [
       63057
     ],
-    "equal_square": [
+    "equal_circle_fill": [
       63058
     ],
-    "equal_square_fill": [
+    "equal_square": [
       63059
     ],
-    "escape": [
+    "equal_square_fill": [
       63060
     ],
-    "exclamationmark": [
+    "escape": [
       63061
     ],
-    "exclamationmark_bubble": [
+    "exclamationmark": [
       63062
     ],
-    "exclamationmark_bubble_fill": [
+    "exclamationmark_bubble": [
       63063
     ],
-    "exclamationmark_circle": [
+    "exclamationmark_bubble_fill": [
       63064
     ],
-    "exclamationmark_circle_fill": [
+    "exclamationmark_circle": [
       63065
     ],
-    "exclamationmark_octagon": [
+    "exclamationmark_circle_fill": [
       63066
     ],
-    "exclamationmark_octagon_fill": [
+    "exclamationmark_octagon": [
       63067
     ],
-    "exclamationmark_shield": [
+    "exclamationmark_octagon_fill": [
       63068
     ],
-    "exclamationmark_shield_fill": [
+    "exclamationmark_shield": [
       63069
     ],
-    "exclamationmark_square": [
+    "exclamationmark_shield_fill": [
       63070
     ],
-    "exclamationmark_square_fill": [
+    "exclamationmark_square": [
       63071
     ],
-    "exclamationmark_triangle": [
+    "exclamationmark_square_fill": [
       63072
     ],
-    "exclamationmark_triangle_fill": [
+    "exclamationmark_triangle": [
       63073
+    ],
+    "exclamationmark_triangle_fill": [
+      63074
     ],
     "eye": [
       62500
@@ -1469,143 +1481,143 @@
       62501
     ],
     "eye_slash": [
-      63074
-    ],
-    "eye_slash_fill": [
       63075
     ],
-    "eyedropper": [
+    "eye_slash_fill": [
       63076
     ],
-    "eyedropper_full": [
+    "eyedropper": [
       63077
     ],
-    "eyedropper_halffull": [
+    "eyedropper_full": [
       63078
     ],
-    "eyeglasses": [
+    "eyedropper_halffull": [
       63079
     ],
-    "f_cursive": [
+    "eyeglasses": [
       63080
     ],
-    "f_cursive_circle": [
+    "f_cursive": [
       63081
     ],
-    "f_cursive_circle_fill": [
+    "f_cursive_circle": [
       63082
     ],
-    "film": [
+    "f_cursive_circle_fill": [
       63083
     ],
-    "film_fill": [
+    "film": [
       63084
+    ],
+    "film_fill": [
+      63085
     ],
     "flag": [
       62508
     ],
     "flag_circle": [
-      63085
-    ],
-    "flag_circle_fill": [
       63086
     ],
-    "flag_fill": [
+    "flag_circle_fill": [
       63087
     ],
-    "flag_slash": [
+    "flag_fill": [
       63088
     ],
-    "flag_slash_fill": [
+    "flag_slash": [
       63089
     ],
-    "flame": [
+    "flag_slash_fill": [
       63090
     ],
-    "flame_fill": [
+    "flame": [
       63091
     ],
-    "floppy_disk": [
-      63709
-    ],
-    "flowchart": [
+    "flame_fill": [
       63092
     ],
-    "flowchart_fill": [
+    "floppy_disk": [
+      63710
+    ],
+    "flowchart": [
       63093
+    ],
+    "flowchart_fill": [
+      63094
     ],
     "folder": [
       62516,
       62346
     ],
     "folder_badge_minus": [
-      63094
-    ],
-    "folder_badge_person_crop": [
       63095
     ],
-    "folder_badge_plus": [
+    "folder_badge_person_crop": [
       63096
     ],
-    "folder_circle": [
+    "folder_badge_plus": [
       63097
     ],
-    "folder_circle_fill": [
+    "folder_circle": [
       63098
+    ],
+    "folder_circle_fill": [
+      63099
     ],
     "folder_fill": [
       62517
     ],
     "folder_fill_badge_minus": [
-      63099
-    ],
-    "folder_fill_badge_person_crop": [
       63100
     ],
-    "folder_fill_badge_plus": [
+    "folder_fill_badge_person_crop": [
       63101
     ],
-    "forward": [
+    "folder_fill_badge_plus": [
       63102
     ],
-    "forward_end": [
+    "forward": [
       63103
     ],
-    "forward_end_alt": [
+    "forward_end": [
       63104
     ],
-    "forward_end_alt_fill": [
+    "forward_end_alt": [
       63105
     ],
-    "forward_end_fill": [
+    "forward_end_alt_fill": [
       63106
     ],
-    "forward_fill": [
+    "forward_end_fill": [
       63107
     ],
-    "function": [
+    "forward_fill": [
       63108
     ],
-    "fx": [
+    "function": [
       63109
+    ],
+    "fx": [
+      63110
     ],
     "gamecontroller": [
       62522
     ],
     "gamecontroller_alt_fill": [
-      63710
+      63711
     ],
     "gamecontroller_fill": [
       62523
     ],
     "gauge": [
-      63110
-    ],
-    "gauge_badge_minus": [
       63111
     ],
-    "gauge_badge_plus": [
+    "gauge_badge_minus": [
       63112
+    ],
+    "gauge_badge_plus": [
+      63113
     ],
     "gear": [
       62481,
@@ -1619,458 +1631,464 @@
       62525
     ],
     "gift": [
-      63113
-    ],
-    "gift_alt": [
       63114
     ],
-    "gift_alt_fill": [
+    "gift_alt": [
       63115
     ],
-    "gift_fill": [
+    "gift_alt_fill": [
       63116
     ],
-    "globe": [
+    "gift_fill": [
       63117
     ],
-    "gobackward": [
+    "globe": [
       63118
     ],
-    "gobackward_10": [
+    "gobackward": [
       63119
     ],
-    "gobackward_15": [
+    "gobackward_10": [
       63120
     ],
-    "gobackward_30": [
+    "gobackward_15": [
       63121
     ],
-    "gobackward_45": [
+    "gobackward_30": [
       63122
     ],
-    "gobackward_60": [
+    "gobackward_45": [
       63123
     ],
-    "gobackward_75": [
+    "gobackward_60": [
       63124
     ],
-    "gobackward_90": [
+    "gobackward_75": [
       63125
     ],
-    "gobackward_minus": [
+    "gobackward_90": [
       63126
     ],
-    "goforward": [
+    "gobackward_minus": [
       63127
     ],
-    "goforward_10": [
+    "goforward": [
       63128
     ],
-    "goforward_15": [
+    "goforward_10": [
       63129
     ],
-    "goforward_30": [
+    "goforward_15": [
       63130
     ],
-    "goforward_45": [
+    "goforward_30": [
       63131
     ],
-    "goforward_60": [
+    "goforward_45": [
       63132
     ],
-    "goforward_75": [
+    "goforward_60": [
       63133
     ],
-    "goforward_90": [
+    "goforward_75": [
       63134
     ],
-    "goforward_plus": [
+    "goforward_90": [
       63135
     ],
-    "graph_circle": [
-      63711
-    ],
-    "graph_circle_fill": [
-      63712
-    ],
-    "graph_square": [
-      63713
-    ],
-    "graph_square_fill": [
-      63714
-    ],
-    "greaterthan": [
+    "goforward_plus": [
       63136
     ],
-    "greaterthan_circle": [
+    "graph_circle": [
+      63712
+    ],
+    "graph_circle_fill": [
+      63713
+    ],
+    "graph_square": [
+      63714
+    ],
+    "graph_square_fill": [
+      63715
+    ],
+    "greaterthan": [
       63137
     ],
-    "greaterthan_circle_fill": [
+    "greaterthan_circle": [
       63138
     ],
-    "greaterthan_square": [
+    "greaterthan_circle_fill": [
       63139
     ],
-    "greaterthan_square_fill": [
+    "greaterthan_square": [
       63140
     ],
-    "grid": [
+    "greaterthan_square_fill": [
       63141
     ],
-    "grid_circle": [
+    "grid": [
       63142
     ],
-    "grid_circle_fill": [
+    "grid_circle": [
       63143
     ],
-    "guitars": [
+    "grid_circle_fill": [
       63144
     ],
-    "hammer": [
+    "guitars": [
       63145
     ],
-    "hammer_fill": [
+    "hammer": [
       63146
     ],
-    "hand_draw": [
+    "hammer_fill": [
       63147
     ],
-    "hand_draw_fill": [
+    "hand_draw": [
       63148
     ],
-    "hand_point_left": [
+    "hand_draw_fill": [
       63149
     ],
-    "hand_point_left_fill": [
+    "hand_point_left": [
       63150
     ],
-    "hand_point_right": [
+    "hand_point_left_fill": [
       63151
     ],
-    "hand_point_right_fill": [
+    "hand_point_right": [
       63152
     ],
-    "hand_raised": [
+    "hand_point_right_fill": [
       63153
     ],
-    "hand_raised_fill": [
+    "hand_raised": [
       63154
     ],
-    "hand_raised_slash": [
+    "hand_raised_fill": [
       63155
     ],
-    "hand_raised_slash_fill": [
+    "hand_raised_slash": [
       63156
     ],
-    "hand_thumbsdown": [
+    "hand_raised_slash_fill": [
       63157
     ],
-    "hand_thumbsdown_fill": [
+    "hand_thumbsdown": [
       63158
     ],
-    "hand_thumbsup": [
+    "hand_thumbsdown_fill": [
       63159
     ],
-    "hand_thumbsup_fill": [
+    "hand_thumbsup": [
       63160
     ],
-    "hare": [
+    "hand_thumbsup_fill": [
       63161
     ],
-    "hare_fill": [
+    "hare": [
       63162
     ],
-    "headphones": [
+    "hare_fill": [
       63163
+    ],
+    "headphones": [
+      63164
     ],
     "heart": [
       62530
     ],
     "heart_circle": [
-      63164
+      63165
     ],
     "heart_circle_fill": [
-      63165
+      63166
     ],
     "heart_fill": [
       62531
     ],
     "heart_slash": [
-      63166
-    ],
-    "heart_slash_circle": [
       63167
     ],
-    "heart_slash_circle_fill": [
+    "heart_slash_circle": [
       63168
     ],
-    "heart_slash_fill": [
+    "heart_slash_circle_fill": [
       63169
     ],
-    "helm": [
+    "heart_slash_fill": [
       63170
     ],
-    "hexagon": [
+    "helm": [
       63171
     ],
-    "hexagon_fill": [
+    "hexagon": [
       63172
     ],
-    "hifispeaker": [
+    "hexagon_fill": [
       63173
     ],
-    "hifispeaker_fill": [
+    "hifispeaker": [
       63174
     ],
-    "hourglass": [
+    "hifispeaker_fill": [
       63175
     ],
-    "hourglass_bottomhalf_fill": [
+    "hourglass": [
       63176
     ],
-    "hourglass_tophalf_fill": [
+    "hourglass_bottomhalf_fill": [
       63177
+    ],
+    "hourglass_tophalf_fill": [
+      63178
     ],
     "house": [
       62535
     ],
     "house_alt": [
-      63715
-    ],
-    "house_alt_fill": [
       63716
     ],
-    "house_fill": [
-      63178
+    "house_alt_fill": [
+      63717
     ],
-    "hurricane": [
+    "house_fill": [
       63179
     ],
-    "increase_indent": [
+    "hurricane": [
       63180
     ],
-    "increase_quotelevel": [
+    "increase_indent": [
       63181
+    ],
+    "increase_quotelevel": [
+      63182
     ],
     "infinite": [
       62537,
       62538
     ],
     "info": [
-      63182
+      63183
     ],
     "info_circle": [
       62540
     ],
     "info_circle_fill": [
-      63183
-    ],
-    "italic": [
       63184
     ],
-    "keyboard": [
+    "italic": [
       63185
     ],
-    "keyboard_chevron_compact_down": [
+    "keyboard": [
       63186
     ],
-    "largecircle_fill_circle": [
+    "keyboard_chevron_compact_down": [
       63187
     ],
-    "lasso": [
+    "lab_flask": [
+      62512
+    ],
+    "lab_flask_solid": [
+      62513
+    ],
+    "largecircle_fill_circle": [
       63188
     ],
-    "layers": [
-      63717
-    ],
-    "layers_alt": [
-      63718
-    ],
-    "layers_alt_fill": [
-      63719
-    ],
-    "layers_fill": [
-      63720
-    ],
-    "leaf_arrow_circlepath": [
+    "lasso": [
       63189
     ],
-    "lessthan": [
+    "layers": [
+      63718
+    ],
+    "layers_alt": [
+      63719
+    ],
+    "layers_alt_fill": [
+      63720
+    ],
+    "layers_fill": [
+      63721
+    ],
+    "leaf_arrow_circlepath": [
       63190
     ],
-    "lessthan_circle": [
+    "lessthan": [
       63191
     ],
-    "lessthan_circle_fill": [
+    "lessthan_circle": [
       63192
     ],
-    "lessthan_square": [
+    "lessthan_circle_fill": [
       63193
     ],
-    "lessthan_square_fill": [
+    "lessthan_square": [
       63194
     ],
-    "light_max": [
+    "lessthan_square_fill": [
       63195
     ],
-    "light_min": [
+    "light_max": [
       63196
     ],
-    "lightbulb": [
+    "light_min": [
       63197
     ],
-    "lightbulb_fill": [
+    "lightbulb": [
       63198
     ],
-    "lightbulb_slash": [
+    "lightbulb_fill": [
       63199
     ],
-    "lightbulb_slash_fill": [
+    "lightbulb_slash": [
       63200
     ],
-    "line_horizontal_3": [
+    "lightbulb_slash_fill": [
       63201
     ],
-    "line_horizontal_3_decrease": [
+    "line_horizontal_3": [
       63202
     ],
-    "line_horizontal_3_decrease_circle": [
+    "line_horizontal_3_decrease": [
       63203
     ],
-    "line_horizontal_3_decrease_circle_fill": [
+    "line_horizontal_3_decrease_circle": [
       63204
     ],
-    "link": [
+    "line_horizontal_3_decrease_circle_fill": [
       63205
     ],
-    "link_circle": [
+    "link": [
       63206
     ],
-    "link_circle_fill": [
+    "link_circle": [
       63207
     ],
-    "list_bullet": [
+    "link_circle_fill": [
       63208
     ],
-    "list_bullet_below_rectangle": [
+    "list_bullet": [
       63209
     ],
-    "list_bullet_indent": [
+    "list_bullet_below_rectangle": [
       63210
     ],
-    "list_dash": [
+    "list_bullet_indent": [
       63211
     ],
-    "list_number": [
+    "list_dash": [
       63212
     ],
-    "list_number_rtl": [
+    "list_number": [
       63213
     ],
-    "location": [
+    "list_number_rtl": [
       63214
     ],
-    "location_circle": [
+    "location": [
       63215
     ],
-    "location_circle_fill": [
+    "location_circle": [
       63216
     ],
-    "location_fill": [
+    "location_circle_fill": [
       63217
     ],
-    "location_north": [
+    "location_fill": [
       63218
     ],
-    "location_north_fill": [
+    "location_north": [
       63219
     ],
-    "location_north_line": [
+    "location_north_fill": [
       63220
     ],
-    "location_north_line_fill": [
+    "location_north_line": [
       63221
     ],
-    "location_slash": [
+    "location_north_line_fill": [
       63222
     ],
-    "location_slash_fill": [
+    "location_slash": [
       63223
+    ],
+    "location_slash_fill": [
+      63224
     ],
     "lock": [
       62664
     ],
     "lock_circle": [
-      63224
+      63225
     ],
     "lock_circle_fill": [
-      63225
+      63226
     ],
     "lock_fill": [
       62665
     ],
     "lock_open": [
-      63226
-    ],
-    "lock_open_fill": [
       63227
     ],
-    "lock_rotation": [
+    "lock_open_fill": [
       63228
     ],
-    "lock_rotation_open": [
+    "lock_rotation": [
       63229
     ],
-    "lock_shield": [
+    "lock_rotation_open": [
       63230
     ],
-    "lock_shield_fill": [
+    "lock_shield": [
       63231
     ],
-    "lock_slash": [
+    "lock_shield_fill": [
       63232
     ],
-    "lock_slash_fill": [
+    "lock_slash": [
       63233
     ],
-    "macwindow": [
+    "lock_slash_fill": [
       63234
     ],
-    "map": [
+    "macwindow": [
       63235
     ],
-    "map_fill": [
+    "map": [
       63236
     ],
-    "map_pin": [
+    "map_fill": [
       63237
     ],
-    "map_pin_ellipse": [
+    "map_pin": [
       63238
     ],
-    "map_pin_slash": [
+    "map_pin_ellipse": [
       63239
     ],
-    "memories": [
+    "map_pin_slash": [
       63240
     ],
-    "memories_badge_minus": [
+    "memories": [
       63241
     ],
-    "memories_badge_plus": [
+    "memories_badge_minus": [
       63242
     ],
-    "metronome": [
+    "memories_badge_plus": [
       63243
+    ],
+    "metronome": [
+      63244
     ],
     "mic": [
       62560
     ],
     "mic_circle": [
-      63244
+      63245
     ],
     "mic_circle_fill": [
-      63245
+      63246
     ],
     "mic_fill": [
       62561
@@ -2079,133 +2097,133 @@
       62559
     ],
     "mic_slash_fill": [
-      63246
+      63247
     ],
     "minus": [
-      63247
+      63248
     ],
     "minus_circle": [
       62563
     ],
     "minus_circle_fill": [
-      63248
-    ],
-    "minus_rectangle": [
       63249
     ],
-    "minus_rectangle_fill": [
+    "minus_rectangle": [
       63250
     ],
-    "minus_slash_plus": [
+    "minus_rectangle_fill": [
       63251
     ],
-    "minus_square": [
+    "minus_slash_plus": [
       63252
     ],
-    "minus_square_fill": [
+    "minus_square": [
       63253
     ],
-    "money_dollar": [
-      63721
-    ],
-    "money_dollar_circle": [
-      63722
-    ],
-    "money_dollar_circle_fill": [
-      63723
-    ],
-    "money_euro": [
-      63724
-    ],
-    "money_euro_circle": [
-      63725
-    ],
-    "money_euro_circle_fill": [
-      63726
-    ],
-    "money_pound": [
-      63727
-    ],
-    "money_pound_circle": [
-      63728
-    ],
-    "money_pound_circle_fill": [
-      63729
-    ],
-    "money_rubl": [
-      63730
-    ],
-    "money_rubl_circle": [
-      63731
-    ],
-    "money_rubl_circle_fill": [
-      63732
-    ],
-    "money_yen": [
-      63733
-    ],
-    "money_yen_circle": [
-      63734
-    ],
-    "money_yen_circle_fill": [
-      63735
-    ],
-    "moon": [
+    "minus_square_fill": [
       63254
     ],
-    "moon_circle": [
-      63255
+    "money_dollar": [
+      63722
     ],
-    "moon_circle_fill": [
-      63256
+    "money_dollar_circle": [
+      63723
     ],
-    "moon_fill": [
-      63257
+    "money_dollar_circle_fill": [
+      63724
     ],
-    "moon_stars": [
-      63258
+    "money_euro": [
+      63725
     ],
-    "moon_stars_fill": [
-      63259
+    "money_euro_circle": [
+      63726
     ],
-    "moon_zzz": [
-      63260
+    "money_euro_circle_fill": [
+      63727
     ],
-    "moon_zzz_fill": [
-      63261
+    "money_pound": [
+      63728
     ],
-    "move": [
+    "money_pound_circle": [
+      63729
+    ],
+    "money_pound_circle_fill": [
+      63730
+    ],
+    "money_rubl": [
+      63731
+    ],
+    "money_rubl_circle": [
+      63732
+    ],
+    "money_rubl_circle_fill": [
+      63733
+    ],
+    "money_yen": [
+      63734
+    ],
+    "money_yen_circle": [
+      63735
+    ],
+    "money_yen_circle_fill": [
       63736
     ],
-    "multiply": [
+    "moon": [
+      63255
+    ],
+    "moon_circle": [
+      63256
+    ],
+    "moon_circle_fill": [
+      63257
+    ],
+    "moon_fill": [
+      63258
+    ],
+    "moon_stars": [
+      63259
+    ],
+    "moon_stars_fill": [
+      63260
+    ],
+    "moon_zzz": [
+      63261
+    ],
+    "moon_zzz_fill": [
       63262
     ],
-    "multiply_circle": [
-      63263
-    ],
-    "multiply_circle_fill": [
-      63264
-    ],
-    "multiply_square": [
-      63265
-    ],
-    "multiply_square_fill": [
-      63266
-    ],
-    "music_albums": [
+    "move": [
       63737
     ],
-    "music_albums_fill": [
-      63738
+    "multiply": [
+      63263
     ],
-    "music_house": [
+    "multiply_circle": [
+      63264
+    ],
+    "multiply_circle_fill": [
+      63265
+    ],
+    "multiply_square": [
+      63266
+    ],
+    "multiply_square_fill": [
       63267
     ],
-    "music_house_fill": [
+    "music_albums": [
+      63738
+    ],
+    "music_albums_fill": [
+      63739
+    ],
+    "music_house": [
       63268
     ],
-    "music_mic": [
+    "music_house_fill": [
       63269
+    ],
+    "music_mic": [
+      63270
     ],
     "music_note": [
       62571
@@ -2214,70 +2232,76 @@
       62572
     ],
     "music_note_list": [
-      63270
-    ],
-    "nosign": [
       63271
     ],
-    "number": [
+    "news": [
+      62577
+    ],
+    "news_solid": [
+      62578
+    ],
+    "nosign": [
       63272
     ],
-    "number_circle": [
+    "number": [
       63273
     ],
-    "number_circle_fill": [
+    "number_circle": [
       63274
     ],
-    "number_square": [
+    "number_circle_fill": [
       63275
     ],
-    "number_square_fill": [
+    "number_square": [
       63276
     ],
-    "option": [
+    "number_square_fill": [
       63277
     ],
-    "paintbrush": [
+    "option": [
       63278
     ],
-    "paintbrush_fill": [
+    "paintbrush": [
       63279
     ],
-    "pano": [
+    "paintbrush_fill": [
       63280
     ],
-    "pano_fill": [
+    "pano": [
       63281
     ],
-    "paperclip": [
+    "pano_fill": [
       63282
     ],
-    "paperplane": [
+    "paperclip": [
       63283
     ],
-    "paperplane_fill": [
+    "paperplane": [
       63284
     ],
-    "paragraph": [
+    "paperplane_fill": [
       63285
+    ],
+    "paragraph": [
+      63286
     ],
     "pause": [
       62583
     ],
     "pause_circle": [
-      63286
+      63287
     ],
     "pause_circle_fill": [
-      63287
+      63288
     ],
     "pause_fill": [
       62584
     ],
     "pause_rectangle": [
-      63288
+      63289
     ],
     "pause_rectangle_fill": [
-      63289
+      63290
     ],
     "paw": [
       62586,
@@ -2288,40 +2312,40 @@
       62143
     ],
     "pencil_circle": [
-      63290
-    ],
-    "pencil_circle_fill": [
       63291
     ],
-    "pencil_ellipsis_rectangle": [
+    "pencil_circle_fill": [
       63292
     ],
-    "pencil_outline": [
+    "pencil_ellipsis_rectangle": [
       63293
     ],
-    "pencil_slash": [
+    "pencil_outline": [
       63294
     ],
-    "percent": [
+    "pencil_slash": [
       63295
+    ],
+    "percent": [
+      63296
     ],
     "person": [
       62589
     ],
     "person_2": [
-      63296
-    ],
-    "person_2_alt": [
-      63739
-    ],
-    "person_2_fill": [
       63297
     ],
-    "person_2_square_stack": [
+    "person_2_alt": [
+      63740
+    ],
+    "person_2_fill": [
       63298
     ],
-    "person_2_square_stack_fill": [
+    "person_2_square_stack": [
       63299
+    ],
+    "person_2_square_stack_fill": [
+      63300
     ],
     "person_3": [
       62587
@@ -2330,19 +2354,19 @@
       62588
     ],
     "person_alt": [
-      63740
-    ],
-    "person_alt_circle": [
       63741
     ],
-    "person_alt_circle_fill": [
+    "person_alt_circle": [
       63742
     ],
+    "person_alt_circle_fill": [
+      63743
+    ],
     "person_badge_minus": [
-      63300
+      63301
     ],
     "person_badge_minus_fill": [
-      63301
+      63302
     ],
     "person_badge_plus": [
       62591
@@ -2351,142 +2375,142 @@
       62592
     ],
     "person_circle": [
-      63302
+      63303
     ],
     "person_circle_fill": [
-      63303
+      63304
     ],
     "person_crop_circle": [
       62489
     ],
     "person_crop_circle_badge_checkmark": [
-      63304
-    ],
-    "person_crop_circle_badge_exclam": [
       63305
     ],
-    "person_crop_circle_badge_minus": [
+    "person_crop_circle_badge_exclam": [
       63306
     ],
-    "person_crop_circle_badge_plus": [
+    "person_crop_circle_badge_minus": [
       63307
     ],
-    "person_crop_circle_badge_xmark": [
+    "person_crop_circle_badge_plus": [
       63308
     ],
-    "person_crop_circle_fill": [
+    "person_crop_circle_badge_xmark": [
       63309
     ],
-    "person_crop_circle_fill_badge_checkmark": [
+    "person_crop_circle_fill": [
       63310
     ],
-    "person_crop_circle_fill_badge_exclam": [
+    "person_crop_circle_fill_badge_checkmark": [
       63311
     ],
-    "person_crop_circle_fill_badge_minus": [
+    "person_crop_circle_fill_badge_exclam": [
       63312
     ],
-    "person_crop_circle_fill_badge_plus": [
+    "person_crop_circle_fill_badge_minus": [
       63313
     ],
-    "person_crop_circle_fill_badge_xmark": [
+    "person_crop_circle_fill_badge_plus": [
       63314
     ],
-    "person_crop_rectangle": [
+    "person_crop_circle_fill_badge_xmark": [
       63315
     ],
-    "person_crop_rectangle_fill": [
+    "person_crop_rectangle": [
       63316
     ],
-    "person_crop_square": [
+    "person_crop_rectangle_fill": [
       63317
     ],
-    "person_crop_square_fill": [
+    "person_crop_square": [
       63318
+    ],
+    "person_crop_square_fill": [
+      63319
     ],
     "person_fill": [
       62590
     ],
     "personalhotspot": [
-      63319
+      63320
     ],
     "perspective": [
-      63320
+      63321
     ],
     "phone": [
       62648
     ],
     "phone_arrow_down_left": [
-      63321
-    ],
-    "phone_arrow_right": [
       63322
     ],
-    "phone_arrow_up_right": [
+    "phone_arrow_right": [
       63323
     ],
-    "phone_badge_plus": [
+    "phone_arrow_up_right": [
       63324
     ],
-    "phone_circle": [
+    "phone_badge_plus": [
       63325
     ],
-    "phone_circle_fill": [
+    "phone_circle": [
       63326
     ],
-    "phone_down": [
+    "phone_circle_fill": [
       63327
     ],
-    "phone_down_circle": [
+    "phone_down": [
       63328
     ],
-    "phone_down_circle_fill": [
+    "phone_down_circle": [
       63329
     ],
-    "phone_down_fill": [
+    "phone_down_circle_fill": [
       63330
+    ],
+    "phone_down_fill": [
+      63331
     ],
     "phone_fill": [
       62649
     ],
     "phone_fill_arrow_down_left": [
-      63331
-    ],
-    "phone_fill_arrow_right": [
       63332
     ],
-    "phone_fill_arrow_up_right": [
+    "phone_fill_arrow_right": [
       63333
     ],
-    "phone_fill_badge_plus": [
+    "phone_fill_arrow_up_right": [
       63334
     ],
-    "photo": [
+    "phone_fill_badge_plus": [
       63335
     ],
-    "photo_fill": [
+    "photo": [
       63336
     ],
-    "photo_fill_on_rectangle_fill": [
+    "photo_fill": [
       63337
     ],
-    "photo_on_rectangle": [
+    "photo_fill_on_rectangle_fill": [
       63338
     ],
-    "piano": [
-      63743
-    ],
-    "pin": [
+    "photo_on_rectangle": [
       63339
     ],
-    "pin_fill": [
+    "piano": [
+      63744
+    ],
+    "pin": [
       63340
     ],
-    "pin_slash": [
+    "pin_fill": [
       63341
     ],
-    "pin_slash_fill": [
+    "pin_slash": [
       63342
+    ],
+    "pin_slash_fill": [
+      63343
     ],
     "placemark": [
       62549
@@ -2498,40 +2522,40 @@
       62599
     ],
     "play_circle": [
-      63343
+      63344
     ],
     "play_circle_fill": [
-      63344
+      63345
     ],
     "play_fill": [
       62600
     ],
     "play_rectangle": [
-      63345
-    ],
-    "play_rectangle_fill": [
       63346
     ],
-    "playpause": [
+    "play_rectangle_fill": [
       63347
     ],
-    "playpause_fill": [
+    "playpause": [
       63348
+    ],
+    "playpause_fill": [
+      63349
     ],
     "plus": [
       62601
     ],
     "plus_app": [
-      63349
-    ],
-    "plus_app_fill": [
       63350
     ],
-    "plus_bubble": [
+    "plus_app_fill": [
       63351
     ],
-    "plus_bubble_fill": [
+    "plus_bubble": [
       63352
+    ],
+    "plus_bubble_fill": [
+      63353
     ],
     "plus_circle": [
       62602
@@ -2540,310 +2564,310 @@
       62603
     ],
     "plus_rectangle": [
-      63353
-    ],
-    "plus_rectangle_fill": [
       63354
     ],
-    "plus_rectangle_fill_on_rectangle_fill": [
+    "plus_rectangle_fill": [
       63355
     ],
-    "plus_rectangle_on_rectangle": [
+    "plus_rectangle_fill_on_rectangle_fill": [
       63356
     ],
-    "plus_slash_minus": [
+    "plus_rectangle_on_rectangle": [
       63357
     ],
-    "plus_square": [
+    "plus_slash_minus": [
       63358
     ],
-    "plus_square_fill": [
+    "plus_square": [
       63359
     ],
-    "plus_square_fill_on_square_fill": [
+    "plus_square_fill": [
       63360
     ],
-    "plus_square_on_square": [
+    "plus_square_fill_on_square_fill": [
       63361
     ],
-    "plusminus": [
+    "plus_square_on_square": [
       63362
     ],
-    "plusminus_circle": [
+    "plusminus": [
       63363
     ],
-    "plusminus_circle_fill": [
+    "plusminus_circle": [
       63364
     ],
-    "power": [
+    "plusminus_circle_fill": [
       63365
     ],
-    "printer": [
+    "power": [
       63366
     ],
-    "printer_fill": [
+    "printer": [
       63367
     ],
-    "projective": [
+    "printer_fill": [
       63368
     ],
-    "purchased": [
+    "projective": [
       63369
     ],
-    "purchased_circle": [
+    "purchased": [
       63370
     ],
-    "purchased_circle_fill": [
+    "purchased_circle": [
       63371
     ],
-    "qrcode": [
+    "purchased_circle_fill": [
       63372
     ],
-    "qrcode_viewfinder": [
+    "qrcode": [
       63373
     ],
-    "question": [
+    "qrcode_viewfinder": [
       63374
     ],
-    "question_circle": [
+    "question": [
       63375
     ],
-    "question_circle_fill": [
+    "question_circle": [
       63376
     ],
-    "question_diamond": [
+    "question_circle_fill": [
       63377
     ],
-    "question_diamond_fill": [
+    "question_diamond": [
       63378
     ],
-    "question_square": [
+    "question_diamond_fill": [
       63379
     ],
-    "question_square_fill": [
+    "question_square": [
       63380
     ],
-    "quote_bubble": [
+    "question_square_fill": [
       63381
     ],
-    "quote_bubble_fill": [
+    "quote_bubble": [
       63382
     ],
-    "radiowaves_left": [
+    "quote_bubble_fill": [
       63383
     ],
-    "radiowaves_right": [
+    "radiowaves_left": [
       63384
     ],
-    "rays": [
+    "radiowaves_right": [
       63385
     ],
-    "recordingtape": [
+    "rays": [
       63386
     ],
-    "rectangle": [
+    "recordingtape": [
       63387
     ],
-    "rectangle_3_offgrid": [
+    "rectangle": [
       63388
     ],
-    "rectangle_3_offgrid_fill": [
+    "rectangle_3_offgrid": [
       63389
     ],
-    "rectangle_arrow_up_right_arrow_down_left": [
+    "rectangle_3_offgrid_fill": [
       63390
     ],
-    "rectangle_arrow_up_right_arrow_down_left_slash": [
+    "rectangle_arrow_up_right_arrow_down_left": [
       63391
     ],
-    "rectangle_badge_checkmark": [
+    "rectangle_arrow_up_right_arrow_down_left_slash": [
       63392
     ],
-    "rectangle_badge_xmark": [
+    "rectangle_badge_checkmark": [
       63393
     ],
-    "rectangle_compress_vertical": [
+    "rectangle_badge_xmark": [
       63394
     ],
-    "rectangle_dock": [
+    "rectangle_compress_vertical": [
       63395
     ],
-    "rectangle_expand_vertical": [
+    "rectangle_dock": [
       63396
     ],
-    "rectangle_fill": [
+    "rectangle_expand_vertical": [
       63397
     ],
-    "rectangle_fill_badge_checkmark": [
+    "rectangle_fill": [
       63398
     ],
-    "rectangle_fill_badge_xmark": [
+    "rectangle_fill_badge_checkmark": [
       63399
     ],
-    "rectangle_fill_on_rectangle_angled_fill": [
+    "rectangle_fill_badge_xmark": [
       63400
     ],
-    "rectangle_fill_on_rectangle_fill": [
+    "rectangle_fill_on_rectangle_angled_fill": [
       63401
     ],
-    "rectangle_grid_1x2": [
+    "rectangle_fill_on_rectangle_fill": [
       63402
     ],
-    "rectangle_grid_1x2_fill": [
+    "rectangle_grid_1x2": [
       63403
     ],
-    "rectangle_grid_2x2": [
+    "rectangle_grid_1x2_fill": [
       63404
     ],
-    "rectangle_grid_2x2_fill": [
+    "rectangle_grid_2x2": [
       63405
     ],
-    "rectangle_grid_3x2": [
+    "rectangle_grid_2x2_fill": [
       63406
     ],
-    "rectangle_grid_3x2_fill": [
+    "rectangle_grid_3x2": [
       63407
     ],
-    "rectangle_on_rectangle": [
+    "rectangle_grid_3x2_fill": [
       63408
     ],
-    "rectangle_on_rectangle_angled": [
+    "rectangle_on_rectangle": [
       63409
     ],
-    "rectangle_paperclip": [
+    "rectangle_on_rectangle_angled": [
       63410
     ],
-    "rectangle_split_3x1": [
+    "rectangle_paperclip": [
       63411
     ],
-    "rectangle_split_3x1_fill": [
+    "rectangle_split_3x1": [
       63412
     ],
-    "rectangle_split_3x3": [
+    "rectangle_split_3x1_fill": [
       63413
     ],
-    "rectangle_split_3x3_fill": [
+    "rectangle_split_3x3": [
       63414
+    ],
+    "rectangle_split_3x3_fill": [
+      63415
     ],
     "rectangle_stack": [
       62409
     ],
     "rectangle_stack_badge_minus": [
-      63415
-    ],
-    "rectangle_stack_badge_person_crop": [
       63416
     ],
-    "rectangle_stack_badge_plus": [
+    "rectangle_stack_badge_person_crop": [
       63417
+    ],
+    "rectangle_stack_badge_plus": [
+      63418
     ],
     "rectangle_stack_fill": [
       62410
     ],
     "rectangle_stack_fill_badge_minus": [
-      63418
-    ],
-    "rectangle_stack_fill_badge_person_crop": [
       63419
     ],
-    "rectangle_stack_fill_badge_plus": [
+    "rectangle_stack_fill_badge_person_crop": [
       63420
     ],
-    "rectangle_stack_person_crop": [
+    "rectangle_stack_fill_badge_plus": [
       63421
     ],
-    "rectangle_stack_person_crop_fill": [
+    "rectangle_stack_person_crop": [
       63422
     ],
-    "repeat": [
+    "rectangle_stack_person_crop_fill": [
       63423
     ],
-    "repeat_1": [
+    "repeat": [
       63424
     ],
-    "resize": [
-      63744
-    ],
-    "resize_h": [
-      63745
-    ],
-    "resize_v": [
-      63746
-    ],
-    "return_icon": [
+    "repeat_1": [
       63425
     ],
-    "rhombus": [
-      63426
+    "resize": [
+      63745
     ],
-    "rhombus_fill": [
-      63427
+    "resize_h": [
+      63746
     ],
-    "rocket": [
+    "resize_v": [
       63747
     ],
-    "rocket_fill": [
-      63748
+    "return_icon": [
+      63426
     ],
-    "rosette": [
+    "rhombus": [
+      63427
+    ],
+    "rhombus_fill": [
       63428
     ],
-    "rotate_left": [
-      63429
+    "rocket": [
+      63748
     ],
-    "rotate_left_fill": [
-      63430
-    ],
-    "rotate_right": [
-      63431
-    ],
-    "rotate_right_fill": [
-      63432
-    ],
-    "scissors": [
-      63433
-    ],
-    "scissors_alt": [
+    "rocket_fill": [
       63749
     ],
-    "scope": [
+    "rosette": [
+      63429
+    ],
+    "rotate_left": [
+      63430
+    ],
+    "rotate_left_fill": [
+      63431
+    ],
+    "rotate_right": [
+      63432
+    ],
+    "rotate_right_fill": [
+      63433
+    ],
+    "scissors": [
       63434
     ],
-    "scribble": [
+    "scissors_alt": [
+      63750
+    ],
+    "scope": [
       63435
+    ],
+    "scribble": [
+      63436
     ],
     "search": [
       62629
     ],
     "search_circle": [
-      63436
-    ],
-    "search_circle_fill": [
       63437
     ],
-    "selection_pin_in_out": [
+    "search_circle_fill": [
       63438
     ],
-    "shield": [
+    "selection_pin_in_out": [
       63439
     ],
-    "shield_fill": [
+    "shield": [
       63440
     ],
-    "shield_lefthalf_fill": [
+    "shield_fill": [
       63441
     ],
-    "shield_slash": [
+    "shield_lefthalf_fill": [
       63442
     ],
-    "shield_slash_fill": [
+    "shield_slash": [
       63443
     ],
-    "shift": [
+    "shield_slash_fill": [
       63444
     ],
-    "shift_fill": [
+    "shift": [
       63445
+    ],
+    "shift_fill": [
+      63446
     ],
     "shuffle": [
       62633,
@@ -2851,97 +2875,97 @@
       61985
     ],
     "sidebar_left": [
-      63446
-    ],
-    "sidebar_right": [
       63447
     ],
-    "signature": [
+    "sidebar_right": [
       63448
     ],
-    "skew": [
+    "signature": [
       63449
     ],
-    "slash_circle": [
+    "skew": [
       63450
     ],
-    "slash_circle_fill": [
+    "slash_circle": [
       63451
     ],
-    "slider_horizontal_3": [
+    "slash_circle_fill": [
       63452
     ],
-    "slider_horizontal_below_rectangle": [
+    "slider_horizontal_3": [
       63453
     ],
-    "slowmo": [
+    "slider_horizontal_below_rectangle": [
       63454
     ],
-    "smallcircle_circle": [
+    "slowmo": [
       63455
     ],
-    "smallcircle_circle_fill": [
+    "smallcircle_circle": [
       63456
     ],
-    "smallcircle_fill_circle": [
+    "smallcircle_circle_fill": [
       63457
     ],
-    "smallcircle_fill_circle_fill": [
+    "smallcircle_fill_circle": [
       63458
     ],
-    "smiley": [
+    "smallcircle_fill_circle_fill": [
       63459
     ],
-    "smiley_fill": [
+    "smiley": [
       63460
     ],
-    "smoke": [
+    "smiley_fill": [
       63461
     ],
-    "smoke_fill": [
+    "smoke": [
       63462
     ],
-    "snow": [
+    "smoke_fill": [
       63463
     ],
-    "sort_down": [
-      63750
-    ],
-    "sort_down_circle": [
-      63751
-    ],
-    "sort_down_circle_fill": [
-      63752
-    ],
-    "sort_up": [
-      63753
-    ],
-    "sort_up_circle": [
-      63754
-    ],
-    "sort_up_circle_fill": [
-      63755
-    ],
-    "sparkles": [
+    "snow": [
       63464
     ],
-    "speaker": [
+    "sort_down": [
+      63751
+    ],
+    "sort_down_circle": [
+      63752
+    ],
+    "sort_down_circle_fill": [
+      63753
+    ],
+    "sort_up": [
+      63754
+    ],
+    "sort_up_circle": [
+      63755
+    ],
+    "sort_up_circle_fill": [
+      63756
+    ],
+    "sparkles": [
       63465
     ],
-    "speaker_1": [
+    "speaker": [
       63466
+    ],
+    "speaker_1": [
+      63467
     ],
     "speaker_1_fill": [
       62391
     ],
     "speaker_2": [
-      63467
-    ],
-    "speaker_2_fill": [
       63468
     ],
-    "speaker_3": [
+    "speaker_2_fill": [
       63469
+    ],
+    "speaker_3": [
+      63470
     ],
     "speaker_3_fill": [
       62394
@@ -2950,64 +2974,64 @@
       62392
     ],
     "speaker_slash": [
-      63470
+      63471
     ],
     "speaker_slash_fill": [
       62393
     ],
     "speaker_slash_fill_rtl": [
-      63471
-    ],
-    "speaker_slash_rtl": [
       63472
     ],
-    "speaker_zzz": [
+    "speaker_slash_rtl": [
       63473
     ],
-    "speaker_zzz_fill": [
+    "speaker_zzz": [
       63474
     ],
-    "speaker_zzz_fill_rtl": [
+    "speaker_zzz_fill": [
       63475
     ],
-    "speaker_zzz_rtl": [
+    "speaker_zzz_fill_rtl": [
       63476
     ],
-    "speedometer": [
+    "speaker_zzz_rtl": [
       63477
     ],
-    "sportscourt": [
+    "speedometer": [
       63478
     ],
-    "sportscourt_fill": [
+    "sportscourt": [
       63479
     ],
-    "square": [
+    "sportscourt_fill": [
       63480
     ],
-    "square_arrow_down": [
+    "square": [
       63481
     ],
-    "square_arrow_down_fill": [
+    "square_arrow_down": [
       63482
     ],
-    "square_arrow_down_on_square": [
+    "square_arrow_down_fill": [
       63483
     ],
-    "square_arrow_down_on_square_fill": [
+    "square_arrow_down_on_square": [
       63484
     ],
-    "square_arrow_left": [
-      63756
+    "square_arrow_down_on_square_fill": [
+      63485
     ],
-    "square_arrow_left_fill": [
+    "square_arrow_left": [
       63757
     ],
-    "square_arrow_right": [
+    "square_arrow_left_fill": [
       63758
     ],
-    "square_arrow_right_fill": [
+    "square_arrow_right": [
       63759
+    ],
+    "square_arrow_right_fill": [
+      63760
     ],
     "square_arrow_up": [
       62666,
@@ -3017,73 +3041,73 @@
       62667
     ],
     "square_arrow_up_on_square": [
-      63485
-    ],
-    "square_arrow_up_on_square_fill": [
       63486
     ],
-    "square_favorites": [
-      63760
-    ],
-    "square_favorites_alt": [
-      63761
-    ],
-    "square_favorites_alt_fill": [
-      63762
-    ],
-    "square_favorites_fill": [
-      63763
-    ],
-    "square_fill": [
+    "square_arrow_up_on_square_fill": [
       63487
     ],
-    "square_fill_line_vertical_square": [
-      63488
+    "square_favorites": [
+      63761
     ],
-    "square_fill_line_vertical_square_fill": [
-      63489
+    "square_favorites_alt": [
+      63762
     ],
-    "square_fill_on_circle_fill": [
-      63490
+    "square_favorites_alt_fill": [
+      63763
     ],
-    "square_fill_on_square_fill": [
-      63491
-    ],
-    "square_grid_2x2": [
-      63492
-    ],
-    "square_grid_2x2_fill": [
-      63493
-    ],
-    "square_grid_3x2": [
-      63494
-    ],
-    "square_grid_3x2_fill": [
-      63495
-    ],
-    "square_grid_4x3_fill": [
-      63496
-    ],
-    "square_lefthalf_fill": [
-      63497
-    ],
-    "square_line_vertical_square": [
-      63498
-    ],
-    "square_line_vertical_square_fill": [
-      63499
-    ],
-    "square_list": [
+    "square_favorites_fill": [
       63764
     ],
-    "square_list_fill": [
-      63765
+    "square_fill": [
+      63488
     ],
-    "square_on_circle": [
+    "square_fill_line_vertical_square": [
+      63489
+    ],
+    "square_fill_line_vertical_square_fill": [
+      63490
+    ],
+    "square_fill_on_circle_fill": [
+      63491
+    ],
+    "square_fill_on_square_fill": [
+      63492
+    ],
+    "square_grid_2x2": [
+      63493
+    ],
+    "square_grid_2x2_fill": [
+      63494
+    ],
+    "square_grid_3x2": [
+      63495
+    ],
+    "square_grid_3x2_fill": [
+      63496
+    ],
+    "square_grid_4x3_fill": [
+      63497
+    ],
+    "square_lefthalf_fill": [
+      63498
+    ],
+    "square_line_vertical_square": [
+      63499
+    ],
+    "square_line_vertical_square_fill": [
       63500
     ],
-    "square_on_square": [
+    "square_list": [
+      63765
+    ],
+    "square_list_fill": [
+      63766
+    ],
+    "square_on_circle": [
       63501
+    ],
+    "square_on_square": [
+      63502
     ],
     "square_pencil": [
       62487
@@ -3092,142 +3116,142 @@
       62487
     ],
     "square_righthalf_fill": [
-      63502
-    ],
-    "square_split_1x2": [
       63503
     ],
-    "square_split_1x2_fill": [
+    "square_split_1x2": [
       63504
     ],
-    "square_split_2x1": [
+    "square_split_1x2_fill": [
       63505
     ],
-    "square_split_2x1_fill": [
+    "square_split_2x1": [
       63506
     ],
-    "square_split_2x2": [
+    "square_split_2x1_fill": [
       63507
     ],
-    "square_split_2x2_fill": [
+    "square_split_2x2": [
       63508
     ],
-    "square_stack": [
+    "square_split_2x2_fill": [
       63509
     ],
-    "square_stack_3d_down_dottedline": [
+    "square_stack": [
       63510
     ],
-    "square_stack_3d_down_right": [
+    "square_stack_3d_down_dottedline": [
       63511
     ],
-    "square_stack_3d_down_right_fill": [
+    "square_stack_3d_down_right": [
       63512
     ],
-    "square_stack_3d_up": [
+    "square_stack_3d_down_right_fill": [
       63513
     ],
-    "square_stack_3d_up_fill": [
+    "square_stack_3d_up": [
       63514
     ],
-    "square_stack_3d_up_slash": [
+    "square_stack_3d_up_fill": [
       63515
     ],
-    "square_stack_3d_up_slash_fill": [
+    "square_stack_3d_up_slash": [
       63516
     ],
-    "square_stack_fill": [
+    "square_stack_3d_up_slash_fill": [
       63517
     ],
-    "squares_below_rectangle": [
+    "square_stack_fill": [
       63518
     ],
-    "star": [
+    "squares_below_rectangle": [
       63519
     ],
-    "star_circle": [
+    "star": [
       63520
     ],
-    "star_circle_fill": [
+    "star_circle": [
       63521
     ],
-    "star_fill": [
+    "star_circle_fill": [
       63522
     ],
-    "star_lefthalf_fill": [
+    "star_fill": [
       63523
     ],
-    "star_slash": [
+    "star_lefthalf_fill": [
       63524
     ],
-    "star_slash_fill": [
+    "star_slash": [
       63525
     ],
-    "staroflife": [
+    "star_slash_fill": [
       63526
     ],
-    "staroflife_fill": [
+    "staroflife": [
       63527
     ],
-    "stop": [
+    "staroflife_fill": [
       63528
     ],
-    "stop_circle": [
+    "stop": [
       63529
     ],
-    "stop_circle_fill": [
+    "stop_circle": [
       63530
     ],
-    "stop_fill": [
+    "stop_circle_fill": [
       63531
     ],
-    "stopwatch": [
+    "stop_fill": [
       63532
     ],
-    "stopwatch_fill": [
+    "stopwatch": [
       63533
     ],
-    "strikethrough": [
+    "stopwatch_fill": [
       63534
     ],
-    "suit_club": [
+    "strikethrough": [
       63535
     ],
-    "suit_club_fill": [
+    "suit_club": [
       63536
     ],
-    "suit_diamond": [
+    "suit_club_fill": [
       63537
     ],
-    "suit_diamond_fill": [
+    "suit_diamond": [
       63538
     ],
-    "suit_heart": [
+    "suit_diamond_fill": [
       63539
     ],
-    "suit_heart_fill": [
+    "suit_heart": [
       63540
     ],
-    "suit_spade": [
+    "suit_heart_fill": [
       63541
     ],
-    "suit_spade_fill": [
+    "suit_spade": [
       63542
     ],
-    "sum": [
+    "suit_spade_fill": [
       63543
     ],
-    "sun_dust": [
+    "sum": [
       63544
     ],
-    "sun_dust_fill": [
+    "sun_dust": [
       63545
     ],
-    "sun_haze": [
+    "sun_dust_fill": [
       63546
     ],
-    "sun_haze_fill": [
+    "sun_haze": [
       63547
+    ],
+    "sun_haze_fill": [
+      63548
     ],
     "sun_max": [
       62646
@@ -3236,367 +3260,373 @@
       62647
     ],
     "sun_min": [
-      63548
-    ],
-    "sun_min_fill": [
       63549
     ],
-    "sunrise": [
+    "sun_min_fill": [
       63550
     ],
-    "sunrise_fill": [
+    "sunrise": [
       63551
     ],
-    "sunset": [
+    "sunrise_fill": [
       63552
     ],
-    "sunset_fill": [
+    "sunset": [
       63553
     ],
-    "t_bubble": [
+    "sunset_fill": [
       63554
     ],
-    "t_bubble_fill": [
+    "t_bubble": [
       63555
     ],
-    "table": [
+    "t_bubble_fill": [
       63556
     ],
-    "table_badge_more": [
+    "table": [
       63557
     ],
-    "table_badge_more_fill": [
+    "table_badge_more": [
       63558
     ],
-    "table_fill": [
+    "table_badge_more_fill": [
       63559
+    ],
+    "table_fill": [
+      63560
     ],
     "tag": [
       62604,
       62606
     ],
     "tag_circle": [
-      63560
+      63561
     ],
     "tag_circle_fill": [
-      63561
+      63562
     ],
     "tag_fill": [
       62605,
       62607
     ],
     "text_aligncenter": [
-      63562
-    ],
-    "text_alignleft": [
       63563
     ],
-    "text_alignright": [
+    "text_alignleft": [
       63564
     ],
-    "text_append": [
+    "text_alignright": [
       63565
     ],
-    "text_badge_checkmark": [
+    "text_append": [
       63566
     ],
-    "text_badge_minus": [
+    "text_badge_checkmark": [
       63567
     ],
-    "text_badge_plus": [
+    "text_badge_minus": [
       63568
     ],
-    "text_badge_star": [
+    "text_badge_plus": [
       63569
     ],
-    "text_badge_xmark": [
+    "text_badge_star": [
       63570
     ],
-    "text_bubble": [
+    "text_badge_xmark": [
       63571
     ],
-    "text_bubble_fill": [
+    "text_bubble": [
       63572
     ],
-    "text_cursor": [
+    "text_bubble_fill": [
       63573
     ],
-    "text_insert": [
+    "text_cursor": [
       63574
     ],
-    "text_justify": [
+    "text_insert": [
       63575
     ],
-    "text_justifyleft": [
+    "text_justify": [
       63576
     ],
-    "text_justifyright": [
+    "text_justifyleft": [
       63577
     ],
-    "text_quote": [
+    "text_justifyright": [
       63578
     ],
-    "textbox": [
+    "text_quote": [
       63579
     ],
-    "textformat": [
+    "textbox": [
       63580
     ],
-    "textformat_123": [
+    "textformat": [
       63581
     ],
-    "textformat_abc": [
+    "textformat_123": [
       63582
     ],
-    "textformat_abc_dottedunderline": [
+    "textformat_abc": [
       63583
     ],
-    "textformat_alt": [
+    "textformat_abc_dottedunderline": [
       63584
     ],
-    "textformat_size": [
+    "textformat_alt": [
       63585
     ],
-    "textformat_subscript": [
+    "textformat_size": [
       63586
     ],
-    "textformat_superscript": [
+    "textformat_subscript": [
       63587
     ],
-    "thermometer": [
+    "textformat_superscript": [
       63588
     ],
-    "thermometer_snowflake": [
+    "thermometer": [
       63589
     ],
-    "thermometer_sun": [
+    "thermometer_snowflake": [
       63590
     ],
-    "ticket": [
-      63766
-    ],
-    "ticket_fill": [
-      63767
-    ],
-    "tickets": [
-      63768
-    ],
-    "tickets_fill": [
-      63769
-    ],
-    "timelapse": [
+    "thermometer_sun": [
       63591
     ],
-    "timer": [
-      63592
+    "ticket": [
+      63767
     ],
-    "timer_fill": [
+    "ticket_fill": [
+      63768
+    ],
+    "tickets": [
+      63769
+    ],
+    "tickets_fill": [
       63770
     ],
-    "today": [
-      63771
+    "timelapse": [
+      63592
     ],
-    "today_fill": [
-      63772
-    ],
-    "tornado": [
+    "timer": [
       63593
     ],
-    "tortoise": [
+    "timer_fill": [
+      63771
+    ],
+    "today": [
+      63772
+    ],
+    "today_fill": [
+      63773
+    ],
+    "tornado": [
       63594
     ],
-    "tortoise_fill": [
+    "tortoise": [
       63595
     ],
-    "tram_fill": [
+    "tortoise_fill": [
       63596
+    ],
+    "train_style_one": [
+      62383
+    ],
+    "train_style_two": [
+      62388
+    ],
+    "tram_fill": [
+      63597
     ],
     "trash": [
       62660,
       62335
     ],
     "trash_circle": [
-      63597
+      63598
     ],
     "trash_circle_fill": [
-      63598
+      63599
     ],
     "trash_fill": [
       62661
     ],
     "trash_slash": [
-      63599
-    ],
-    "trash_slash_fill": [
       63600
     ],
-    "tray": [
+    "trash_slash_fill": [
       63601
     ],
-    "tray_2": [
+    "tray": [
       63602
     ],
-    "tray_2_fill": [
+    "tray_2": [
       63603
     ],
-    "tray_arrow_down": [
+    "tray_2_fill": [
       63604
     ],
-    "tray_arrow_down_fill": [
+    "tray_arrow_down": [
       63605
     ],
-    "tray_arrow_up": [
+    "tray_arrow_down_fill": [
       63606
     ],
-    "tray_arrow_up_fill": [
+    "tray_arrow_up": [
       63607
     ],
-    "tray_fill": [
+    "tray_arrow_up_fill": [
       63608
     ],
-    "tray_full": [
+    "tray_fill": [
       63609
     ],
-    "tray_full_fill": [
+    "tray_full": [
       63610
     ],
-    "tree": [
-      63773
-    ],
-    "triangle": [
+    "tray_full_fill": [
       63611
     ],
-    "triangle_fill": [
-      63612
-    ],
-    "triangle_lefthalf_fill": [
-      63613
-    ],
-    "triangle_righthalf_fill": [
-      63614
-    ],
-    "tropicalstorm": [
-      63615
-    ],
-    "tuningfork": [
-      63616
-    ],
-    "tv": [
-      63617
-    ],
-    "tv_circle": [
-      63618
-    ],
-    "tv_circle_fill": [
-      63619
-    ],
-    "tv_fill": [
-      63620
-    ],
-    "tv_music_note": [
-      63621
-    ],
-    "tv_music_note_fill": [
-      63622
-    ],
-    "uiwindow_split_2x1": [
-      63623
-    ],
-    "umbrella": [
-      63624
-    ],
-    "umbrella_fill": [
-      63625
-    ],
-    "underline": [
-      63626
-    ],
-    "upload_circle": [
+    "tree": [
       63774
     ],
-    "upload_circle_fill": [
+    "triangle": [
+      63612
+    ],
+    "triangle_fill": [
+      63613
+    ],
+    "triangle_lefthalf_fill": [
+      63614
+    ],
+    "triangle_righthalf_fill": [
+      63615
+    ],
+    "tropicalstorm": [
+      63616
+    ],
+    "tuningfork": [
+      63617
+    ],
+    "tv": [
+      63618
+    ],
+    "tv_circle": [
+      63619
+    ],
+    "tv_circle_fill": [
+      63620
+    ],
+    "tv_fill": [
+      63621
+    ],
+    "tv_music_note": [
+      63622
+    ],
+    "tv_music_note_fill": [
+      63623
+    ],
+    "uiwindow_split_2x1": [
+      63624
+    ],
+    "umbrella": [
+      63625
+    ],
+    "umbrella_fill": [
+      63626
+    ],
+    "underline": [
+      63627
+    ],
+    "upload_circle": [
       63775
+    ],
+    "upload_circle_fill": [
+      63776
     ],
     "videocam": [
       62668
     ],
     "videocam_circle": [
-      63776
+      63777
     ],
     "videocam_circle_fill": [
-      63777
+      63778
     ],
     "videocam_fill": [
       62669
     ],
     "view_2d": [
-      63627
-    ],
-    "view_3d": [
       63628
     ],
-    "viewfinder": [
+    "view_3d": [
       63629
     ],
-    "viewfinder_circle": [
+    "viewfinder": [
       63630
     ],
-    "viewfinder_circle_fill": [
+    "viewfinder_circle": [
       63631
     ],
-    "wand_rays": [
+    "viewfinder_circle_fill": [
       63632
     ],
-    "wand_rays_inverse": [
+    "wand_rays": [
       63633
     ],
-    "wand_stars": [
+    "wand_rays_inverse": [
       63634
     ],
-    "wand_stars_inverse": [
+    "wand_stars": [
       63635
     ],
-    "waveform": [
+    "wand_stars_inverse": [
       63636
     ],
-    "waveform_circle": [
+    "waveform": [
       63637
     ],
-    "waveform_circle_fill": [
+    "waveform_circle": [
       63638
     ],
-    "waveform_path": [
+    "waveform_circle_fill": [
       63639
     ],
-    "waveform_path_badge_minus": [
+    "waveform_path": [
       63640
     ],
-    "waveform_path_badge_plus": [
+    "waveform_path_badge_minus": [
       63641
     ],
-    "waveform_path_ecg": [
+    "waveform_path_badge_plus": [
       63642
     ],
-    "wifi": [
+    "waveform_path_ecg": [
       63643
     ],
-    "wifi_exclamationmark": [
+    "wifi": [
       63644
     ],
-    "wifi_slash": [
+    "wifi_exclamationmark": [
       63645
     ],
-    "wind": [
+    "wifi_slash": [
       63646
     ],
-    "wind_snow": [
+    "wind": [
       63647
     ],
-    "wrench": [
+    "wind_snow": [
       63648
     ],
-    "wrench_fill": [
+    "wrench": [
       63649
+    ],
+    "wrench_fill": [
+      63650
     ],
     "xmark": [
       62468,
@@ -3610,43 +3640,43 @@
       62470
     ],
     "xmark_octagon": [
-      63650
-    ],
-    "xmark_octagon_fill": [
       63651
     ],
-    "xmark_rectangle": [
+    "xmark_octagon_fill": [
       63652
     ],
-    "xmark_rectangle_fill": [
+    "xmark_rectangle": [
       63653
     ],
-    "xmark_seal": [
+    "xmark_rectangle_fill": [
       63654
     ],
-    "xmark_seal_fill": [
+    "xmark_seal": [
       63655
     ],
-    "xmark_shield": [
+    "xmark_seal_fill": [
       63656
     ],
-    "xmark_shield_fill": [
+    "xmark_shield": [
       63657
     ],
-    "xmark_square": [
+    "xmark_shield_fill": [
       63658
     ],
-    "xmark_square_fill": [
+    "xmark_square": [
       63659
     ],
-    "zoom_in": [
+    "xmark_square_fill": [
       63660
     ],
-    "zoom_out": [
+    "zoom_in": [
       63661
     ],
-    "zzz": [
+    "zoom_out": [
       63662
+    ],
+    "zzz": [
+      63663
     ]
   }
 }
