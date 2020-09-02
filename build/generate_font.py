@@ -10,8 +10,61 @@ import subprocess
 import tempfile
 import json
 import copy
+import collections
 
 from existing_map import mapped_codepoints
+
+def createGlyph(name, codepoint, file):
+  glyph = f.createChar(codepoint, name)
+
+  if not name in build_data['icons']:
+    build_data['icons'][name] = [codepoint]
+  else:
+    build_data['icons'][name].append(codepoint)
+  glyph.importOutlines(file)
+
+  # Add ligatures
+  ligature = [];
+  for c in name:
+    if (c == '_'):
+      c = "underscore"
+    if (c == '-'):
+      c = "hyphen"
+    if (c == ' '):
+      c = "space"
+    if (c == '1'):
+      c = "one"
+    if (c == '2'):
+      c = "two"
+    if (c == '3'):
+      c = "three"
+    if (c == '4'):
+      c = "four"
+    if (c == '5'):
+      c = "five"
+    if (c == '6'):
+      c = "six"
+    if (c == '7'):
+      c = "seven"
+    if (c == '8'):
+      c = "eight"
+    if (c == '9'):
+      c = "nine"
+    if (c == '0'):
+      c = "zero"
+    ligature.append(c)
+  glyph.addPosSub('ligatable1', ligature)
+
+  # set glyph size explicitly or automatically depending on autowidth
+  if AUTO_WIDTH:
+    glyph.left_side_bearing = glyph.right_side_bearing = 0
+    glyph.round()
+  else:
+    if name in ['chevron_back', 'chevron_forward']:
+      # These are special since they're not square shaped. Squish them more.
+      glyph.width = 192
+    else:
+      glyph.width = 512
 
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 BLANK_PATH = os.path.join(SCRIPT_PATH, 'blank.svg')
@@ -48,7 +101,7 @@ manifest_data = json.loads(manifest_file.read())
 manifest_file.close()
 
 build_data = copy.deepcopy(manifest_data)
-build_data['icons'] = []
+build_data['icons'] = collections.OrderedDict()
 
 font_name = manifest_data['name']
 
@@ -63,24 +116,23 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
     size = os.path.getsize(filePath)
     if ext in ['.svg', '.eps']:
 
-      if ext in ['.svg']:
-        # hack removal of <switch> </switch> tags
-        svgfile = open(filePath, 'r+')
-        tmpsvgfile = tempfile.NamedTemporaryFile(suffix=ext, delete=False, mode='w')
-        svgtext = svgfile.read()
-        svgfile.seek(0)
+      # hack removal of <switch> </switch> tags
+      svgfile = open(filePath, 'r+')
+      tmpsvgfile = tempfile.NamedTemporaryFile(suffix=ext, delete=False, mode='w')
+      svgtext = svgfile.read()
+      svgfile.seek(0)
 
-        # replace the <switch> </switch> tags with 'nothing'
-        svgtext = svgtext.replace('<switch>', '')
-        svgtext = svgtext.replace('</switch>', '')
+      # replace the <switch> </switch> tags with 'nothing'
+      svgtext = svgtext.replace('<switch>', '')
+      svgtext = svgtext.replace('</switch>', '')
 
-        tmpsvgfile.file.write(svgtext)
+      tmpsvgfile.file.write(svgtext)
 
-        svgfile.close()
-        tmpsvgfile.file.close()
+      svgfile.close()
+      tmpsvgfile.file.close()
 
-        filePath = tmpsvgfile.name
-        # end hack
+      filePath = tmpsvgfile.name
+      # end hack
 
       if (name in unusable_names):
         name = unusable_names[name]
@@ -88,68 +140,17 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
       if (name in mapped_codepoints[0]):
         mapped_value = mapped_codepoints[0][name]
         if isinstance(mapped_value, int):
-          next_codepoint = mapped_codepoints[0][name]
+          createGlyph(name, mapped_codepoints[0][name], filePath)
         else:
-          next_codepoint = mapped_codepoints[0][name][0]
+          for repeated_codepoint in mapped_codepoints[0][name]:
+            createGlyph(name, repeated_codepoint, filePath)
         mapped_codepoints[0].pop(name)
       else:
-        next_codepoint = codepoint
+        createGlyph(name, codepoint, filePath)
         codepoint += 1
 
-      glyph = f.createChar(next_codepoint, name)
-
-      build_data['icons'].append({
-        'name': name,
-        'codepoint': next_codepoint,
-      })
-      glyph.importOutlines(filePath)
-
-      # Add ligatures
-      ligature = [];
-      for c in name:
-        if (c == '_'):
-          c = "underscore"
-        if (c == '-'):
-          c = "hyphen"
-        if (c == ' '):
-          c = "space"
-        if (c == '1'):
-          c = "one"
-        if (c == '2'):
-          c = "two"
-        if (c == '3'):
-          c = "three"
-        if (c == '4'):
-          c = "four"
-        if (c == '5'):
-          c = "five"
-        if (c == '6'):
-          c = "six"
-        if (c == '7'):
-          c = "seven"
-        if (c == '8'):
-          c = "eight"
-        if (c == '9'):
-          c = "nine"
-        if (c == '0'):
-          c = "zero"
-        ligature.append(c)
-      glyph.addPosSub('ligatable1', ligature)
-
       # if we created a temporary file, let's clean it up
-      if tmpsvgfile:
-        os.unlink(tmpsvgfile.name)
-
-      # set glyph size explicitly or automatically depending on autowidth
-      if AUTO_WIDTH:
-        glyph.left_side_bearing = glyph.right_side_bearing = 0
-        glyph.round()
-      else:
-        if name in ['chevron_back', 'chevron_forward']:
-          # These are special since they're not square shaped. Squish them more.
-          glyph.width = 192
-        else:
-          glyph.width = 512
+      os.unlink(tmpsvgfile.name)
 
     # resize glyphs if autowidth is enabled
     if AUTO_WIDTH:
@@ -167,11 +168,10 @@ scriptPath = os.path.dirname(os.path.realpath(__file__))
 # Hint the TTF file
 subprocess.call('ttfautohint -s -f -n ' + fontfile + '.ttf ' + fontfile + '-hinted.ttf > /dev/null 2>&1 && mv ' + fontfile + '-hinted.ttf ' + fontfile + '.ttf', shell=True)
 
-manifest_data['icons'] = sorted(build_data['icons'], key=lambda k: k['name'])
+manifest_data['icons'] = collections.OrderedDict(sorted(build_data['icons'].items(), key=lambda glyph: glyph[0]))
 
 print("Save Manifest, Icons: %s" % ( len(manifest_data['icons']) ))
 print(f"Unused mappings {mapped_codepoints}")
 f = open(MANIFEST_PATH, 'w')
 f.write( json.dumps(manifest_data, indent=2, separators=(',', ': ')) )
 f.close()
-

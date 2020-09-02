@@ -45,10 +45,10 @@ def generate_cheatsheet(data):
 
   content = []
 
-  for icon in data['icons']:
+  for name in data['icons'].keys():
     item_row = icon_row_template
 
-    item_row = item_row.replace('{{name}}', icon['name'])
+    item_row = item_row.replace('{{name}}', name)
 
     content.append(item_row)
 
@@ -71,19 +71,20 @@ def get_manifest():
 def generate_dart_file(data):
   output = []
   skipped = []
-  for glyph in data['icons']:
-    if glyph['name'] not in old_names.keys():
-      output.append(f"  /// Cupertino icon for {glyph['name']}. Available on cupertino_icons package 1.0.0+ only.")
+  data = data['icons']
+  for name, codepoints in data.items():
+    if name not in old_names.keys():
+      output.append(f"  /// Cupertino icon for {name}. Available on cupertino_icons package 1.0.0+ only.")
       output.append("\n")
-      if glyph['codepoint'] in old_names.values():
+      if codepoints[0] in old_names.values():
         for old_name, old_codepoint in old_names.items():
-          if glyph['codepoint'] == old_codepoint:
+          if old_codepoint in codepoints:
             output.append(f"  /// This is the same icon as [{old_name}] which is available in cupertino_icons 0.1.3.")
             output.append("\n")
-      output.append(f"  static const IconData {glyph['name']} = IconData({hex(glyph['codepoint'])}, fontFamily: iconFont, fontPackage: iconFontPackage);")
+      output.append(f"  static const IconData {name} = IconData({hex(codepoints[0])}, fontFamily: iconFont, fontPackage: iconFontPackage);")
       output.append("\n")
     else:
-      skipped.append(glyph['name'])
+      skipped.append(name)
   f = open(os.path.join(BUILDER_PATH, 'cupertino_generated_icons.dart'), 'w')
   f.write(''.join(output))
 

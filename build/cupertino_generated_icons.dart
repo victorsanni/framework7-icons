@@ -42,6 +42,8 @@
   static const IconData arrow_branch = IconData(0xf4e8, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for arrow_clockwise. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [refresh] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [refresh_thin] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [refresh_thick] which is available in cupertino_icons 0.1.3.
   static const IconData arrow_clockwise = IconData(0xf49a, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for arrow_clockwise_circle. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [refresh_circled] which is available in cupertino_icons 0.1.3.
@@ -402,7 +404,9 @@
   /// This is the same icon as [battery_empty] which is available in cupertino_icons 0.1.3.
   static const IconData battery_0 = IconData(0xf112, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for battery_100. Available on cupertino_icons package 1.0.0+ only.
+  /// This is the same icon as [battery_charging] which is available in cupertino_icons 0.1.3.
   /// This is the same icon as [battery_full] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [battery_75_percent] which is available in cupertino_icons 0.1.3.
   static const IconData battery_100 = IconData(0xf113, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for battery_25. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [battery_25_percent] which is available in cupertino_icons 0.1.3.
@@ -712,6 +716,7 @@
   /// Cupertino icon for clear_fill. Available on cupertino_icons package 1.0.0+ only.
   static const IconData clear_fill = IconData(0xf5f3, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for clock_fill. Available on cupertino_icons package 1.0.0+ only.
+  /// This is the same icon as [clock_solid] which is available in cupertino_icons 0.1.3.
   /// This is the same icon as [time_solid] which is available in cupertino_icons 0.1.3.
   static const IconData clock_fill = IconData(0xf403, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for cloud. Available on cupertino_icons package 1.0.0+ only.
@@ -1084,6 +1089,7 @@
   static const IconData gauge_badge_plus = IconData(0xf688, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for gear_alt. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [gear] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [gear_big] which is available in cupertino_icons 0.1.3.
   static const IconData gear_alt = IconData(0xf43c, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for gear_alt_fill. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [gear_solid] which is available in cupertino_icons 0.1.3.
@@ -1246,6 +1252,7 @@
   static const IconData increase_quotelevel = IconData(0xf6cd, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for infinite. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [loop] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [loop_thick] which is available in cupertino_icons 0.1.3.
   static const IconData infinite = IconData(0xf449, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for info_circle. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [info] which is available in cupertino_icons 0.1.3.
@@ -2022,6 +2029,7 @@
   static const IconData square_arrow_right_fill = IconData(0xf90f, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for square_arrow_up. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [share] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [share_up] which is available in cupertino_icons 0.1.3.
   static const IconData square_arrow_up = IconData(0xf4ca, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for square_arrow_up_fill. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [share_solid] which is available in cupertino_icons 0.1.3.
@@ -2208,6 +2216,7 @@
   static const IconData tag_circle_fill = IconData(0xf849, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for tag_fill. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [tag_solid] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [tags_solid] which is available in cupertino_icons 0.1.3.
   static const IconData tag_fill = IconData(0xf48d, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for text_aligncenter. Available on cupertino_icons package 1.0.0+ only.
   static const IconData text_aligncenter = IconData(0xf84a, fontFamily: iconFont, fontPackage: iconFontPackage);
@@ -2295,6 +2304,7 @@
   static const IconData tram_fill = IconData(0xf86c, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for trash. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [delete] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [delete_simple] which is available in cupertino_icons 0.1.3.
   static const IconData trash = IconData(0xf4c4, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for trash_circle. Available on cupertino_icons package 1.0.0+ only.
   static const IconData trash_circle = IconData(0xf86d, fontFamily: iconFont, fontPackage: iconFontPackage);
@@ -2422,6 +2432,7 @@
   /// Cupertino icon for wrench_fill. Available on cupertino_icons package 1.0.0+ only.
   static const IconData wrench_fill = IconData(0xf8a1, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark. Available on cupertino_icons package 1.0.0+ only.
+  /// This is the same icon as [clear_thick] which is available in cupertino_icons 0.1.3.
   /// This is the same icon as [clear] which is available in cupertino_icons 0.1.3.
   static const IconData xmark = IconData(0xf404, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark_circle. Available on cupertino_icons package 1.0.0+ only.
@@ -2429,6 +2440,7 @@
   static const IconData xmark_circle = IconData(0xf405, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark_circle_fill. Available on cupertino_icons package 1.0.0+ only.
   /// This is the same icon as [clear_thick_circled] which is available in cupertino_icons 0.1.3.
+  /// This is the same icon as [clear_circled_solid] which is available in cupertino_icons 0.1.3.
   static const IconData xmark_circle_fill = IconData(0xf36e, fontFamily: iconFont, fontPackage: iconFontPackage);
   /// Cupertino icon for xmark_octagon. Available on cupertino_icons package 1.0.0+ only.
   static const IconData xmark_octagon = IconData(0xf8a2, fontFamily: iconFont, fontPackage: iconFontPackage);

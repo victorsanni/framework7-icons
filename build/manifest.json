@@ -1,4841 +1,3652 @@
 {
   "name": "Cupertino Icons",
-  "icons": [
-    {
-      "name": "airplane",
-      "codepoint": 62676
-    },
-    {
-      "name": "alarm",
-      "codepoint": 62677
-    },
-    {
-      "name": "alarm_fill",
-      "codepoint": 62678
-    },
-    {
-      "name": "alt",
-      "codepoint": 62679
-    },
-    {
-      "name": "ant",
-      "codepoint": 62680
-    },
-    {
-      "name": "ant_circle",
-      "codepoint": 62681
-    },
-    {
-      "name": "ant_circle_fill",
-      "codepoint": 62682
-    },
-    {
-      "name": "ant_fill",
-      "codepoint": 62683
-    },
-    {
-      "name": "antenna_radiowaves_left_right",
-      "codepoint": 62684
-    },
-    {
-      "name": "app",
-      "codepoint": 62685
-    },
-    {
-      "name": "app_badge",
-      "codepoint": 62686
-    },
-    {
-      "name": "app_badge_fill",
-      "codepoint": 62687
-    },
-    {
-      "name": "app_fill",
-      "codepoint": 62688
-    },
-    {
-      "name": "archivebox",
-      "codepoint": 62689
-    },
-    {
-      "name": "archivebox_fill",
-      "codepoint": 62690
-    },
-    {
-      "name": "arrow_2_circlepath",
-      "codepoint": 62691
-    },
-    {
-      "name": "arrow_2_circlepath_circle",
-      "codepoint": 62692
-    },
-    {
-      "name": "arrow_2_circlepath_circle_fill",
-      "codepoint": 62693
-    },
-    {
-      "name": "arrow_2_squarepath",
-      "codepoint": 62694
-    },
-    {
-      "name": "arrow_3_trianglepath",
-      "codepoint": 62695
-    },
-    {
-      "name": "arrow_branch",
-      "codepoint": 62696
-    },
-    {
-      "name": "arrow_clockwise",
-      "codepoint": 62618
-    },
-    {
-      "name": "arrow_clockwise_circle",
-      "codepoint": 62619
-    },
-    {
-      "name": "arrow_clockwise_circle_fill",
-      "codepoint": 62620
-    },
-    {
-      "name": "arrow_counterclockwise",
-      "codepoint": 61980
-    },
-    {
-      "name": "arrow_counterclockwise_circle",
-      "codepoint": 62697
-    },
-    {
-      "name": "arrow_counterclockwise_circle_fill",
-      "codepoint": 62698
-    },
-    {
-      "name": "arrow_down",
-      "codepoint": 62301
-    },
-    {
-      "name": "arrow_down_circle",
-      "codepoint": 62699
-    },
-    {
-      "name": "arrow_down_circle_fill",
-      "codepoint": 62700
-    },
-    {
-      "name": "arrow_down_doc",
-      "codepoint": 62701
-    },
-    {
-      "name": "arrow_down_doc_fill",
-      "codepoint": 62702
-    },
-    {
-      "name": "arrow_down_left",
-      "codepoint": 62703
-    },
-    {
-      "name": "arrow_down_left_circle",
-      "codepoint": 62704
-    },
-    {
-      "name": "arrow_down_left_circle_fill",
-      "codepoint": 62705
-    },
-    {
-      "name": "arrow_down_left_square",
-      "codepoint": 62706
-    },
-    {
-      "name": "arrow_down_left_square_fill",
-      "codepoint": 62707
-    },
-    {
-      "name": "arrow_down_right",
-      "codepoint": 62708
-    },
-    {
-      "name": "arrow_down_right_arrow_up_left",
-      "codepoint": 62333
-    },
-    {
-      "name": "arrow_down_right_circle",
-      "codepoint": 62709
-    },
-    {
-      "name": "arrow_down_right_circle_fill",
-      "codepoint": 62710
-    },
-    {
-      "name": "arrow_down_right_square",
-      "codepoint": 62711
-    },
-    {
-      "name": "arrow_down_right_square_fill",
-      "codepoint": 62712
-    },
-    {
-      "name": "arrow_down_square",
-      "codepoint": 62713
-    },
-    {
-      "name": "arrow_down_square_fill",
-      "codepoint": 62714
-    },
-    {
-      "name": "arrow_down_to_line",
-      "codepoint": 62715
-    },
-    {
-      "name": "arrow_down_to_line_alt",
-      "codepoint": 62716
-    },
-    {
-      "name": "arrow_left",
-      "codepoint": 62717
-    },
-    {
-      "name": "arrow_left_circle",
-      "codepoint": 62718
-    },
-    {
-      "name": "arrow_left_circle_fill",
-      "codepoint": 62719
-    },
-    {
-      "name": "arrow_left_right",
-      "codepoint": 62720
-    },
-    {
-      "name": "arrow_left_right_circle",
-      "codepoint": 62721
-    },
-    {
-      "name": "arrow_left_right_circle_fill",
-      "codepoint": 62722
-    },
-    {
-      "name": "arrow_left_right_square",
-      "codepoint": 62723
-    },
-    {
-      "name": "arrow_left_right_square_fill",
-      "codepoint": 62724
-    },
-    {
-      "name": "arrow_left_square",
-      "codepoint": 62725
-    },
-    {
-      "name": "arrow_left_square_fill",
-      "codepoint": 62726
-    },
-    {
-      "name": "arrow_left_to_line",
-      "codepoint": 62727
-    },
-    {
-      "name": "arrow_left_to_line_alt",
-      "codepoint": 62728
-    },
-    {
-      "name": "arrow_merge",
-      "codepoint": 62729
-    },
-    {
-      "name": "arrow_right",
-      "codepoint": 62730
-    },
-    {
-      "name": "arrow_right_arrow_left",
-      "codepoint": 62731
-    },
-    {
-      "name": "arrow_right_arrow_left_circle",
-      "codepoint": 62732
-    },
-    {
-      "name": "arrow_right_arrow_left_circle_fill",
-      "codepoint": 62733
-    },
-    {
-      "name": "arrow_right_arrow_left_square",
-      "codepoint": 62734
-    },
-    {
-      "name": "arrow_right_arrow_left_square_fill",
-      "codepoint": 62735
-    },
-    {
-      "name": "arrow_right_circle",
-      "codepoint": 62736
-    },
-    {
-      "name": "arrow_right_circle_fill",
-      "codepoint": 62737
-    },
-    {
-      "name": "arrow_right_square",
-      "codepoint": 62738
-    },
-    {
-      "name": "arrow_right_square_fill",
-      "codepoint": 62739
-    },
-    {
-      "name": "arrow_right_to_line",
-      "codepoint": 62740
-    },
-    {
-      "name": "arrow_right_to_line_alt",
-      "codepoint": 62741
-    },
-    {
-      "name": "arrow_swap",
-      "codepoint": 62742
-    },
-    {
-      "name": "arrow_turn_down_left",
-      "codepoint": 62743
-    },
-    {
-      "name": "arrow_turn_down_right",
-      "codepoint": 62744
-    },
-    {
-      "name": "arrow_turn_left_down",
-      "codepoint": 62745
-    },
-    {
-      "name": "arrow_turn_left_up",
-      "codepoint": 62746
-    },
-    {
-      "name": "arrow_turn_right_down",
-      "codepoint": 62747
-    },
-    {
-      "name": "arrow_turn_right_up",
-      "codepoint": 62748
-    },
-    {
-      "name": "arrow_turn_up_left",
-      "codepoint": 62749
-    },
-    {
-      "name": "arrow_turn_up_right",
-      "codepoint": 62750
-    },
-    {
-      "name": "arrow_up",
-      "codepoint": 62310
-    },
-    {
-      "name": "arrow_up_arrow_down",
-      "codepoint": 62751
-    },
-    {
-      "name": "arrow_up_arrow_down_circle",
-      "codepoint": 62752
-    },
-    {
-      "name": "arrow_up_arrow_down_circle_fill",
-      "codepoint": 62753
-    },
-    {
-      "name": "arrow_up_arrow_down_square",
-      "codepoint": 62754
-    },
-    {
-      "name": "arrow_up_arrow_down_square_fill",
-      "codepoint": 62755
-    },
-    {
-      "name": "arrow_up_bin",
-      "codepoint": 62756
-    },
-    {
-      "name": "arrow_up_bin_fill",
-      "codepoint": 62757
-    },
-    {
-      "name": "arrow_up_circle",
-      "codepoint": 62758
-    },
-    {
-      "name": "arrow_up_circle_fill",
-      "codepoint": 62759
-    },
-    {
-      "name": "arrow_up_doc",
-      "codepoint": 62760
-    },
-    {
-      "name": "arrow_up_doc_fill",
-      "codepoint": 62761
-    },
-    {
-      "name": "arrow_up_down",
-      "codepoint": 62762
-    },
-    {
-      "name": "arrow_up_down_circle",
-      "codepoint": 62763
-    },
-    {
-      "name": "arrow_up_down_circle_fill",
-      "codepoint": 62764
-    },
-    {
-      "name": "arrow_up_down_square",
-      "codepoint": 62765
-    },
-    {
-      "name": "arrow_up_down_square_fill",
-      "codepoint": 62766
-    },
-    {
-      "name": "arrow_up_left",
-      "codepoint": 62767
-    },
-    {
-      "name": "arrow_up_left_arrow_down_right",
-      "codepoint": 62342
-    },
-    {
-      "name": "arrow_up_left_circle",
-      "codepoint": 62768
-    },
-    {
-      "name": "arrow_up_left_circle_fill",
-      "codepoint": 62769
-    },
-    {
-      "name": "arrow_up_left_square",
-      "codepoint": 62770
-    },
-    {
-      "name": "arrow_up_left_square_fill",
-      "codepoint": 62771
-    },
-    {
-      "name": "arrow_up_right",
-      "codepoint": 62772
-    },
-    {
-      "name": "arrow_up_right_circle",
-      "codepoint": 62773
-    },
-    {
-      "name": "arrow_up_right_circle_fill",
-      "codepoint": 62774
-    },
-    {
-      "name": "arrow_up_right_diamond",
-      "codepoint": 62775
-    },
-    {
-      "name": "arrow_up_right_diamond_fill",
-      "codepoint": 62776
-    },
-    {
-      "name": "arrow_up_right_square",
-      "codepoint": 62777
-    },
-    {
-      "name": "arrow_up_right_square_fill",
-      "codepoint": 62778
-    },
-    {
-      "name": "arrow_up_square",
-      "codepoint": 62779
-    },
-    {
-      "name": "arrow_up_square_fill",
-      "codepoint": 62780
-    },
-    {
-      "name": "arrow_up_to_line",
-      "codepoint": 62781
-    },
-    {
-      "name": "arrow_up_to_line_alt",
-      "codepoint": 62782
-    },
-    {
-      "name": "arrow_uturn_down",
-      "codepoint": 62783
-    },
-    {
-      "name": "arrow_uturn_down_circle",
-      "codepoint": 62784
-    },
-    {
-      "name": "arrow_uturn_down_circle_fill",
-      "codepoint": 62785
-    },
-    {
-      "name": "arrow_uturn_down_square",
-      "codepoint": 62786
-    },
-    {
-      "name": "arrow_uturn_down_square_fill",
-      "codepoint": 62787
-    },
-    {
-      "name": "arrow_uturn_left",
-      "codepoint": 62788
-    },
-    {
-      "name": "arrow_uturn_left_circle",
-      "codepoint": 62789
-    },
-    {
-      "name": "arrow_uturn_left_circle_fill",
-      "codepoint": 62790
-    },
-    {
-      "name": "arrow_uturn_left_square",
-      "codepoint": 62791
-    },
-    {
-      "name": "arrow_uturn_left_square_fill",
-      "codepoint": 62792
-    },
-    {
-      "name": "arrow_uturn_right",
-      "codepoint": 62793
-    },
-    {
-      "name": "arrow_uturn_right_circle",
-      "codepoint": 62794
-    },
-    {
-      "name": "arrow_uturn_right_circle_fill",
-      "codepoint": 62795
-    },
-    {
-      "name": "arrow_uturn_right_square",
-      "codepoint": 62796
-    },
-    {
-      "name": "arrow_uturn_right_square_fill",
-      "codepoint": 62797
-    },
-    {
-      "name": "arrow_uturn_up",
-      "codepoint": 62798
-    },
-    {
-      "name": "arrow_uturn_up_circle",
-      "codepoint": 62799
-    },
-    {
-      "name": "arrow_uturn_up_circle_fill",
-      "codepoint": 62800
-    },
-    {
-      "name": "arrow_uturn_up_square",
-      "codepoint": 62801
-    },
-    {
-      "name": "arrow_uturn_up_square_fill",
-      "codepoint": 62802
-    },
-    {
-      "name": "arrowshape_turn_up_left",
-      "codepoint": 62662
-    },
-    {
-      "name": "arrowshape_turn_up_left_2",
-      "codepoint": 61981
-    },
-    {
-      "name": "arrowshape_turn_up_left_2_fill",
-      "codepoint": 61982
-    },
-    {
-      "name": "arrowshape_turn_up_left_circle",
-      "codepoint": 62803
-    },
-    {
-      "name": "arrowshape_turn_up_left_circle_fill",
-      "codepoint": 62804
-    },
-    {
-      "name": "arrowshape_turn_up_left_fill",
-      "codepoint": 62805
-    },
-    {
-      "name": "arrowshape_turn_up_right",
-      "codepoint": 62806
-    },
-    {
-      "name": "arrowshape_turn_up_right_circle",
-      "codepoint": 62807
-    },
-    {
-      "name": "arrowshape_turn_up_right_circle_fill",
-      "codepoint": 62808
-    },
-    {
-      "name": "arrowshape_turn_up_right_fill",
-      "codepoint": 62809
-    },
-    {
-      "name": "arrowtriangle_down",
-      "codepoint": 62810
-    },
-    {
-      "name": "arrowtriangle_down_circle",
-      "codepoint": 62811
-    },
-    {
-      "name": "arrowtriangle_down_circle_fill",
-      "codepoint": 62812
-    },
-    {
-      "name": "arrowtriangle_down_fill",
-      "codepoint": 62813
-    },
-    {
-      "name": "arrowtriangle_down_square",
-      "codepoint": 62814
-    },
-    {
-      "name": "arrowtriangle_down_square_fill",
-      "codepoint": 62815
-    },
-    {
-      "name": "arrowtriangle_left",
-      "codepoint": 62816
-    },
-    {
-      "name": "arrowtriangle_left_circle",
-      "codepoint": 62817
-    },
-    {
-      "name": "arrowtriangle_left_circle_fill",
-      "codepoint": 62818
-    },
-    {
-      "name": "arrowtriangle_left_fill",
-      "codepoint": 62819
-    },
-    {
-      "name": "arrowtriangle_left_square",
-      "codepoint": 62820
-    },
-    {
-      "name": "arrowtriangle_left_square_fill",
-      "codepoint": 62821
-    },
-    {
-      "name": "arrowtriangle_right",
-      "codepoint": 62822
-    },
-    {
-      "name": "arrowtriangle_right_circle",
-      "codepoint": 62823
-    },
-    {
-      "name": "arrowtriangle_right_circle_fill",
-      "codepoint": 62824
-    },
-    {
-      "name": "arrowtriangle_right_fill",
-      "codepoint": 62825
-    },
-    {
-      "name": "arrowtriangle_right_square",
-      "codepoint": 62826
-    },
-    {
-      "name": "arrowtriangle_right_square_fill",
-      "codepoint": 62827
-    },
-    {
-      "name": "arrowtriangle_up",
-      "codepoint": 62828
-    },
-    {
-      "name": "arrowtriangle_up_circle",
-      "codepoint": 62829
-    },
-    {
-      "name": "arrowtriangle_up_circle_fill",
-      "codepoint": 62830
-    },
-    {
-      "name": "arrowtriangle_up_fill",
-      "codepoint": 62831
-    },
-    {
-      "name": "arrowtriangle_up_square",
-      "codepoint": 62832
-    },
-    {
-      "name": "arrowtriangle_up_square_fill",
-      "codepoint": 62833
-    },
-    {
-      "name": "asterisk_circle",
-      "codepoint": 62834
-    },
-    {
-      "name": "asterisk_circle_fill",
-      "codepoint": 62835
-    },
-    {
-      "name": "at",
-      "codepoint": 62836
-    },
-    {
-      "name": "at_badge_minus",
-      "codepoint": 62837
-    },
-    {
-      "name": "at_badge_plus",
-      "codepoint": 62838
-    },
-    {
-      "name": "at_circle",
-      "codepoint": 63663
-    },
-    {
-      "name": "at_circle_fill",
-      "codepoint": 63664
-    },
-    {
-      "name": "backward",
-      "codepoint": 62839
-    },
-    {
-      "name": "backward_end",
-      "codepoint": 62840
-    },
-    {
-      "name": "backward_end_alt",
-      "codepoint": 62841
-    },
-    {
-      "name": "backward_end_alt_fill",
-      "codepoint": 62842
-    },
-    {
-      "name": "backward_end_fill",
-      "codepoint": 62843
-    },
-    {
-      "name": "backward_fill",
-      "codepoint": 62844
-    },
-    {
-      "name": "badge_plus_radiowaves_right",
-      "codepoint": 62845
-    },
-    {
-      "name": "bag",
-      "codepoint": 62846
-    },
-    {
-      "name": "bag_badge_minus",
-      "codepoint": 62847
-    },
-    {
-      "name": "bag_badge_plus",
-      "codepoint": 62848
-    },
-    {
-      "name": "bag_fill",
-      "codepoint": 62849
-    },
-    {
-      "name": "bag_fill_badge_minus",
-      "codepoint": 62850
-    },
-    {
-      "name": "bag_fill_badge_plus",
-      "codepoint": 62851
-    },
-    {
-      "name": "bandage",
-      "codepoint": 62852
-    },
-    {
-      "name": "bandage_fill",
-      "codepoint": 62853
-    },
-    {
-      "name": "barcode",
-      "codepoint": 62854
-    },
-    {
-      "name": "barcode_viewfinder",
-      "codepoint": 62855
-    },
-    {
-      "name": "bars",
-      "codepoint": 63665
-    },
-    {
-      "name": "battery_0",
-      "codepoint": 61714
-    },
-    {
-      "name": "battery_100",
-      "codepoint": 61715
-    },
-    {
-      "name": "battery_25",
-      "codepoint": 61717
-    },
-    {
-      "name": "bed_double",
-      "codepoint": 62856
-    },
-    {
-      "name": "bed_double_fill",
-      "codepoint": 62857
-    },
-    {
-      "name": "bell",
-      "codepoint": 62433
-    },
-    {
-      "name": "bell_circle",
-      "codepoint": 62858
-    },
-    {
-      "name": "bell_circle_fill",
-      "codepoint": 62859
-    },
-    {
-      "name": "bell_fill",
-      "codepoint": 62434
-    },
-    {
-      "name": "bell_slash",
-      "codepoint": 62860
-    },
-    {
-      "name": "bell_slash_fill",
-      "codepoint": 62861
-    },
-    {
-      "name": "bin_xmark",
-      "codepoint": 62862
-    },
-    {
-      "name": "bin_xmark_fill",
-      "codepoint": 62863
-    },
-    {
-      "name": "bitcoin",
-      "codepoint": 63666
-    },
-    {
-      "name": "bitcoin_circle",
-      "codepoint": 63667
-    },
-    {
-      "name": "bitcoin_circle_fill",
-      "codepoint": 63668
-    },
-    {
-      "name": "bold",
-      "codepoint": 62864
-    },
-    {
-      "name": "bold_italic_underline",
-      "codepoint": 62865
-    },
-    {
-      "name": "bold_underline",
-      "codepoint": 62866
-    },
-    {
-      "name": "bolt",
-      "codepoint": 62867
-    },
-    {
-      "name": "bolt_badge_a",
-      "codepoint": 62868
-    },
-    {
-      "name": "bolt_badge_a_fill",
-      "codepoint": 62869
-    },
-    {
-      "name": "bolt_circle",
-      "codepoint": 62870
-    },
-    {
-      "name": "bolt_circle_fill",
-      "codepoint": 62871
-    },
-    {
-      "name": "bolt_fill",
-      "codepoint": 62872
-    },
-    {
-      "name": "bolt_horizontal",
-      "codepoint": 62873
-    },
-    {
-      "name": "bolt_horizontal_circle",
-      "codepoint": 62874
-    },
-    {
-      "name": "bolt_horizontal_circle_fill",
-      "codepoint": 62875
-    },
-    {
-      "name": "bolt_horizontal_fill",
-      "codepoint": 62876
-    },
-    {
-      "name": "bolt_slash",
-      "codepoint": 62877
-    },
-    {
-      "name": "bolt_slash_fill",
-      "codepoint": 62878
-    },
-    {
-      "name": "book",
-      "codepoint": 62439
-    },
-    {
-      "name": "book_circle",
-      "codepoint": 62879
-    },
-    {
-      "name": "book_circle_fill",
-      "codepoint": 62880
-    },
-    {
-      "name": "book_fill",
-      "codepoint": 62440
-    },
-    {
-      "name": "bookmark",
-      "codepoint": 62441
-    },
-    {
-      "name": "bookmark_fill",
-      "codepoint": 62442
-    },
-    {
-      "name": "briefcase",
-      "codepoint": 62881
-    },
-    {
-      "name": "briefcase_fill",
-      "codepoint": 62882
-    },
-    {
-      "name": "bubble_left",
-      "codepoint": 62883
-    },
-    {
-      "name": "bubble_left_bubble_right",
-      "codepoint": 62884
-    },
-    {
-      "name": "bubble_left_bubble_right_fill",
-      "codepoint": 62885
-    },
-    {
-      "name": "bubble_left_fill",
-      "codepoint": 62886
-    },
-    {
-      "name": "bubble_middle_bottom",
-      "codepoint": 62887
-    },
-    {
-      "name": "bubble_middle_bottom_fill",
-      "codepoint": 62888
-    },
-    {
-      "name": "bubble_middle_top",
-      "codepoint": 62889
-    },
-    {
-      "name": "bubble_middle_top_fill",
-      "codepoint": 62890
-    },
-    {
-      "name": "bubble_right",
-      "codepoint": 62891
-    },
-    {
-      "name": "bubble_right_fill",
-      "codepoint": 62892
-    },
-    {
-      "name": "building_2_fill",
-      "codepoint": 63669
-    },
-    {
-      "name": "burn",
-      "codepoint": 62893
-    },
-    {
-      "name": "burst",
-      "codepoint": 62894
-    },
-    {
-      "name": "burst_fill",
-      "codepoint": 62895
-    },
-    {
-      "name": "calendar",
-      "codepoint": 62896
-    },
-    {
-      "name": "calendar_badge_minus",
-      "codepoint": 62897
-    },
-    {
-      "name": "calendar_badge_plus",
-      "codepoint": 62898
-    },
-    {
-      "name": "calendar_circle",
-      "codepoint": 62899
-    },
-    {
-      "name": "calendar_circle_fill",
-      "codepoint": 62900
-    },
-    {
-      "name": "calendar_today",
-      "codepoint": 63670
-    },
-    {
-      "name": "camera",
-      "codepoint": 62453
-    },
-    {
-      "name": "camera_circle",
-      "codepoint": 62901
-    },
-    {
-      "name": "camera_circle_fill",
-      "codepoint": 62902
-    },
-    {
-      "name": "camera_fill",
-      "codepoint": 62454
-    },
-    {
-      "name": "camera_on_rectangle",
-      "codepoint": 62903
-    },
-    {
-      "name": "camera_on_rectangle_fill",
-      "codepoint": 62904
-    },
-    {
-      "name": "camera_rotate",
-      "codepoint": 62622
-    },
-    {
-      "name": "camera_rotate_fill",
-      "codepoint": 62623
-    },
-    {
-      "name": "camera_viewfinder",
-      "codepoint": 62905
-    },
-    {
-      "name": "capslock",
-      "codepoint": 62906
-    },
-    {
-      "name": "capslock_fill",
-      "codepoint": 62907
-    },
-    {
-      "name": "capsule",
-      "codepoint": 62908
-    },
-    {
-      "name": "capsule_fill",
-      "codepoint": 62909
-    },
-    {
-      "name": "captions_bubble",
-      "codepoint": 62910
-    },
-    {
-      "name": "captions_bubble_fill",
-      "codepoint": 62911
-    },
-    {
-      "name": "car_fill",
-      "codepoint": 62319
-    },
-    {
-      "name": "cart",
-      "codepoint": 62455
-    },
-    {
-      "name": "cart_badge_minus",
-      "codepoint": 62912
-    },
-    {
-      "name": "cart_badge_plus",
-      "codepoint": 62913
-    },
-    {
-      "name": "cart_fill",
-      "codepoint": 62914
-    },
-    {
-      "name": "cart_fill_badge_minus",
-      "codepoint": 62915
-    },
-    {
-      "name": "cart_fill_badge_plus",
-      "codepoint": 62916
-    },
-    {
-      "name": "chart_bar",
-      "codepoint": 62917
-    },
-    {
-      "name": "chart_bar_alt_fill",
-      "codepoint": 63671
-    },
-    {
-      "name": "chart_bar_circle",
-      "codepoint": 63672
-    },
-    {
-      "name": "chart_bar_circle_fill",
-      "codepoint": 63673
-    },
-    {
-      "name": "chart_bar_fill",
-      "codepoint": 62918
-    },
-    {
-      "name": "chart_bar_square",
-      "codepoint": 63674
-    },
-    {
-      "name": "chart_bar_square_fill",
-      "codepoint": 63675
-    },
-    {
-      "name": "chart_pie",
-      "codepoint": 62919
-    },
-    {
-      "name": "chart_pie_fill",
-      "codepoint": 62920
-    },
-    {
-      "name": "chat_bubble",
-      "codepoint": 62459
-    },
-    {
-      "name": "chat_bubble_2",
-      "codepoint": 63676
-    },
-    {
-      "name": "chat_bubble_2_fill",
-      "codepoint": 63677
-    },
-    {
-      "name": "chat_bubble_fill",
-      "codepoint": 63678
-    },
-    {
-      "name": "chat_bubble_text",
-      "codepoint": 63679
-    },
-    {
-      "name": "chat_bubble_text_fill",
-      "codepoint": 63680
-    },
-    {
-      "name": "checkmark",
-      "codepoint": 62461
-    },
-    {
-      "name": "checkmark_alt",
-      "codepoint": 63681
-    },
-    {
-      "name": "checkmark_alt_circle",
-      "codepoint": 63682
-    },
-    {
-      "name": "checkmark_alt_circle_fill",
-      "codepoint": 63683
-    },
-    {
-      "name": "checkmark_circle",
-      "codepoint": 62462
-    },
-    {
-      "name": "checkmark_circle_fill",
-      "codepoint": 62463
-    },
-    {
-      "name": "checkmark_rectangle",
-      "codepoint": 62921
-    },
-    {
-      "name": "checkmark_rectangle_fill",
-      "codepoint": 62922
-    },
-    {
-      "name": "checkmark_seal",
-      "codepoint": 62923
-    },
-    {
-      "name": "checkmark_seal_fill",
-      "codepoint": 62924
-    },
-    {
-      "name": "checkmark_shield",
-      "codepoint": 62925
-    },
-    {
-      "name": "checkmark_shield_fill",
-      "codepoint": 62926
-    },
-    {
-      "name": "checkmark_square",
-      "codepoint": 62927
-    },
-    {
-      "name": "checkmark_square_fill",
-      "codepoint": 62928
-    },
-    {
-      "name": "chevron_back",
-      "codepoint": 62415
-    },
-    {
-      "name": "chevron_compact_down",
-      "codepoint": 62929
-    },
-    {
-      "name": "chevron_compact_left",
-      "codepoint": 62930
-    },
-    {
-      "name": "chevron_compact_right",
-      "codepoint": 62931
-    },
-    {
-      "name": "chevron_compact_up",
-      "codepoint": 62932
-    },
-    {
-      "name": "chevron_down",
-      "codepoint": 62933
-    },
-    {
-      "name": "chevron_down_circle",
-      "codepoint": 62934
-    },
-    {
-      "name": "chevron_down_circle_fill",
-      "codepoint": 62935
-    },
-    {
-      "name": "chevron_down_square",
-      "codepoint": 62936
-    },
-    {
-      "name": "chevron_down_square_fill",
-      "codepoint": 62937
-    },
-    {
-      "name": "chevron_forward",
-      "codepoint": 62417
-    },
-    {
-      "name": "chevron_left",
-      "codepoint": 62418
-    },
-    {
-      "name": "chevron_left_2",
-      "codepoint": 62938
-    },
-    {
-      "name": "chevron_left_circle",
-      "codepoint": 62939
-    },
-    {
-      "name": "chevron_left_circle_fill",
-      "codepoint": 62940
-    },
-    {
-      "name": "chevron_left_slash_chevron_right",
-      "codepoint": 62941
-    },
-    {
-      "name": "chevron_left_square",
-      "codepoint": 62942
-    },
-    {
-      "name": "chevron_left_square_fill",
-      "codepoint": 62943
-    },
-    {
-      "name": "chevron_right",
-      "codepoint": 62419
-    },
-    {
-      "name": "chevron_right_2",
-      "codepoint": 62944
-    },
-    {
-      "name": "chevron_right_circle",
-      "codepoint": 62945
-    },
-    {
-      "name": "chevron_right_circle_fill",
-      "codepoint": 62946
-    },
-    {
-      "name": "chevron_right_square",
-      "codepoint": 62947
-    },
-    {
-      "name": "chevron_right_square_fill",
-      "codepoint": 62948
-    },
-    {
-      "name": "chevron_up",
-      "codepoint": 62949
-    },
-    {
-      "name": "chevron_up_chevron_down",
-      "codepoint": 62950
-    },
-    {
-      "name": "chevron_up_circle",
-      "codepoint": 62951
-    },
-    {
-      "name": "chevron_up_circle_fill",
-      "codepoint": 62952
-    },
-    {
-      "name": "chevron_up_square",
-      "codepoint": 62953
-    },
-    {
-      "name": "chevron_up_square_fill",
-      "codepoint": 62954
-    },
-    {
-      "name": "circle",
-      "codepoint": 62465
-    },
-    {
-      "name": "circle_bottomthird_split",
-      "codepoint": 62955
-    },
-    {
-      "name": "circle_fill",
-      "codepoint": 62464
-    },
-    {
-      "name": "circle_grid_3x3",
-      "codepoint": 62956
-    },
-    {
-      "name": "circle_grid_3x3_fill",
-      "codepoint": 62957
-    },
-    {
-      "name": "circle_grid_hex",
-      "codepoint": 62958
-    },
-    {
-      "name": "circle_grid_hex_fill",
-      "codepoint": 62959
-    },
-    {
-      "name": "circle_lefthalf_fill",
-      "codepoint": 62960
-    },
-    {
-      "name": "circle_righthalf_fill",
-      "codepoint": 62961
-    },
-    {
-      "name": "clear",
-      "codepoint": 62962
-    },
-    {
-      "name": "clear_fill",
-      "codepoint": 62963
-    },
-    {
-      "name": "clock",
-      "codepoint": 62466
-    },
-    {
-      "name": "clock_fill",
-      "codepoint": 62467
-    },
-    {
-      "name": "cloud",
-      "codepoint": 62964
-    },
-    {
-      "name": "cloud_bolt",
-      "codepoint": 62965
-    },
-    {
-      "name": "cloud_bolt_fill",
-      "codepoint": 62966
-    },
-    {
-      "name": "cloud_bolt_rain",
-      "codepoint": 62967
-    },
-    {
-      "name": "cloud_bolt_rain_fill",
-      "codepoint": 62968
-    },
-    {
-      "name": "cloud_download",
-      "codepoint": 63684
-    },
-    {
-      "name": "cloud_download_fill",
-      "codepoint": 63685
-    },
-    {
-      "name": "cloud_drizzle",
-      "codepoint": 62969
-    },
-    {
-      "name": "cloud_drizzle_fill",
-      "codepoint": 62970
-    },
-    {
-      "name": "cloud_fill",
-      "codepoint": 62971
-    },
-    {
-      "name": "cloud_fog",
-      "codepoint": 62972
-    },
-    {
-      "name": "cloud_fog_fill",
-      "codepoint": 62973
-    },
-    {
-      "name": "cloud_hail",
-      "codepoint": 62974
-    },
-    {
-      "name": "cloud_hail_fill",
-      "codepoint": 62975
-    },
-    {
-      "name": "cloud_heavyrain",
-      "codepoint": 62976
-    },
-    {
-      "name": "cloud_heavyrain_fill",
-      "codepoint": 62977
-    },
-    {
-      "name": "cloud_moon",
-      "codepoint": 62978
-    },
-    {
-      "name": "cloud_moon_bolt",
-      "codepoint": 62979
-    },
-    {
-      "name": "cloud_moon_bolt_fill",
-      "codepoint": 62980
-    },
-    {
-      "name": "cloud_moon_fill",
-      "codepoint": 62981
-    },
-    {
-      "name": "cloud_moon_rain",
-      "codepoint": 62982
-    },
-    {
-      "name": "cloud_moon_rain_fill",
-      "codepoint": 62983
-    },
-    {
-      "name": "cloud_rain",
-      "codepoint": 62984
-    },
-    {
-      "name": "cloud_rain_fill",
-      "codepoint": 62985
-    },
-    {
-      "name": "cloud_sleet",
-      "codepoint": 62986
-    },
-    {
-      "name": "cloud_sleet_fill",
-      "codepoint": 62987
-    },
-    {
-      "name": "cloud_snow",
-      "codepoint": 62988
-    },
-    {
-      "name": "cloud_snow_fill",
-      "codepoint": 62989
-    },
-    {
-      "name": "cloud_sun",
-      "codepoint": 62990
-    },
-    {
-      "name": "cloud_sun_bolt",
-      "codepoint": 62991
-    },
-    {
-      "name": "cloud_sun_bolt_fill",
-      "codepoint": 62992
-    },
-    {
-      "name": "cloud_sun_fill",
-      "codepoint": 62993
-    },
-    {
-      "name": "cloud_sun_rain",
-      "codepoint": 62994
-    },
-    {
-      "name": "cloud_sun_rain_fill",
-      "codepoint": 62995
-    },
-    {
-      "name": "cloud_upload",
-      "codepoint": 63686
-    },
-    {
-      "name": "cloud_upload_fill",
-      "codepoint": 63687
-    },
-    {
-      "name": "color_filter",
-      "codepoint": 63688
-    },
-    {
-      "name": "color_filter_fill",
-      "codepoint": 63689
-    },
-    {
-      "name": "command",
-      "codepoint": 62996
-    },
-    {
-      "name": "compass",
-      "codepoint": 63690
-    },
-    {
-      "name": "compass_fill",
-      "codepoint": 63691
-    },
-    {
-      "name": "control",
-      "codepoint": 62997
-    },
-    {
-      "name": "creditcard",
-      "codepoint": 62998
-    },
-    {
-      "name": "creditcard_fill",
-      "codepoint": 62999
-    },
-    {
-      "name": "crop",
-      "codepoint": 63000
-    },
-    {
-      "name": "crop_rotate",
-      "codepoint": 63001
-    },
-    {
-      "name": "cube",
-      "codepoint": 63002
-    },
-    {
-      "name": "cube_box",
-      "codepoint": 63003
-    },
-    {
-      "name": "cube_box_fill",
-      "codepoint": 63004
-    },
-    {
-      "name": "cube_fill",
-      "codepoint": 63005
-    },
-    {
-      "name": "cursor_rays",
-      "codepoint": 63006
-    },
-    {
-      "name": "decrease_indent",
-      "codepoint": 63007
-    },
-    {
-      "name": "decrease_quotelevel",
-      "codepoint": 63008
-    },
-    {
-      "name": "delete_left",
-      "codepoint": 63009
-    },
-    {
-      "name": "delete_left_fill",
-      "codepoint": 63010
-    },
-    {
-      "name": "delete_right",
-      "codepoint": 63011
-    },
-    {
-      "name": "delete_right_fill",
-      "codepoint": 63012
-    },
-    {
-      "name": "desktopcomputer",
-      "codepoint": 63013
-    },
-    {
-      "name": "device_desktop",
-      "codepoint": 63692
-    },
-    {
-      "name": "device_laptop",
-      "codepoint": 63693
-    },
-    {
-      "name": "device_phone_landscape",
-      "codepoint": 63694
-    },
-    {
-      "name": "device_phone_portrait",
-      "codepoint": 63695
-    },
-    {
-      "name": "dial",
-      "codepoint": 63014
-    },
-    {
-      "name": "dial_fill",
-      "codepoint": 63015
-    },
-    {
-      "name": "divide",
-      "codepoint": 63016
-    },
-    {
-      "name": "divide_circle",
-      "codepoint": 63017
-    },
-    {
-      "name": "divide_circle_fill",
-      "codepoint": 63018
-    },
-    {
-      "name": "divide_square",
-      "codepoint": 63019
-    },
-    {
-      "name": "divide_square_fill",
-      "codepoint": 63020
-    },
-    {
-      "name": "doc",
-      "codepoint": 63021
-    },
-    {
-      "name": "doc_append",
-      "codepoint": 63022
-    },
-    {
-      "name": "doc_chart",
-      "codepoint": 63696
-    },
-    {
-      "name": "doc_chart_fill",
-      "codepoint": 63697
-    },
-    {
-      "name": "doc_checkmark",
-      "codepoint": 63698
-    },
-    {
-      "name": "doc_checkmark_fill",
-      "codepoint": 63699
-    },
-    {
-      "name": "doc_circle",
-      "codepoint": 63023
-    },
-    {
-      "name": "doc_circle_fill",
-      "codepoint": 63024
-    },
-    {
-      "name": "doc_fill",
-      "codepoint": 63025
-    },
-    {
-      "name": "doc_on_clipboard",
-      "codepoint": 63026
-    },
-    {
-      "name": "doc_on_clipboard_fill",
-      "codepoint": 63027
-    },
-    {
-      "name": "doc_on_doc",
-      "codepoint": 63028
-    },
-    {
-      "name": "doc_on_doc_fill",
-      "codepoint": 63029
-    },
-    {
-      "name": "doc_person",
-      "codepoint": 63700
-    },
-    {
-      "name": "doc_person_fill",
-      "codepoint": 63701
-    },
-    {
-      "name": "doc_plaintext",
-      "codepoint": 63030
-    },
-    {
-      "name": "doc_richtext",
-      "codepoint": 63031
-    },
-    {
-      "name": "doc_text",
-      "codepoint": 63032
-    },
-    {
-      "name": "doc_text_fill",
-      "codepoint": 63033
-    },
-    {
-      "name": "doc_text_search",
-      "codepoint": 63034
-    },
-    {
-      "name": "doc_text_viewfinder",
-      "codepoint": 63035
-    },
-    {
-      "name": "dot_radiowaves_left_right",
-      "codepoint": 63036
-    },
-    {
-      "name": "dot_radiowaves_right",
-      "codepoint": 63037
-    },
-    {
-      "name": "dot_square",
-      "codepoint": 63038
-    },
-    {
-      "name": "dot_square_fill",
-      "codepoint": 63039
-    },
-    {
-      "name": "download_circle",
-      "codepoint": 63702
-    },
-    {
-      "name": "download_circle_fill",
-      "codepoint": 63703
-    },
-    {
-      "name": "drop",
-      "codepoint": 63704
-    },
-    {
-      "name": "drop_fill",
-      "codepoint": 63705
-    },
-    {
-      "name": "drop_triangle",
-      "codepoint": 63040
-    },
-    {
-      "name": "drop_triangle_fill",
-      "codepoint": 63041
-    },
-    {
-      "name": "ear",
-      "codepoint": 63042
-    },
-    {
-      "name": "eject",
-      "codepoint": 63043
-    },
-    {
-      "name": "eject_fill",
-      "codepoint": 63044
-    },
-    {
-      "name": "ellipses_bubble",
-      "codepoint": 63045
-    },
-    {
-      "name": "ellipses_bubble_fill",
-      "codepoint": 63046
-    },
-    {
-      "name": "ellipsis",
-      "codepoint": 62570
-    },
-    {
-      "name": "ellipsis_circle",
-      "codepoint": 63047
-    },
-    {
-      "name": "ellipsis_circle_fill",
-      "codepoint": 63048
-    },
-    {
-      "name": "ellipsis_vertical",
-      "codepoint": 63706
-    },
-    {
-      "name": "ellipsis_vertical_circle",
-      "codepoint": 63707
-    },
-    {
-      "name": "ellipsis_vertical_circle_fill",
-      "codepoint": 63708
-    },
-    {
-      "name": "envelope",
-      "codepoint": 62498
-    },
-    {
-      "name": "envelope_badge",
-      "codepoint": 63049
-    },
-    {
-      "name": "envelope_badge_fill",
-      "codepoint": 63050
-    },
-    {
-      "name": "envelope_circle",
-      "codepoint": 63051
-    },
-    {
-      "name": "envelope_circle_fill",
-      "codepoint": 63052
-    },
-    {
-      "name": "envelope_fill",
-      "codepoint": 62499
-    },
-    {
-      "name": "envelope_open",
-      "codepoint": 63053
-    },
-    {
-      "name": "envelope_open_fill",
-      "codepoint": 63054
-    },
-    {
-      "name": "equal",
-      "codepoint": 63055
-    },
-    {
-      "name": "equal_circle",
-      "codepoint": 63056
-    },
-    {
-      "name": "equal_circle_fill",
-      "codepoint": 63057
-    },
-    {
-      "name": "equal_square",
-      "codepoint": 63058
-    },
-    {
-      "name": "equal_square_fill",
-      "codepoint": 63059
-    },
-    {
-      "name": "escape",
-      "codepoint": 63060
-    },
-    {
-      "name": "exclamationmark",
-      "codepoint": 63061
-    },
-    {
-      "name": "exclamationmark_bubble",
-      "codepoint": 63062
-    },
-    {
-      "name": "exclamationmark_bubble_fill",
-      "codepoint": 63063
-    },
-    {
-      "name": "exclamationmark_circle",
-      "codepoint": 63064
-    },
-    {
-      "name": "exclamationmark_circle_fill",
-      "codepoint": 63065
-    },
-    {
-      "name": "exclamationmark_octagon",
-      "codepoint": 63066
-    },
-    {
-      "name": "exclamationmark_octagon_fill",
-      "codepoint": 63067
-    },
-    {
-      "name": "exclamationmark_shield",
-      "codepoint": 63068
-    },
-    {
-      "name": "exclamationmark_shield_fill",
-      "codepoint": 63069
-    },
-    {
-      "name": "exclamationmark_square",
-      "codepoint": 63070
-    },
-    {
-      "name": "exclamationmark_square_fill",
-      "codepoint": 63071
-    },
-    {
-      "name": "exclamationmark_triangle",
-      "codepoint": 63072
-    },
-    {
-      "name": "exclamationmark_triangle_fill",
-      "codepoint": 63073
-    },
-    {
-      "name": "eye",
-      "codepoint": 62500
-    },
-    {
-      "name": "eye_fill",
-      "codepoint": 62501
-    },
-    {
-      "name": "eye_slash",
-      "codepoint": 63074
-    },
-    {
-      "name": "eye_slash_fill",
-      "codepoint": 63075
-    },
-    {
-      "name": "eyedropper",
-      "codepoint": 63076
-    },
-    {
-      "name": "eyedropper_full",
-      "codepoint": 63077
-    },
-    {
-      "name": "eyedropper_halffull",
-      "codepoint": 63078
-    },
-    {
-      "name": "eyeglasses",
-      "codepoint": 63079
-    },
-    {
-      "name": "f_cursive",
-      "codepoint": 63080
-    },
-    {
-      "name": "f_cursive_circle",
-      "codepoint": 63081
-    },
-    {
-      "name": "f_cursive_circle_fill",
-      "codepoint": 63082
-    },
-    {
-      "name": "film",
-      "codepoint": 63083
-    },
-    {
-      "name": "film_fill",
-      "codepoint": 63084
-    },
-    {
-      "name": "flag",
-      "codepoint": 62508
-    },
-    {
-      "name": "flag_circle",
-      "codepoint": 63085
-    },
-    {
-      "name": "flag_circle_fill",
-      "codepoint": 63086
-    },
-    {
-      "name": "flag_fill",
-      "codepoint": 63087
-    },
-    {
-      "name": "flag_slash",
-      "codepoint": 63088
-    },
-    {
-      "name": "flag_slash_fill",
-      "codepoint": 63089
-    },
-    {
-      "name": "flame",
-      "codepoint": 63090
-    },
-    {
-      "name": "flame_fill",
-      "codepoint": 63091
-    },
-    {
-      "name": "floppy_disk",
-      "codepoint": 63709
-    },
-    {
-      "name": "flowchart",
-      "codepoint": 63092
-    },
-    {
-      "name": "flowchart_fill",
-      "codepoint": 63093
-    },
-    {
-      "name": "folder",
-      "codepoint": 62516
-    },
-    {
-      "name": "folder_badge_minus",
-      "codepoint": 63094
-    },
-    {
-      "name": "folder_badge_person_crop",
-      "codepoint": 63095
-    },
-    {
-      "name": "folder_badge_plus",
-      "codepoint": 63096
-    },
-    {
-      "name": "folder_circle",
-      "codepoint": 63097
-    },
-    {
-      "name": "folder_circle_fill",
-      "codepoint": 63098
-    },
-    {
-      "name": "folder_fill",
-      "codepoint": 62517
-    },
-    {
-      "name": "folder_fill_badge_minus",
-      "codepoint": 63099
-    },
-    {
-      "name": "folder_fill_badge_person_crop",
-      "codepoint": 63100
-    },
-    {
-      "name": "folder_fill_badge_plus",
-      "codepoint": 63101
-    },
-    {
-      "name": "forward",
-      "codepoint": 63102
-    },
-    {
-      "name": "forward_end",
-      "codepoint": 63103
-    },
-    {
-      "name": "forward_end_alt",
-      "codepoint": 63104
-    },
-    {
-      "name": "forward_end_alt_fill",
-      "codepoint": 63105
-    },
-    {
-      "name": "forward_end_fill",
-      "codepoint": 63106
-    },
-    {
-      "name": "forward_fill",
-      "codepoint": 63107
-    },
-    {
-      "name": "function",
-      "codepoint": 63108
-    },
-    {
-      "name": "fx",
-      "codepoint": 63109
-    },
-    {
-      "name": "gamecontroller",
-      "codepoint": 62522
-    },
-    {
-      "name": "gamecontroller_alt_fill",
-      "codepoint": 63710
-    },
-    {
-      "name": "gamecontroller_fill",
-      "codepoint": 62523
-    },
-    {
-      "name": "gauge",
-      "codepoint": 63110
-    },
-    {
-      "name": "gauge_badge_minus",
-      "codepoint": 63111
-    },
-    {
-      "name": "gauge_badge_plus",
-      "codepoint": 63112
-    },
-    {
-      "name": "gear",
-      "codepoint": 62481
-    },
-    {
-      "name": "gear_alt",
-      "codepoint": 62524
-    },
-    {
-      "name": "gear_alt_fill",
-      "codepoint": 62525
-    },
-    {
-      "name": "gift",
-      "codepoint": 63113
-    },
-    {
-      "name": "gift_alt",
-      "codepoint": 63114
-    },
-    {
-      "name": "gift_alt_fill",
-      "codepoint": 63115
-    },
-    {
-      "name": "gift_fill",
-      "codepoint": 63116
-    },
-    {
-      "name": "globe",
-      "codepoint": 63117
-    },
-    {
-      "name": "gobackward",
-      "codepoint": 63118
-    },
-    {
-      "name": "gobackward_10",
-      "codepoint": 63119
-    },
-    {
-      "name": "gobackward_15",
-      "codepoint": 63120
-    },
-    {
-      "name": "gobackward_30",
-      "codepoint": 63121
-    },
-    {
-      "name": "gobackward_45",
-      "codepoint": 63122
-    },
-    {
-      "name": "gobackward_60",
-      "codepoint": 63123
-    },
-    {
-      "name": "gobackward_75",
-      "codepoint": 63124
-    },
-    {
-      "name": "gobackward_90",
-      "codepoint": 63125
-    },
-    {
-      "name": "gobackward_minus",
-      "codepoint": 63126
-    },
-    {
-      "name": "goforward",
-      "codepoint": 63127
-    },
-    {
-      "name": "goforward_10",
-      "codepoint": 63128
-    },
-    {
-      "name": "goforward_15",
-      "codepoint": 63129
-    },
-    {
-      "name": "goforward_30",
-      "codepoint": 63130
-    },
-    {
-      "name": "goforward_45",
-      "codepoint": 63131
-    },
-    {
-      "name": "goforward_60",
-      "codepoint": 63132
-    },
-    {
-      "name": "goforward_75",
-      "codepoint": 63133
-    },
-    {
-      "name": "goforward_90",
-      "codepoint": 63134
-    },
-    {
-      "name": "goforward_plus",
-      "codepoint": 63135
-    },
-    {
-      "name": "graph_circle",
-      "codepoint": 63711
-    },
-    {
-      "name": "graph_circle_fill",
-      "codepoint": 63712
-    },
-    {
-      "name": "graph_square",
-      "codepoint": 63713
-    },
-    {
-      "name": "graph_square_fill",
-      "codepoint": 63714
-    },
-    {
-      "name": "greaterthan",
-      "codepoint": 63136
-    },
-    {
-      "name": "greaterthan_circle",
-      "codepoint": 63137
-    },
-    {
-      "name": "greaterthan_circle_fill",
-      "codepoint": 63138
-    },
-    {
-      "name": "greaterthan_square",
-      "codepoint": 63139
-    },
-    {
-      "name": "greaterthan_square_fill",
-      "codepoint": 63140
-    },
-    {
-      "name": "grid",
-      "codepoint": 63141
-    },
-    {
-      "name": "grid_circle",
-      "codepoint": 63142
-    },
-    {
-      "name": "grid_circle_fill",
-      "codepoint": 63143
-    },
-    {
-      "name": "guitars",
-      "codepoint": 63144
-    },
-    {
-      "name": "hammer",
-      "codepoint": 63145
-    },
-    {
-      "name": "hammer_fill",
-      "codepoint": 63146
-    },
-    {
-      "name": "hand_draw",
-      "codepoint": 63147
-    },
-    {
-      "name": "hand_draw_fill",
-      "codepoint": 63148
-    },
-    {
-      "name": "hand_point_left",
-      "codepoint": 63149
-    },
-    {
-      "name": "hand_point_left_fill",
-      "codepoint": 63150
-    },
-    {
-      "name": "hand_point_right",
-      "codepoint": 63151
-    },
-    {
-      "name": "hand_point_right_fill",
-      "codepoint": 63152
-    },
-    {
-      "name": "hand_raised",
-      "codepoint": 63153
-    },
-    {
-      "name": "hand_raised_fill",
-      "codepoint": 63154
-    },
-    {
-      "name": "hand_raised_slash",
-      "codepoint": 63155
-    },
-    {
-      "name": "hand_raised_slash_fill",
-      "codepoint": 63156
-    },
-    {
-      "name": "hand_thumbsdown",
-      "codepoint": 63157
-    },
-    {
-      "name": "hand_thumbsdown_fill",
-      "codepoint": 63158
-    },
-    {
-      "name": "hand_thumbsup",
-      "codepoint": 63159
-    },
-    {
-      "name": "hand_thumbsup_fill",
-      "codepoint": 63160
-    },
-    {
-      "name": "hare",
-      "codepoint": 63161
-    },
-    {
-      "name": "hare_fill",
-      "codepoint": 63162
-    },
-    {
-      "name": "headphones",
-      "codepoint": 63163
-    },
-    {
-      "name": "heart",
-      "codepoint": 62530
-    },
-    {
-      "name": "heart_circle",
-      "codepoint": 63164
-    },
-    {
-      "name": "heart_circle_fill",
-      "codepoint": 63165
-    },
-    {
-      "name": "heart_fill",
-      "codepoint": 62531
-    },
-    {
-      "name": "heart_slash",
-      "codepoint": 63166
-    },
-    {
-      "name": "heart_slash_circle",
-      "codepoint": 63167
-    },
-    {
-      "name": "heart_slash_circle_fill",
-      "codepoint": 63168
-    },
-    {
-      "name": "heart_slash_fill",
-      "codepoint": 63169
-    },
-    {
-      "name": "helm",
-      "codepoint": 63170
-    },
-    {
-      "name": "hexagon",
-      "codepoint": 63171
-    },
-    {
-      "name": "hexagon_fill",
-      "codepoint": 63172
-    },
-    {
-      "name": "hifispeaker",
-      "codepoint": 63173
-    },
-    {
-      "name": "hifispeaker_fill",
-      "codepoint": 63174
-    },
-    {
-      "name": "hourglass",
-      "codepoint": 63175
-    },
-    {
-      "name": "hourglass_bottomhalf_fill",
-      "codepoint": 63176
-    },
-    {
-      "name": "hourglass_tophalf_fill",
-      "codepoint": 63177
-    },
-    {
-      "name": "house",
-      "codepoint": 62535
-    },
-    {
-      "name": "house_alt",
-      "codepoint": 63715
-    },
-    {
-      "name": "house_alt_fill",
-      "codepoint": 63716
-    },
-    {
-      "name": "house_fill",
-      "codepoint": 63178
-    },
-    {
-      "name": "hurricane",
-      "codepoint": 63179
-    },
-    {
-      "name": "increase_indent",
-      "codepoint": 63180
-    },
-    {
-      "name": "increase_quotelevel",
-      "codepoint": 63181
-    },
-    {
-      "name": "infinite",
-      "codepoint": 62537
-    },
-    {
-      "name": "info",
-      "codepoint": 63182
-    },
-    {
-      "name": "info_circle",
-      "codepoint": 62540
-    },
-    {
-      "name": "info_circle_fill",
-      "codepoint": 63183
-    },
-    {
-      "name": "italic",
-      "codepoint": 63184
-    },
-    {
-      "name": "keyboard",
-      "codepoint": 63185
-    },
-    {
-      "name": "keyboard_chevron_compact_down",
-      "codepoint": 63186
-    },
-    {
-      "name": "largecircle_fill_circle",
-      "codepoint": 63187
-    },
-    {
-      "name": "lasso",
-      "codepoint": 63188
-    },
-    {
-      "name": "layers",
-      "codepoint": 63717
-    },
-    {
-      "name": "layers_alt",
-      "codepoint": 63718
-    },
-    {
-      "name": "layers_alt_fill",
-      "codepoint": 63719
-    },
-    {
-      "name": "layers_fill",
-      "codepoint": 63720
-    },
-    {
-      "name": "leaf_arrow_circlepath",
-      "codepoint": 63189
-    },
-    {
-      "name": "lessthan",
-      "codepoint": 63190
-    },
-    {
-      "name": "lessthan_circle",
-      "codepoint": 63191
-    },
-    {
-      "name": "lessthan_circle_fill",
-      "codepoint": 63192
-    },
-    {
-      "name": "lessthan_square",
-      "codepoint": 63193
-    },
-    {
-      "name": "lessthan_square_fill",
-      "codepoint": 63194
-    },
-    {
-      "name": "light_max",
-      "codepoint": 63195
-    },
-    {
-      "name": "light_min",
-      "codepoint": 63196
-    },
-    {
-      "name": "lightbulb",
-      "codepoint": 63197
-    },
-    {
-      "name": "lightbulb_fill",
-      "codepoint": 63198
-    },
-    {
-      "name": "lightbulb_slash",
-      "codepoint": 63199
-    },
-    {
-      "name": "lightbulb_slash_fill",
-      "codepoint": 63200
-    },
-    {
-      "name": "line_horizontal_3",
-      "codepoint": 63201
-    },
-    {
-      "name": "line_horizontal_3_decrease",
-      "codepoint": 63202
-    },
-    {
-      "name": "line_horizontal_3_decrease_circle",
-      "codepoint": 63203
-    },
-    {
-      "name": "line_horizontal_3_decrease_circle_fill",
-      "codepoint": 63204
-    },
-    {
-      "name": "link",
-      "codepoint": 63205
-    },
-    {
-      "name": "link_circle",
-      "codepoint": 63206
-    },
-    {
-      "name": "link_circle_fill",
-      "codepoint": 63207
-    },
-    {
-      "name": "list_bullet",
-      "codepoint": 63208
-    },
-    {
-      "name": "list_bullet_below_rectangle",
-      "codepoint": 63209
-    },
-    {
-      "name": "list_bullet_indent",
-      "codepoint": 63210
-    },
-    {
-      "name": "list_dash",
-      "codepoint": 63211
-    },
-    {
-      "name": "list_number",
-      "codepoint": 63212
-    },
-    {
-      "name": "list_number_rtl",
-      "codepoint": 63213
-    },
-    {
-      "name": "location",
-      "codepoint": 63214
-    },
-    {
-      "name": "location_circle",
-      "codepoint": 63215
-    },
-    {
-      "name": "location_circle_fill",
-      "codepoint": 63216
-    },
-    {
-      "name": "location_fill",
-      "codepoint": 63217
-    },
-    {
-      "name": "location_north",
-      "codepoint": 63218
-    },
-    {
-      "name": "location_north_fill",
-      "codepoint": 63219
-    },
-    {
-      "name": "location_north_line",
-      "codepoint": 63220
-    },
-    {
-      "name": "location_north_line_fill",
-      "codepoint": 63221
-    },
-    {
-      "name": "location_slash",
-      "codepoint": 63222
-    },
-    {
-      "name": "location_slash_fill",
-      "codepoint": 63223
-    },
-    {
-      "name": "lock",
-      "codepoint": 62664
-    },
-    {
-      "name": "lock_circle",
-      "codepoint": 63224
-    },
-    {
-      "name": "lock_circle_fill",
-      "codepoint": 63225
-    },
-    {
-      "name": "lock_fill",
-      "codepoint": 62665
-    },
-    {
-      "name": "lock_open",
-      "codepoint": 63226
-    },
-    {
-      "name": "lock_open_fill",
-      "codepoint": 63227
-    },
-    {
-      "name": "lock_rotation",
-      "codepoint": 63228
-    },
-    {
-      "name": "lock_rotation_open",
-      "codepoint": 63229
-    },
-    {
-      "name": "lock_shield",
-      "codepoint": 63230
-    },
-    {
-      "name": "lock_shield_fill",
-      "codepoint": 63231
-    },
-    {
-      "name": "lock_slash",
-      "codepoint": 63232
-    },
-    {
-      "name": "lock_slash_fill",
-      "codepoint": 63233
-    },
-    {
-      "name": "macwindow",
-      "codepoint": 63234
-    },
-    {
-      "name": "map",
-      "codepoint": 63235
-    },
-    {
-      "name": "map_fill",
-      "codepoint": 63236
-    },
-    {
-      "name": "map_pin",
-      "codepoint": 63237
-    },
-    {
-      "name": "map_pin_ellipse",
-      "codepoint": 63238
-    },
-    {
-      "name": "map_pin_slash",
-      "codepoint": 63239
-    },
-    {
-      "name": "memories",
-      "codepoint": 63240
-    },
-    {
-      "name": "memories_badge_minus",
-      "codepoint": 63241
-    },
-    {
-      "name": "memories_badge_plus",
-      "codepoint": 63242
-    },
-    {
-      "name": "metronome",
-      "codepoint": 63243
-    },
-    {
-      "name": "mic",
-      "codepoint": 62560
-    },
-    {
-      "name": "mic_circle",
-      "codepoint": 63244
-    },
-    {
-      "name": "mic_circle_fill",
-      "codepoint": 63245
-    },
-    {
-      "name": "mic_fill",
-      "codepoint": 62561
-    },
-    {
-      "name": "mic_slash",
-      "codepoint": 62559
-    },
-    {
-      "name": "mic_slash_fill",
-      "codepoint": 63246
-    },
-    {
-      "name": "minus",
-      "codepoint": 63247
-    },
-    {
-      "name": "minus_circle",
-      "codepoint": 62563
-    },
-    {
-      "name": "minus_circle_fill",
-      "codepoint": 63248
-    },
-    {
-      "name": "minus_rectangle",
-      "codepoint": 63249
-    },
-    {
-      "name": "minus_rectangle_fill",
-      "codepoint": 63250
-    },
-    {
-      "name": "minus_slash_plus",
-      "codepoint": 63251
-    },
-    {
-      "name": "minus_square",
-      "codepoint": 63252
-    },
-    {
-      "name": "minus_square_fill",
-      "codepoint": 63253
-    },
-    {
-      "name": "money_dollar",
-      "codepoint": 63721
-    },
-    {
-      "name": "money_dollar_circle",
-      "codepoint": 63722
-    },
-    {
-      "name": "money_dollar_circle_fill",
-      "codepoint": 63723
-    },
-    {
-      "name": "money_euro",
-      "codepoint": 63724
-    },
-    {
-      "name": "money_euro_circle",
-      "codepoint": 63725
-    },
-    {
-      "name": "money_euro_circle_fill",
-      "codepoint": 63726
-    },
-    {
-      "name": "money_pound",
-      "codepoint": 63727
-    },
-    {
-      "name": "money_pound_circle",
-      "codepoint": 63728
-    },
-    {
-      "name": "money_pound_circle_fill",
-      "codepoint": 63729
-    },
-    {
-      "name": "money_rubl",
-      "codepoint": 63730
-    },
-    {
-      "name": "money_rubl_circle",
-      "codepoint": 63731
-    },
-    {
-      "name": "money_rubl_circle_fill",
-      "codepoint": 63732
-    },
-    {
-      "name": "money_yen",
-      "codepoint": 63733
-    },
-    {
-      "name": "money_yen_circle",
-      "codepoint": 63734
-    },
-    {
-      "name": "money_yen_circle_fill",
-      "codepoint": 63735
-    },
-    {
-      "name": "moon",
-      "codepoint": 63254
-    },
-    {
-      "name": "moon_circle",
-      "codepoint": 63255
-    },
-    {
-      "name": "moon_circle_fill",
-      "codepoint": 63256
-    },
-    {
-      "name": "moon_fill",
-      "codepoint": 63257
-    },
-    {
-      "name": "moon_stars",
-      "codepoint": 63258
-    },
-    {
-      "name": "moon_stars_fill",
-      "codepoint": 63259
-    },
-    {
-      "name": "moon_zzz",
-      "codepoint": 63260
-    },
-    {
-      "name": "moon_zzz_fill",
-      "codepoint": 63261
-    },
-    {
-      "name": "move",
-      "codepoint": 63736
-    },
-    {
-      "name": "multiply",
-      "codepoint": 63262
-    },
-    {
-      "name": "multiply_circle",
-      "codepoint": 63263
-    },
-    {
-      "name": "multiply_circle_fill",
-      "codepoint": 63264
-    },
-    {
-      "name": "multiply_square",
-      "codepoint": 63265
-    },
-    {
-      "name": "multiply_square_fill",
-      "codepoint": 63266
-    },
-    {
-      "name": "music_albums",
-      "codepoint": 63737
-    },
-    {
-      "name": "music_albums_fill",
-      "codepoint": 63738
-    },
-    {
-      "name": "music_house",
-      "codepoint": 63267
-    },
-    {
-      "name": "music_house_fill",
-      "codepoint": 63268
-    },
-    {
-      "name": "music_mic",
-      "codepoint": 63269
-    },
-    {
-      "name": "music_note",
-      "codepoint": 62571
-    },
-    {
-      "name": "music_note_2",
-      "codepoint": 62572
-    },
-    {
-      "name": "music_note_list",
-      "codepoint": 63270
-    },
-    {
-      "name": "nosign",
-      "codepoint": 63271
-    },
-    {
-      "name": "number",
-      "codepoint": 63272
-    },
-    {
-      "name": "number_circle",
-      "codepoint": 63273
-    },
-    {
-      "name": "number_circle_fill",
-      "codepoint": 63274
-    },
-    {
-      "name": "number_square",
-      "codepoint": 63275
-    },
-    {
-      "name": "number_square_fill",
-      "codepoint": 63276
-    },
-    {
-      "name": "option",
-      "codepoint": 63277
-    },
-    {
-      "name": "paintbrush",
-      "codepoint": 63278
-    },
-    {
-      "name": "paintbrush_fill",
-      "codepoint": 63279
-    },
-    {
-      "name": "pano",
-      "codepoint": 63280
-    },
-    {
-      "name": "pano_fill",
-      "codepoint": 63281
-    },
-    {
-      "name": "paperclip",
-      "codepoint": 63282
-    },
-    {
-      "name": "paperplane",
-      "codepoint": 63283
-    },
-    {
-      "name": "paperplane_fill",
-      "codepoint": 63284
-    },
-    {
-      "name": "paragraph",
-      "codepoint": 63285
-    },
-    {
-      "name": "pause",
-      "codepoint": 62583
-    },
-    {
-      "name": "pause_circle",
-      "codepoint": 63286
-    },
-    {
-      "name": "pause_circle_fill",
-      "codepoint": 63287
-    },
-    {
-      "name": "pause_fill",
-      "codepoint": 62584
-    },
-    {
-      "name": "pause_rectangle",
-      "codepoint": 63288
-    },
-    {
-      "name": "pause_rectangle_fill",
-      "codepoint": 63289
-    },
-    {
-      "name": "paw",
-      "codepoint": 62586
-    },
-    {
-      "name": "pencil",
-      "codepoint": 62334
-    },
-    {
-      "name": "pencil_circle",
-      "codepoint": 63290
-    },
-    {
-      "name": "pencil_circle_fill",
-      "codepoint": 63291
-    },
-    {
-      "name": "pencil_ellipsis_rectangle",
-      "codepoint": 63292
-    },
-    {
-      "name": "pencil_outline",
-      "codepoint": 63293
-    },
-    {
-      "name": "pencil_slash",
-      "codepoint": 63294
-    },
-    {
-      "name": "percent",
-      "codepoint": 63295
-    },
-    {
-      "name": "person",
-      "codepoint": 62589
-    },
-    {
-      "name": "person_2",
-      "codepoint": 63296
-    },
-    {
-      "name": "person_2_alt",
-      "codepoint": 63739
-    },
-    {
-      "name": "person_2_fill",
-      "codepoint": 63297
-    },
-    {
-      "name": "person_2_square_stack",
-      "codepoint": 63298
-    },
-    {
-      "name": "person_2_square_stack_fill",
-      "codepoint": 63299
-    },
-    {
-      "name": "person_3",
-      "codepoint": 62587
-    },
-    {
-      "name": "person_3_fill",
-      "codepoint": 62588
-    },
-    {
-      "name": "person_alt",
-      "codepoint": 63740
-    },
-    {
-      "name": "person_alt_circle",
-      "codepoint": 63741
-    },
-    {
-      "name": "person_alt_circle_fill",
-      "codepoint": 63742
-    },
-    {
-      "name": "person_badge_minus",
-      "codepoint": 63300
-    },
-    {
-      "name": "person_badge_minus_fill",
-      "codepoint": 63301
-    },
-    {
-      "name": "person_badge_plus",
-      "codepoint": 62591
-    },
-    {
-      "name": "person_badge_plus_fill",
-      "codepoint": 62592
-    },
-    {
-      "name": "person_circle",
-      "codepoint": 63302
-    },
-    {
-      "name": "person_circle_fill",
-      "codepoint": 63303
-    },
-    {
-      "name": "person_crop_circle",
-      "codepoint": 62489
-    },
-    {
-      "name": "person_crop_circle_badge_checkmark",
-      "codepoint": 63304
-    },
-    {
-      "name": "person_crop_circle_badge_exclam",
-      "codepoint": 63305
-    },
-    {
-      "name": "person_crop_circle_badge_minus",
-      "codepoint": 63306
-    },
-    {
-      "name": "person_crop_circle_badge_plus",
-      "codepoint": 63307
-    },
-    {
-      "name": "person_crop_circle_badge_xmark",
-      "codepoint": 63308
-    },
-    {
-      "name": "person_crop_circle_fill",
-      "codepoint": 63309
-    },
-    {
-      "name": "person_crop_circle_fill_badge_checkmark",
-      "codepoint": 63310
-    },
-    {
-      "name": "person_crop_circle_fill_badge_exclam",
-      "codepoint": 63311
-    },
-    {
-      "name": "person_crop_circle_fill_badge_minus",
-      "codepoint": 63312
-    },
-    {
-      "name": "person_crop_circle_fill_badge_plus",
-      "codepoint": 63313
-    },
-    {
-      "name": "person_crop_circle_fill_badge_xmark",
-      "codepoint": 63314
-    },
-    {
-      "name": "person_crop_rectangle",
-      "codepoint": 63315
-    },
-    {
-      "name": "person_crop_rectangle_fill",
-      "codepoint": 63316
-    },
-    {
-      "name": "person_crop_square",
-      "codepoint": 63317
-    },
-    {
-      "name": "person_crop_square_fill",
-      "codepoint": 63318
-    },
-    {
-      "name": "person_fill",
-      "codepoint": 62590
-    },
-    {
-      "name": "personalhotspot",
-      "codepoint": 63319
-    },
-    {
-      "name": "perspective",
-      "codepoint": 63320
-    },
-    {
-      "name": "phone",
-      "codepoint": 62648
-    },
-    {
-      "name": "phone_arrow_down_left",
-      "codepoint": 63321
-    },
-    {
-      "name": "phone_arrow_right",
-      "codepoint": 63322
-    },
-    {
-      "name": "phone_arrow_up_right",
-      "codepoint": 63323
-    },
-    {
-      "name": "phone_badge_plus",
-      "codepoint": 63324
-    },
-    {
-      "name": "phone_circle",
-      "codepoint": 63325
-    },
-    {
-      "name": "phone_circle_fill",
-      "codepoint": 63326
-    },
-    {
-      "name": "phone_down",
-      "codepoint": 63327
-    },
-    {
-      "name": "phone_down_circle",
-      "codepoint": 63328
-    },
-    {
-      "name": "phone_down_circle_fill",
-      "codepoint": 63329
-    },
-    {
-      "name": "phone_down_fill",
-      "codepoint": 63330
-    },
-    {
-      "name": "phone_fill",
-      "codepoint": 62649
-    },
-    {
-      "name": "phone_fill_arrow_down_left",
-      "codepoint": 63331
-    },
-    {
-      "name": "phone_fill_arrow_right",
-      "codepoint": 63332
-    },
-    {
-      "name": "phone_fill_arrow_up_right",
-      "codepoint": 63333
-    },
-    {
-      "name": "phone_fill_badge_plus",
-      "codepoint": 63334
-    },
-    {
-      "name": "photo",
-      "codepoint": 63335
-    },
-    {
-      "name": "photo_fill",
-      "codepoint": 63336
-    },
-    {
-      "name": "photo_fill_on_rectangle_fill",
-      "codepoint": 63337
-    },
-    {
-      "name": "photo_on_rectangle",
-      "codepoint": 63338
-    },
-    {
-      "name": "piano",
-      "codepoint": 63743
-    },
-    {
-      "name": "pin",
-      "codepoint": 63339
-    },
-    {
-      "name": "pin_fill",
-      "codepoint": 63340
-    },
-    {
-      "name": "pin_slash",
-      "codepoint": 63341
-    },
-    {
-      "name": "pin_slash_fill",
-      "codepoint": 63342
-    },
-    {
-      "name": "placemark",
-      "codepoint": 62549
-    },
-    {
-      "name": "placemark_fill",
-      "codepoint": 62550
-    },
-    {
-      "name": "play",
-      "codepoint": 62599
-    },
-    {
-      "name": "play_circle",
-      "codepoint": 63343
-    },
-    {
-      "name": "play_circle_fill",
-      "codepoint": 63344
-    },
-    {
-      "name": "play_fill",
-      "codepoint": 62600
-    },
-    {
-      "name": "play_rectangle",
-      "codepoint": 63345
-    },
-    {
-      "name": "play_rectangle_fill",
-      "codepoint": 63346
-    },
-    {
-      "name": "playpause",
-      "codepoint": 63347
-    },
-    {
-      "name": "playpause_fill",
-      "codepoint": 63348
-    },
-    {
-      "name": "plus",
-      "codepoint": 62601
-    },
-    {
-      "name": "plus_app",
-      "codepoint": 63349
-    },
-    {
-      "name": "plus_app_fill",
-      "codepoint": 63350
-    },
-    {
-      "name": "plus_bubble",
-      "codepoint": 63351
-    },
-    {
-      "name": "plus_bubble_fill",
-      "codepoint": 63352
-    },
-    {
-      "name": "plus_circle",
-      "codepoint": 62602
-    },
-    {
-      "name": "plus_circle_fill",
-      "codepoint": 62603
-    },
-    {
-      "name": "plus_rectangle",
-      "codepoint": 63353
-    },
-    {
-      "name": "plus_rectangle_fill",
-      "codepoint": 63354
-    },
-    {
-      "name": "plus_rectangle_fill_on_rectangle_fill",
-      "codepoint": 63355
-    },
-    {
-      "name": "plus_rectangle_on_rectangle",
-      "codepoint": 63356
-    },
-    {
-      "name": "plus_slash_minus",
-      "codepoint": 63357
-    },
-    {
-      "name": "plus_square",
-      "codepoint": 63358
-    },
-    {
-      "name": "plus_square_fill",
-      "codepoint": 63359
-    },
-    {
-      "name": "plus_square_fill_on_square_fill",
-      "codepoint": 63360
-    },
-    {
-      "name": "plus_square_on_square",
-      "codepoint": 63361
-    },
-    {
-      "name": "plusminus",
-      "codepoint": 63362
-    },
-    {
-      "name": "plusminus_circle",
-      "codepoint": 63363
-    },
-    {
-      "name": "plusminus_circle_fill",
-      "codepoint": 63364
-    },
-    {
-      "name": "power",
-      "codepoint": 63365
-    },
-    {
-      "name": "printer",
-      "codepoint": 63366
-    },
-    {
-      "name": "printer_fill",
-      "codepoint": 63367
-    },
-    {
-      "name": "projective",
-      "codepoint": 63368
-    },
-    {
-      "name": "purchased",
-      "codepoint": 63369
-    },
-    {
-      "name": "purchased_circle",
-      "codepoint": 63370
-    },
-    {
-      "name": "purchased_circle_fill",
-      "codepoint": 63371
-    },
-    {
-      "name": "qrcode",
-      "codepoint": 63372
-    },
-    {
-      "name": "qrcode_viewfinder",
-      "codepoint": 63373
-    },
-    {
-      "name": "question",
-      "codepoint": 63374
-    },
-    {
-      "name": "question_circle",
-      "codepoint": 63375
-    },
-    {
-      "name": "question_circle_fill",
-      "codepoint": 63376
-    },
-    {
-      "name": "question_diamond",
-      "codepoint": 63377
-    },
-    {
-      "name": "question_diamond_fill",
-      "codepoint": 63378
-    },
-    {
-      "name": "question_square",
-      "codepoint": 63379
-    },
-    {
-      "name": "question_square_fill",
-      "codepoint": 63380
-    },
-    {
-      "name": "quote_bubble",
-      "codepoint": 63381
-    },
-    {
-      "name": "quote_bubble_fill",
-      "codepoint": 63382
-    },
-    {
-      "name": "radiowaves_left",
-      "codepoint": 63383
-    },
-    {
-      "name": "radiowaves_right",
-      "codepoint": 63384
-    },
-    {
-      "name": "rays",
-      "codepoint": 63385
-    },
-    {
-      "name": "recordingtape",
-      "codepoint": 63386
-    },
-    {
-      "name": "rectangle",
-      "codepoint": 63387
-    },
-    {
-      "name": "rectangle_3_offgrid",
-      "codepoint": 63388
-    },
-    {
-      "name": "rectangle_3_offgrid_fill",
-      "codepoint": 63389
-    },
-    {
-      "name": "rectangle_arrow_up_right_arrow_down_left",
-      "codepoint": 63390
-    },
-    {
-      "name": "rectangle_arrow_up_right_arrow_down_left_slash",
-      "codepoint": 63391
-    },
-    {
-      "name": "rectangle_badge_checkmark",
-      "codepoint": 63392
-    },
-    {
-      "name": "rectangle_badge_xmark",
-      "codepoint": 63393
-    },
-    {
-      "name": "rectangle_compress_vertical",
-      "codepoint": 63394
-    },
-    {
-      "name": "rectangle_dock",
-      "codepoint": 63395
-    },
-    {
-      "name": "rectangle_expand_vertical",
-      "codepoint": 63396
-    },
-    {
-      "name": "rectangle_fill",
-      "codepoint": 63397
-    },
-    {
-      "name": "rectangle_fill_badge_checkmark",
-      "codepoint": 63398
-    },
-    {
-      "name": "rectangle_fill_badge_xmark",
-      "codepoint": 63399
-    },
-    {
-      "name": "rectangle_fill_on_rectangle_angled_fill",
-      "codepoint": 63400
-    },
-    {
-      "name": "rectangle_fill_on_rectangle_fill",
-      "codepoint": 63401
-    },
-    {
-      "name": "rectangle_grid_1x2",
-      "codepoint": 63402
-    },
-    {
-      "name": "rectangle_grid_1x2_fill",
-      "codepoint": 63403
-    },
-    {
-      "name": "rectangle_grid_2x2",
-      "codepoint": 63404
-    },
-    {
-      "name": "rectangle_grid_2x2_fill",
-      "codepoint": 63405
-    },
-    {
-      "name": "rectangle_grid_3x2",
-      "codepoint": 63406
-    },
-    {
-      "name": "rectangle_grid_3x2_fill",
-      "codepoint": 63407
-    },
-    {
-      "name": "rectangle_on_rectangle",
-      "codepoint": 63408
-    },
-    {
-      "name": "rectangle_on_rectangle_angled",
-      "codepoint": 63409
-    },
-    {
-      "name": "rectangle_paperclip",
-      "codepoint": 63410
-    },
-    {
-      "name": "rectangle_split_3x1",
-      "codepoint": 63411
-    },
-    {
-      "name": "rectangle_split_3x1_fill",
-      "codepoint": 63412
-    },
-    {
-      "name": "rectangle_split_3x3",
-      "codepoint": 63413
-    },
-    {
-      "name": "rectangle_split_3x3_fill",
-      "codepoint": 63414
-    },
-    {
-      "name": "rectangle_stack",
-      "codepoint": 62409
-    },
-    {
-      "name": "rectangle_stack_badge_minus",
-      "codepoint": 63415
-    },
-    {
-      "name": "rectangle_stack_badge_person_crop",
-      "codepoint": 63416
-    },
-    {
-      "name": "rectangle_stack_badge_plus",
-      "codepoint": 63417
-    },
-    {
-      "name": "rectangle_stack_fill",
-      "codepoint": 62410
-    },
-    {
-      "name": "rectangle_stack_fill_badge_minus",
-      "codepoint": 63418
-    },
-    {
-      "name": "rectangle_stack_fill_badge_person_crop",
-      "codepoint": 63419
-    },
-    {
-      "name": "rectangle_stack_fill_badge_plus",
-      "codepoint": 63420
-    },
-    {
-      "name": "rectangle_stack_person_crop",
-      "codepoint": 63421
-    },
-    {
-      "name": "rectangle_stack_person_crop_fill",
-      "codepoint": 63422
-    },
-    {
-      "name": "repeat",
-      "codepoint": 63423
-    },
-    {
-      "name": "repeat_1",
-      "codepoint": 63424
-    },
-    {
-      "name": "resize",
-      "codepoint": 63744
-    },
-    {
-      "name": "resize_h",
-      "codepoint": 63745
-    },
-    {
-      "name": "resize_v",
-      "codepoint": 63746
-    },
-    {
-      "name": "return_icon",
-      "codepoint": 63425
-    },
-    {
-      "name": "rhombus",
-      "codepoint": 63426
-    },
-    {
-      "name": "rhombus_fill",
-      "codepoint": 63427
-    },
-    {
-      "name": "rocket",
-      "codepoint": 63747
-    },
-    {
-      "name": "rocket_fill",
-      "codepoint": 63748
-    },
-    {
-      "name": "rosette",
-      "codepoint": 63428
-    },
-    {
-      "name": "rotate_left",
-      "codepoint": 63429
-    },
-    {
-      "name": "rotate_left_fill",
-      "codepoint": 63430
-    },
-    {
-      "name": "rotate_right",
-      "codepoint": 63431
-    },
-    {
-      "name": "rotate_right_fill",
-      "codepoint": 63432
-    },
-    {
-      "name": "scissors",
-      "codepoint": 63433
-    },
-    {
-      "name": "scissors_alt",
-      "codepoint": 63749
-    },
-    {
-      "name": "scope",
-      "codepoint": 63434
-    },
-    {
-      "name": "scribble",
-      "codepoint": 63435
-    },
-    {
-      "name": "search",
-      "codepoint": 62629
-    },
-    {
-      "name": "search_circle",
-      "codepoint": 63436
-    },
-    {
-      "name": "search_circle_fill",
-      "codepoint": 63437
-    },
-    {
-      "name": "selection_pin_in_out",
-      "codepoint": 63438
-    },
-    {
-      "name": "shield",
-      "codepoint": 63439
-    },
-    {
-      "name": "shield_fill",
-      "codepoint": 63440
-    },
-    {
-      "name": "shield_lefthalf_fill",
-      "codepoint": 63441
-    },
-    {
-      "name": "shield_slash",
-      "codepoint": 63442
-    },
-    {
-      "name": "shield_slash_fill",
-      "codepoint": 63443
-    },
-    {
-      "name": "shift",
-      "codepoint": 63444
-    },
-    {
-      "name": "shift_fill",
-      "codepoint": 63445
-    },
-    {
-      "name": "shuffle",
-      "codepoint": 62633
-    },
-    {
-      "name": "sidebar_left",
-      "codepoint": 63446
-    },
-    {
-      "name": "sidebar_right",
-      "codepoint": 63447
-    },
-    {
-      "name": "signature",
-      "codepoint": 63448
-    },
-    {
-      "name": "skew",
-      "codepoint": 63449
-    },
-    {
-      "name": "slash_circle",
-      "codepoint": 63450
-    },
-    {
-      "name": "slash_circle_fill",
-      "codepoint": 63451
-    },
-    {
-      "name": "slider_horizontal_3",
-      "codepoint": 63452
-    },
-    {
-      "name": "slider_horizontal_below_rectangle",
-      "codepoint": 63453
-    },
-    {
-      "name": "slowmo",
-      "codepoint": 63454
-    },
-    {
-      "name": "smallcircle_circle",
-      "codepoint": 63455
-    },
-    {
-      "name": "smallcircle_circle_fill",
-      "codepoint": 63456
-    },
-    {
-      "name": "smallcircle_fill_circle",
-      "codepoint": 63457
-    },
-    {
-      "name": "smallcircle_fill_circle_fill",
-      "codepoint": 63458
-    },
-    {
-      "name": "smiley",
-      "codepoint": 63459
-    },
-    {
-      "name": "smiley_fill",
-      "codepoint": 63460
-    },
-    {
-      "name": "smoke",
-      "codepoint": 63461
-    },
-    {
-      "name": "smoke_fill",
-      "codepoint": 63462
-    },
-    {
-      "name": "snow",
-      "codepoint": 63463
-    },
-    {
-      "name": "sort_down",
-      "codepoint": 63750
-    },
-    {
-      "name": "sort_down_circle",
-      "codepoint": 63751
-    },
-    {
-      "name": "sort_down_circle_fill",
-      "codepoint": 63752
-    },
-    {
-      "name": "sort_up",
-      "codepoint": 63753
-    },
-    {
-      "name": "sort_up_circle",
-      "codepoint": 63754
-    },
-    {
-      "name": "sort_up_circle_fill",
-      "codepoint": 63755
-    },
-    {
-      "name": "sparkles",
-      "codepoint": 63464
-    },
-    {
-      "name": "speaker",
-      "codepoint": 63465
-    },
-    {
-      "name": "speaker_1",
-      "codepoint": 63466
-    },
-    {
-      "name": "speaker_1_fill",
-      "codepoint": 62391
-    },
-    {
-      "name": "speaker_2",
-      "codepoint": 63467
-    },
-    {
-      "name": "speaker_2_fill",
-      "codepoint": 63468
-    },
-    {
-      "name": "speaker_3",
-      "codepoint": 63469
-    },
-    {
-      "name": "speaker_3_fill",
-      "codepoint": 62394
-    },
-    {
-      "name": "speaker_fill",
-      "codepoint": 62392
-    },
-    {
-      "name": "speaker_slash",
-      "codepoint": 63470
-    },
-    {
-      "name": "speaker_slash_fill",
-      "codepoint": 62393
-    },
-    {
-      "name": "speaker_slash_fill_rtl",
-      "codepoint": 63471
-    },
-    {
-      "name": "speaker_slash_rtl",
-      "codepoint": 63472
-    },
-    {
-      "name": "speaker_zzz",
-      "codepoint": 63473
-    },
-    {
-      "name": "speaker_zzz_fill",
-      "codepoint": 63474
-    },
-    {
-      "name": "speaker_zzz_fill_rtl",
-      "codepoint": 63475
-    },
-    {
-      "name": "speaker_zzz_rtl",
-      "codepoint": 63476
-    },
-    {
-      "name": "speedometer",
-      "codepoint": 63477
-    },
-    {
-      "name": "sportscourt",
-      "codepoint": 63478
-    },
-    {
-      "name": "sportscourt_fill",
-      "codepoint": 63479
-    },
-    {
-      "name": "square",
-      "codepoint": 63480
-    },
-    {
-      "name": "square_arrow_down",
-      "codepoint": 63481
-    },
-    {
-      "name": "square_arrow_down_fill",
-      "codepoint": 63482
-    },
-    {
-      "name": "square_arrow_down_on_square",
-      "codepoint": 63483
-    },
-    {
-      "name": "square_arrow_down_on_square_fill",
-      "codepoint": 63484
-    },
-    {
-      "name": "square_arrow_left",
-      "codepoint": 63756
-    },
-    {
-      "name": "square_arrow_left_fill",
-      "codepoint": 63757
-    },
-    {
-      "name": "square_arrow_right",
-      "codepoint": 63758
-    },
-    {
-      "name": "square_arrow_right_fill",
-      "codepoint": 63759
-    },
-    {
-      "name": "square_arrow_up",
-      "codepoint": 62666
-    },
-    {
-      "name": "square_arrow_up_fill",
-      "codepoint": 62667
-    },
-    {
-      "name": "square_arrow_up_on_square",
-      "codepoint": 63485
-    },
-    {
-      "name": "square_arrow_up_on_square_fill",
-      "codepoint": 63486
-    },
-    {
-      "name": "square_favorites",
-      "codepoint": 63760
-    },
-    {
-      "name": "square_favorites_alt",
-      "codepoint": 63761
-    },
-    {
-      "name": "square_favorites_alt_fill",
-      "codepoint": 63762
-    },
-    {
-      "name": "square_favorites_fill",
-      "codepoint": 63763
-    },
-    {
-      "name": "square_fill",
-      "codepoint": 63487
-    },
-    {
-      "name": "square_fill_line_vertical_square",
-      "codepoint": 63488
-    },
-    {
-      "name": "square_fill_line_vertical_square_fill",
-      "codepoint": 63489
-    },
-    {
-      "name": "square_fill_on_circle_fill",
-      "codepoint": 63490
-    },
-    {
-      "name": "square_fill_on_square_fill",
-      "codepoint": 63491
-    },
-    {
-      "name": "square_grid_2x2",
-      "codepoint": 63492
-    },
-    {
-      "name": "square_grid_2x2_fill",
-      "codepoint": 63493
-    },
-    {
-      "name": "square_grid_3x2",
-      "codepoint": 63494
-    },
-    {
-      "name": "square_grid_3x2_fill",
-      "codepoint": 63495
-    },
-    {
-      "name": "square_grid_4x3_fill",
-      "codepoint": 63496
-    },
-    {
-      "name": "square_lefthalf_fill",
-      "codepoint": 63497
-    },
-    {
-      "name": "square_line_vertical_square",
-      "codepoint": 63498
-    },
-    {
-      "name": "square_line_vertical_square_fill",
-      "codepoint": 63499
-    },
-    {
-      "name": "square_list",
-      "codepoint": 63764
-    },
-    {
-      "name": "square_list_fill",
-      "codepoint": 63765
-    },
-    {
-      "name": "square_on_circle",
-      "codepoint": 63500
-    },
-    {
-      "name": "square_on_square",
-      "codepoint": 63501
-    },
-    {
-      "name": "square_pencil",
-      "codepoint": 62487
-    },
-    {
-      "name": "square_pencil_fill",
-      "codepoint": 62487
-    },
-    {
-      "name": "square_righthalf_fill",
-      "codepoint": 63502
-    },
-    {
-      "name": "square_split_1x2",
-      "codepoint": 63503
-    },
-    {
-      "name": "square_split_1x2_fill",
-      "codepoint": 63504
-    },
-    {
-      "name": "square_split_2x1",
-      "codepoint": 63505
-    },
-    {
-      "name": "square_split_2x1_fill",
-      "codepoint": 63506
-    },
-    {
-      "name": "square_split_2x2",
-      "codepoint": 63507
-    },
-    {
-      "name": "square_split_2x2_fill",
-      "codepoint": 63508
-    },
-    {
-      "name": "square_stack",
-      "codepoint": 63509
-    },
-    {
-      "name": "square_stack_3d_down_dottedline",
-      "codepoint": 63510
-    },
-    {
-      "name": "square_stack_3d_down_right",
-      "codepoint": 63511
-    },
-    {
-      "name": "square_stack_3d_down_right_fill",
-      "codepoint": 63512
-    },
-    {
-      "name": "square_stack_3d_up",
-      "codepoint": 63513
-    },
-    {
-      "name": "square_stack_3d_up_fill",
-      "codepoint": 63514
-    },
-    {
-      "name": "square_stack_3d_up_slash",
-      "codepoint": 63515
-    },
-    {
-      "name": "square_stack_3d_up_slash_fill",
-      "codepoint": 63516
-    },
-    {
-      "name": "square_stack_fill",
-      "codepoint": 63517
-    },
-    {
-      "name": "squares_below_rectangle",
-      "codepoint": 63518
-    },
-    {
-      "name": "star",
-      "codepoint": 63519
-    },
-    {
-      "name": "star_circle",
-      "codepoint": 63520
-    },
-    {
-      "name": "star_circle_fill",
-      "codepoint": 63521
-    },
-    {
-      "name": "star_fill",
-      "codepoint": 63522
-    },
-    {
-      "name": "star_lefthalf_fill",
-      "codepoint": 63523
-    },
-    {
-      "name": "star_slash",
-      "codepoint": 63524
-    },
-    {
-      "name": "star_slash_fill",
-      "codepoint": 63525
-    },
-    {
-      "name": "staroflife",
-      "codepoint": 63526
-    },
-    {
-      "name": "staroflife_fill",
-      "codepoint": 63527
-    },
-    {
-      "name": "stop",
-      "codepoint": 63528
-    },
-    {
-      "name": "stop_circle",
-      "codepoint": 63529
-    },
-    {
-      "name": "stop_circle_fill",
-      "codepoint": 63530
-    },
-    {
-      "name": "stop_fill",
-      "codepoint": 63531
-    },
-    {
-      "name": "stopwatch",
-      "codepoint": 63532
-    },
-    {
-      "name": "stopwatch_fill",
-      "codepoint": 63533
-    },
-    {
-      "name": "strikethrough",
-      "codepoint": 63534
-    },
-    {
-      "name": "suit_club",
-      "codepoint": 63535
-    },
-    {
-      "name": "suit_club_fill",
-      "codepoint": 63536
-    },
-    {
-      "name": "suit_diamond",
-      "codepoint": 63537
-    },
-    {
-      "name": "suit_diamond_fill",
-      "codepoint": 63538
-    },
-    {
-      "name": "suit_heart",
-      "codepoint": 63539
-    },
-    {
-      "name": "suit_heart_fill",
-      "codepoint": 63540
-    },
-    {
-      "name": "suit_spade",
-      "codepoint": 63541
-    },
-    {
-      "name": "suit_spade_fill",
-      "codepoint": 63542
-    },
-    {
-      "name": "sum",
-      "codepoint": 63543
-    },
-    {
-      "name": "sun_dust",
-      "codepoint": 63544
-    },
-    {
-      "name": "sun_dust_fill",
-      "codepoint": 63545
-    },
-    {
-      "name": "sun_haze",
-      "codepoint": 63546
-    },
-    {
-      "name": "sun_haze_fill",
-      "codepoint": 63547
-    },
-    {
-      "name": "sun_max",
-      "codepoint": 62646
-    },
-    {
-      "name": "sun_max_fill",
-      "codepoint": 62647
-    },
-    {
-      "name": "sun_min",
-      "codepoint": 63548
-    },
-    {
-      "name": "sun_min_fill",
-      "codepoint": 63549
-    },
-    {
-      "name": "sunrise",
-      "codepoint": 63550
-    },
-    {
-      "name": "sunrise_fill",
-      "codepoint": 63551
-    },
-    {
-      "name": "sunset",
-      "codepoint": 63552
-    },
-    {
-      "name": "sunset_fill",
-      "codepoint": 63553
-    },
-    {
-      "name": "t_bubble",
-      "codepoint": 63554
-    },
-    {
-      "name": "t_bubble_fill",
-      "codepoint": 63555
-    },
-    {
-      "name": "table",
-      "codepoint": 63556
-    },
-    {
-      "name": "table_badge_more",
-      "codepoint": 63557
-    },
-    {
-      "name": "table_badge_more_fill",
-      "codepoint": 63558
-    },
-    {
-      "name": "table_fill",
-      "codepoint": 63559
-    },
-    {
-      "name": "tag",
-      "codepoint": 62604
-    },
-    {
-      "name": "tag_circle",
-      "codepoint": 63560
-    },
-    {
-      "name": "tag_circle_fill",
-      "codepoint": 63561
-    },
-    {
-      "name": "tag_fill",
-      "codepoint": 62605
-    },
-    {
-      "name": "text_aligncenter",
-      "codepoint": 63562
-    },
-    {
-      "name": "text_alignleft",
-      "codepoint": 63563
-    },
-    {
-      "name": "text_alignright",
-      "codepoint": 63564
-    },
-    {
-      "name": "text_append",
-      "codepoint": 63565
-    },
-    {
-      "name": "text_badge_checkmark",
-      "codepoint": 63566
-    },
-    {
-      "name": "text_badge_minus",
-      "codepoint": 63567
-    },
-    {
-      "name": "text_badge_plus",
-      "codepoint": 63568
-    },
-    {
-      "name": "text_badge_star",
-      "codepoint": 63569
-    },
-    {
-      "name": "text_badge_xmark",
-      "codepoint": 63570
-    },
-    {
-      "name": "text_bubble",
-      "codepoint": 63571
-    },
-    {
-      "name": "text_bubble_fill",
-      "codepoint": 63572
-    },
-    {
-      "name": "text_cursor",
-      "codepoint": 63573
-    },
-    {
-      "name": "text_insert",
-      "codepoint": 63574
-    },
-    {
-      "name": "text_justify",
-      "codepoint": 63575
-    },
-    {
-      "name": "text_justifyleft",
-      "codepoint": 63576
-    },
-    {
-      "name": "text_justifyright",
-      "codepoint": 63577
-    },
-    {
-      "name": "text_quote",
-      "codepoint": 63578
-    },
-    {
-      "name": "textbox",
-      "codepoint": 63579
-    },
-    {
-      "name": "textformat",
-      "codepoint": 63580
-    },
-    {
-      "name": "textformat_123",
-      "codepoint": 63581
-    },
-    {
-      "name": "textformat_abc",
-      "codepoint": 63582
-    },
-    {
-      "name": "textformat_abc_dottedunderline",
-      "codepoint": 63583
-    },
-    {
-      "name": "textformat_alt",
-      "codepoint": 63584
-    },
-    {
-      "name": "textformat_size",
-      "codepoint": 63585
-    },
-    {
-      "name": "textformat_subscript",
-      "codepoint": 63586
-    },
-    {
-      "name": "textformat_superscript",
-      "codepoint": 63587
-    },
-    {
-      "name": "thermometer",
-      "codepoint": 63588
-    },
-    {
-      "name": "thermometer_snowflake",
-      "codepoint": 63589
-    },
-    {
-      "name": "thermometer_sun",
-      "codepoint": 63590
-    },
-    {
-      "name": "ticket",
-      "codepoint": 63766
-    },
-    {
-      "name": "ticket_fill",
-      "codepoint": 63767
-    },
-    {
-      "name": "tickets",
-      "codepoint": 63768
-    },
-    {
-      "name": "tickets_fill",
-      "codepoint": 63769
-    },
-    {
-      "name": "timelapse",
-      "codepoint": 63591
-    },
-    {
-      "name": "timer",
-      "codepoint": 63592
-    },
-    {
-      "name": "timer_fill",
-      "codepoint": 63770
-    },
-    {
-      "name": "today",
-      "codepoint": 63771
-    },
-    {
-      "name": "today_fill",
-      "codepoint": 63772
-    },
-    {
-      "name": "tornado",
-      "codepoint": 63593
-    },
-    {
-      "name": "tortoise",
-      "codepoint": 63594
-    },
-    {
-      "name": "tortoise_fill",
-      "codepoint": 63595
-    },
-    {
-      "name": "tram_fill",
-      "codepoint": 63596
-    },
-    {
-      "name": "trash",
-      "codepoint": 62660
-    },
-    {
-      "name": "trash_circle",
-      "codepoint": 63597
-    },
-    {
-      "name": "trash_circle_fill",
-      "codepoint": 63598
-    },
-    {
-      "name": "trash_fill",
-      "codepoint": 62661
-    },
-    {
-      "name": "trash_slash",
-      "codepoint": 63599
-    },
-    {
-      "name": "trash_slash_fill",
-      "codepoint": 63600
-    },
-    {
-      "name": "tray",
-      "codepoint": 63601
-    },
-    {
-      "name": "tray_2",
-      "codepoint": 63602
-    },
-    {
-      "name": "tray_2_fill",
-      "codepoint": 63603
-    },
-    {
-      "name": "tray_arrow_down",
-      "codepoint": 63604
-    },
-    {
-      "name": "tray_arrow_down_fill",
-      "codepoint": 63605
-    },
-    {
-      "name": "tray_arrow_up",
-      "codepoint": 63606
-    },
-    {
-      "name": "tray_arrow_up_fill",
-      "codepoint": 63607
-    },
-    {
-      "name": "tray_fill",
-      "codepoint": 63608
-    },
-    {
-      "name": "tray_full",
-      "codepoint": 63609
-    },
-    {
-      "name": "tray_full_fill",
-      "codepoint": 63610
-    },
-    {
-      "name": "tree",
-      "codepoint": 63773
-    },
-    {
-      "name": "triangle",
-      "codepoint": 63611
-    },
-    {
-      "name": "triangle_fill",
-      "codepoint": 63612
-    },
-    {
-      "name": "triangle_lefthalf_fill",
-      "codepoint": 63613
-    },
-    {
-      "name": "triangle_righthalf_fill",
-      "codepoint": 63614
-    },
-    {
-      "name": "tropicalstorm",
-      "codepoint": 63615
-    },
-    {
-      "name": "tuningfork",
-      "codepoint": 63616
-    },
-    {
-      "name": "tv",
-      "codepoint": 63617
-    },
-    {
-      "name": "tv_circle",
-      "codepoint": 63618
-    },
-    {
-      "name": "tv_circle_fill",
-      "codepoint": 63619
-    },
-    {
-      "name": "tv_fill",
-      "codepoint": 63620
-    },
-    {
-      "name": "tv_music_note",
-      "codepoint": 63621
-    },
-    {
-      "name": "tv_music_note_fill",
-      "codepoint": 63622
-    },
-    {
-      "name": "uiwindow_split_2x1",
-      "codepoint": 63623
-    },
-    {
-      "name": "umbrella",
-      "codepoint": 63624
-    },
-    {
-      "name": "umbrella_fill",
-      "codepoint": 63625
-    },
-    {
-      "name": "underline",
-      "codepoint": 63626
-    },
-    {
-      "name": "upload_circle",
-      "codepoint": 63774
-    },
-    {
-      "name": "upload_circle_fill",
-      "codepoint": 63775
-    },
-    {
-      "name": "videocam",
-      "codepoint": 62668
-    },
-    {
-      "name": "videocam_circle",
-      "codepoint": 63776
-    },
-    {
-      "name": "videocam_circle_fill",
-      "codepoint": 63777
-    },
-    {
-      "name": "videocam_fill",
-      "codepoint": 62669
-    },
-    {
-      "name": "view_2d",
-      "codepoint": 63627
-    },
-    {
-      "name": "view_3d",
-      "codepoint": 63628
-    },
-    {
-      "name": "viewfinder",
-      "codepoint": 63629
-    },
-    {
-      "name": "viewfinder_circle",
-      "codepoint": 63630
-    },
-    {
-      "name": "viewfinder_circle_fill",
-      "codepoint": 63631
-    },
-    {
-      "name": "wand_rays",
-      "codepoint": 63632
-    },
-    {
-      "name": "wand_rays_inverse",
-      "codepoint": 63633
-    },
-    {
-      "name": "wand_stars",
-      "codepoint": 63634
-    },
-    {
-      "name": "wand_stars_inverse",
-      "codepoint": 63635
-    },
-    {
-      "name": "waveform",
-      "codepoint": 63636
-    },
-    {
-      "name": "waveform_circle",
-      "codepoint": 63637
-    },
-    {
-      "name": "waveform_circle_fill",
-      "codepoint": 63638
-    },
-    {
-      "name": "waveform_path",
-      "codepoint": 63639
-    },
-    {
-      "name": "waveform_path_badge_minus",
-      "codepoint": 63640
-    },
-    {
-      "name": "waveform_path_badge_plus",
-      "codepoint": 63641
-    },
-    {
-      "name": "waveform_path_ecg",
-      "codepoint": 63642
-    },
-    {
-      "name": "wifi",
-      "codepoint": 63643
-    },
-    {
-      "name": "wifi_exclamationmark",
-      "codepoint": 63644
-    },
-    {
-      "name": "wifi_slash",
-      "codepoint": 63645
-    },
-    {
-      "name": "wind",
-      "codepoint": 63646
-    },
-    {
-      "name": "wind_snow",
-      "codepoint": 63647
-    },
-    {
-      "name": "wrench",
-      "codepoint": 63648
-    },
-    {
-      "name": "wrench_fill",
-      "codepoint": 63649
-    },
-    {
-      "name": "xmark",
-      "codepoint": 62468
-    },
-    {
-      "name": "xmark_circle",
-      "codepoint": 62469
-    },
-    {
-      "name": "xmark_circle_fill",
-      "codepoint": 62318
-    },
-    {
-      "name": "xmark_octagon",
-      "codepoint": 63650
-    },
-    {
-      "name": "xmark_octagon_fill",
-      "codepoint": 63651
-    },
-    {
-      "name": "xmark_rectangle",
-      "codepoint": 63652
-    },
-    {
-      "name": "xmark_rectangle_fill",
-      "codepoint": 63653
-    },
-    {
-      "name": "xmark_seal",
-      "codepoint": 63654
-    },
-    {
-      "name": "xmark_seal_fill",
-      "codepoint": 63655
-    },
-    {
-      "name": "xmark_shield",
-      "codepoint": 63656
-    },
-    {
-      "name": "xmark_shield_fill",
-      "codepoint": 63657
-    },
-    {
-      "name": "xmark_square",
-      "codepoint": 63658
-    },
-    {
-      "name": "xmark_square_fill",
-      "codepoint": 63659
-    },
-    {
-      "name": "zoom_in",
-      "codepoint": 63660
-    },
-    {
-      "name": "zoom_out",
-      "codepoint": 63661
-    },
-    {
-      "name": "zzz",
-      "codepoint": 63662
-    }
-  ]
+  "icons": {
+    "airplane": [
+      62676
+    ],
+    "alarm": [
+      62677
+    ],
+    "alarm_fill": [
+      62678
+    ],
+    "alt": [
+      62679
+    ],
+    "ant": [
+      62680
+    ],
+    "ant_circle": [
+      62681
+    ],
+    "ant_circle_fill": [
+      62682
+    ],
+    "ant_fill": [
+      62683
+    ],
+    "antenna_radiowaves_left_right": [
+      62684
+    ],
+    "app": [
+      62685
+    ],
+    "app_badge": [
+      62686
+    ],
+    "app_badge_fill": [
+      62687
+    ],
+    "app_fill": [
+      62688
+    ],
+    "archivebox": [
+      62689
+    ],
+    "archivebox_fill": [
+      62690
+    ],
+    "arrow_2_circlepath": [
+      62691
+    ],
+    "arrow_2_circlepath_circle": [
+      62692
+    ],
+    "arrow_2_circlepath_circle_fill": [
+      62693
+    ],
+    "arrow_2_squarepath": [
+      62694
+    ],
+    "arrow_3_trianglepath": [
+      62695
+    ],
+    "arrow_branch": [
+      62696
+    ],
+    "arrow_clockwise": [
+      62618,
+      62621,
+      62376
+    ],
+    "arrow_clockwise_circle": [
+      62619
+    ],
+    "arrow_clockwise_circle_fill": [
+      62620
+    ],
+    "arrow_counterclockwise": [
+      61980
+    ],
+    "arrow_counterclockwise_circle": [
+      62697
+    ],
+    "arrow_counterclockwise_circle_fill": [
+      62698
+    ],
+    "arrow_down": [
+      62301
+    ],
+    "arrow_down_circle": [
+      62699
+    ],
+    "arrow_down_circle_fill": [
+      62700
+    ],
+    "arrow_down_doc": [
+      62701
+    ],
+    "arrow_down_doc_fill": [
+      62702
+    ],
+    "arrow_down_left": [
+      62703
+    ],
+    "arrow_down_left_circle": [
+      62704
+    ],
+    "arrow_down_left_circle_fill": [
+      62705
+    ],
+    "arrow_down_left_square": [
+      62706
+    ],
+    "arrow_down_left_square_fill": [
+      62707
+    ],
+    "arrow_down_right": [
+      62708
+    ],
+    "arrow_down_right_arrow_up_left": [
+      62333
+    ],
+    "arrow_down_right_circle": [
+      62709
+    ],
+    "arrow_down_right_circle_fill": [
+      62710
+    ],
+    "arrow_down_right_square": [
+      62711
+    ],
+    "arrow_down_right_square_fill": [
+      62712
+    ],
+    "arrow_down_square": [
+      62713
+    ],
+    "arrow_down_square_fill": [
+      62714
+    ],
+    "arrow_down_to_line": [
+      62715
+    ],
+    "arrow_down_to_line_alt": [
+      62716
+    ],
+    "arrow_left": [
+      62717
+    ],
+    "arrow_left_circle": [
+      62718
+    ],
+    "arrow_left_circle_fill": [
+      62719
+    ],
+    "arrow_left_right": [
+      62720
+    ],
+    "arrow_left_right_circle": [
+      62721
+    ],
+    "arrow_left_right_circle_fill": [
+      62722
+    ],
+    "arrow_left_right_square": [
+      62723
+    ],
+    "arrow_left_right_square_fill": [
+      62724
+    ],
+    "arrow_left_square": [
+      62725
+    ],
+    "arrow_left_square_fill": [
+      62726
+    ],
+    "arrow_left_to_line": [
+      62727
+    ],
+    "arrow_left_to_line_alt": [
+      62728
+    ],
+    "arrow_merge": [
+      62729
+    ],
+    "arrow_right": [
+      62730
+    ],
+    "arrow_right_arrow_left": [
+      62731
+    ],
+    "arrow_right_arrow_left_circle": [
+      62732
+    ],
+    "arrow_right_arrow_left_circle_fill": [
+      62733
+    ],
+    "arrow_right_arrow_left_square": [
+      62734
+    ],
+    "arrow_right_arrow_left_square_fill": [
+      62735
+    ],
+    "arrow_right_circle": [
+      62736
+    ],
+    "arrow_right_circle_fill": [
+      62737
+    ],
+    "arrow_right_square": [
+      62738
+    ],
+    "arrow_right_square_fill": [
+      62739
+    ],
+    "arrow_right_to_line": [
+      62740
+    ],
+    "arrow_right_to_line_alt": [
+      62741
+    ],
+    "arrow_swap": [
+      62742
+    ],
+    "arrow_turn_down_left": [
+      62743
+    ],
+    "arrow_turn_down_right": [
+      62744
+    ],
+    "arrow_turn_left_down": [
+      62745
+    ],
+    "arrow_turn_left_up": [
+      62746
+    ],
+    "arrow_turn_right_down": [
+      62747
+    ],
+    "arrow_turn_right_up": [
+      62748
+    ],
+    "arrow_turn_up_left": [
+      62749
+    ],
+    "arrow_turn_up_right": [
+      62750
+    ],
+    "arrow_up": [
+      62310
+    ],
+    "arrow_up_arrow_down": [
+      62751
+    ],
+    "arrow_up_arrow_down_circle": [
+      62752
+    ],
+    "arrow_up_arrow_down_circle_fill": [
+      62753
+    ],
+    "arrow_up_arrow_down_square": [
+      62754
+    ],
+    "arrow_up_arrow_down_square_fill": [
+      62755
+    ],
+    "arrow_up_bin": [
+      62756
+    ],
+    "arrow_up_bin_fill": [
+      62757
+    ],
+    "arrow_up_circle": [
+      62758
+    ],
+    "arrow_up_circle_fill": [
+      62759
+    ],
+    "arrow_up_doc": [
+      62760
+    ],
+    "arrow_up_doc_fill": [
+      62761
+    ],
+    "arrow_up_down": [
+      62762
+    ],
+    "arrow_up_down_circle": [
+      62763
+    ],
+    "arrow_up_down_circle_fill": [
+      62764
+    ],
+    "arrow_up_down_square": [
+      62765
+    ],
+    "arrow_up_down_square_fill": [
+      62766
+    ],
+    "arrow_up_left": [
+      62767
+    ],
+    "arrow_up_left_arrow_down_right": [
+      62342
+    ],
+    "arrow_up_left_circle": [
+      62768
+    ],
+    "arrow_up_left_circle_fill": [
+      62769
+    ],
+    "arrow_up_left_square": [
+      62770
+    ],
+    "arrow_up_left_square_fill": [
+      62771
+    ],
+    "arrow_up_right": [
+      62772
+    ],
+    "arrow_up_right_circle": [
+      62773
+    ],
+    "arrow_up_right_circle_fill": [
+      62774
+    ],
+    "arrow_up_right_diamond": [
+      62775
+    ],
+    "arrow_up_right_diamond_fill": [
+      62776
+    ],
+    "arrow_up_right_square": [
+      62777
+    ],
+    "arrow_up_right_square_fill": [
+      62778
+    ],
+    "arrow_up_square": [
+      62779
+    ],
+    "arrow_up_square_fill": [
+      62780
+    ],
+    "arrow_up_to_line": [
+      62781
+    ],
+    "arrow_up_to_line_alt": [
+      62782
+    ],
+    "arrow_uturn_down": [
+      62783
+    ],
+    "arrow_uturn_down_circle": [
+      62784
+    ],
+    "arrow_uturn_down_circle_fill": [
+      62785
+    ],
+    "arrow_uturn_down_square": [
+      62786
+    ],
+    "arrow_uturn_down_square_fill": [
+      62787
+    ],
+    "arrow_uturn_left": [
+      62788
+    ],
+    "arrow_uturn_left_circle": [
+      62789
+    ],
+    "arrow_uturn_left_circle_fill": [
+      62790
+    ],
+    "arrow_uturn_left_square": [
+      62791
+    ],
+    "arrow_uturn_left_square_fill": [
+      62792
+    ],
+    "arrow_uturn_right": [
+      62793
+    ],
+    "arrow_uturn_right_circle": [
+      62794
+    ],
+    "arrow_uturn_right_circle_fill": [
+      62795
+    ],
+    "arrow_uturn_right_square": [
+      62796
+    ],
+    "arrow_uturn_right_square_fill": [
+      62797
+    ],
+    "arrow_uturn_up": [
+      62798
+    ],
+    "arrow_uturn_up_circle": [
+      62799
+    ],
+    "arrow_uturn_up_circle_fill": [
+      62800
+    ],
+    "arrow_uturn_up_square": [
+      62801
+    ],
+    "arrow_uturn_up_square_fill": [
+      62802
+    ],
+    "arrowshape_turn_up_left": [
+      62662
+    ],
+    "arrowshape_turn_up_left_2": [
+      61981
+    ],
+    "arrowshape_turn_up_left_2_fill": [
+      61982
+    ],
+    "arrowshape_turn_up_left_circle": [
+      62803
+    ],
+    "arrowshape_turn_up_left_circle_fill": [
+      62804
+    ],
+    "arrowshape_turn_up_left_fill": [
+      62805
+    ],
+    "arrowshape_turn_up_right": [
+      62806
+    ],
+    "arrowshape_turn_up_right_circle": [
+      62807
+    ],
+    "arrowshape_turn_up_right_circle_fill": [
+      62808
+    ],
+    "arrowshape_turn_up_right_fill": [
+      62809
+    ],
+    "arrowtriangle_down": [
+      62810
+    ],
+    "arrowtriangle_down_circle": [
+      62811
+    ],
+    "arrowtriangle_down_circle_fill": [
+      62812
+    ],
+    "arrowtriangle_down_fill": [
+      62813
+    ],
+    "arrowtriangle_down_square": [
+      62814
+    ],
+    "arrowtriangle_down_square_fill": [
+      62815
+    ],
+    "arrowtriangle_left": [
+      62816
+    ],
+    "arrowtriangle_left_circle": [
+      62817
+    ],
+    "arrowtriangle_left_circle_fill": [
+      62818
+    ],
+    "arrowtriangle_left_fill": [
+      62819
+    ],
+    "arrowtriangle_left_square": [
+      62820
+    ],
+    "arrowtriangle_left_square_fill": [
+      62821
+    ],
+    "arrowtriangle_right": [
+      62822
+    ],
+    "arrowtriangle_right_circle": [
+      62823
+    ],
+    "arrowtriangle_right_circle_fill": [
+      62824
+    ],
+    "arrowtriangle_right_fill": [
+      62825
+    ],
+    "arrowtriangle_right_square": [
+      62826
+    ],
+    "arrowtriangle_right_square_fill": [
+      62827
+    ],
+    "arrowtriangle_up": [
+      62828
+    ],
+    "arrowtriangle_up_circle": [
+      62829
+    ],
+    "arrowtriangle_up_circle_fill": [
+      62830
+    ],
+    "arrowtriangle_up_fill": [
+      62831
+    ],
+    "arrowtriangle_up_square": [
+      62832
+    ],
+    "arrowtriangle_up_square_fill": [
+      62833
+    ],
+    "asterisk_circle": [
+      62834
+    ],
+    "asterisk_circle_fill": [
+      62835
+    ],
+    "at": [
+      62836
+    ],
+    "at_badge_minus": [
+      62837
+    ],
+    "at_badge_plus": [
+      62838
+    ],
+    "at_circle": [
+      63663
+    ],
+    "at_circle_fill": [
+      63664
+    ],
+    "backward": [
+      62839
+    ],
+    "backward_end": [
+      62840
+    ],
+    "backward_end_alt": [
+      62841
+    ],
+    "backward_end_alt_fill": [
+      62842
+    ],
+    "backward_end_fill": [
+      62843
+    ],
+    "backward_fill": [
+      62844
+    ],
+    "badge_plus_radiowaves_right": [
+      62845
+    ],
+    "bag": [
+      62846
+    ],
+    "bag_badge_minus": [
+      62847
+    ],
+    "bag_badge_plus": [
+      62848
+    ],
+    "bag_fill": [
+      62849
+    ],
+    "bag_fill_badge_minus": [
+      62850
+    ],
+    "bag_fill_badge_plus": [
+      62851
+    ],
+    "bandage": [
+      62852
+    ],
+    "bandage_fill": [
+      62853
+    ],
+    "barcode": [
+      62854
+    ],
+    "barcode_viewfinder": [
+      62855
+    ],
+    "bars": [
+      63665
+    ],
+    "battery_0": [
+      61714
+    ],
+    "battery_100": [
+      61715,
+      61713,
+      61716
+    ],
+    "battery_25": [
+      61717
+    ],
+    "bed_double": [
+      62856
+    ],
+    "bed_double_fill": [
+      62857
+    ],
+    "bell": [
+      62433
+    ],
+    "bell_circle": [
+      62858
+    ],
+    "bell_circle_fill": [
+      62859
+    ],
+    "bell_fill": [
+      62434
+    ],
+    "bell_slash": [
+      62860
+    ],
+    "bell_slash_fill": [
+      62861
+    ],
+    "bin_xmark": [
+      62862
+    ],
+    "bin_xmark_fill": [
+      62863
+    ],
+    "bitcoin": [
+      63666
+    ],
+    "bitcoin_circle": [
+      63667
+    ],
+    "bitcoin_circle_fill": [
+      63668
+    ],
+    "bold": [
+      62864
+    ],
+    "bold_italic_underline": [
+      62865
+    ],
+    "bold_underline": [
+      62866
+    ],
+    "bolt": [
+      62867
+    ],
+    "bolt_badge_a": [
+      62868
+    ],
+    "bolt_badge_a_fill": [
+      62869
+    ],
+    "bolt_circle": [
+      62870
+    ],
+    "bolt_circle_fill": [
+      62871
+    ],
+    "bolt_fill": [
+      62872
+    ],
+    "bolt_horizontal": [
+      62873
+    ],
+    "bolt_horizontal_circle": [
+      62874
+    ],
+    "bolt_horizontal_circle_fill": [
+      62875
+    ],
+    "bolt_horizontal_fill": [
+      62876
+    ],
+    "bolt_slash": [
+      62877
+    ],
+    "bolt_slash_fill": [
+      62878
+    ],
+    "book": [
+      62439
+    ],
+    "book_circle": [
+      62879
+    ],
+    "book_circle_fill": [
+      62880
+    ],
+    "book_fill": [
+      62440
+    ],
+    "bookmark": [
+      62441
+    ],
+    "bookmark_fill": [
+      62442
+    ],
+    "briefcase": [
+      62881
+    ],
+    "briefcase_fill": [
+      62882
+    ],
+    "bubble_left": [
+      62883
+    ],
+    "bubble_left_bubble_right": [
+      62884
+    ],
+    "bubble_left_bubble_right_fill": [
+      62885
+    ],
+    "bubble_left_fill": [
+      62886
+    ],
+    "bubble_middle_bottom": [
+      62887
+    ],
+    "bubble_middle_bottom_fill": [
+      62888
+    ],
+    "bubble_middle_top": [
+      62889
+    ],
+    "bubble_middle_top_fill": [
+      62890
+    ],
+    "bubble_right": [
+      62891
+    ],
+    "bubble_right_fill": [
+      62892
+    ],
+    "building_2_fill": [
+      63669
+    ],
+    "burn": [
+      62893
+    ],
+    "burst": [
+      62894
+    ],
+    "burst_fill": [
+      62895
+    ],
+    "calendar": [
+      62896
+    ],
+    "calendar_badge_minus": [
+      62897
+    ],
+    "calendar_badge_plus": [
+      62898
+    ],
+    "calendar_circle": [
+      62899
+    ],
+    "calendar_circle_fill": [
+      62900
+    ],
+    "calendar_today": [
+      63670
+    ],
+    "camera": [
+      62453
+    ],
+    "camera_circle": [
+      62901
+    ],
+    "camera_circle_fill": [
+      62902
+    ],
+    "camera_fill": [
+      62454
+    ],
+    "camera_on_rectangle": [
+      62903
+    ],
+    "camera_on_rectangle_fill": [
+      62904
+    ],
+    "camera_rotate": [
+      62622
+    ],
+    "camera_rotate_fill": [
+      62623
+    ],
+    "camera_viewfinder": [
+      62905
+    ],
+    "capslock": [
+      62906
+    ],
+    "capslock_fill": [
+      62907
+    ],
+    "capsule": [
+      62908
+    ],
+    "capsule_fill": [
+      62909
+    ],
+    "captions_bubble": [
+      62910
+    ],
+    "captions_bubble_fill": [
+      62911
+    ],
+    "car_fill": [
+      62319
+    ],
+    "cart": [
+      62455
+    ],
+    "cart_badge_minus": [
+      62912
+    ],
+    "cart_badge_plus": [
+      62913
+    ],
+    "cart_fill": [
+      62914
+    ],
+    "cart_fill_badge_minus": [
+      62915
+    ],
+    "cart_fill_badge_plus": [
+      62916
+    ],
+    "chart_bar": [
+      62917
+    ],
+    "chart_bar_alt_fill": [
+      63671
+    ],
+    "chart_bar_circle": [
+      63672
+    ],
+    "chart_bar_circle_fill": [
+      63673
+    ],
+    "chart_bar_fill": [
+      62918
+    ],
+    "chart_bar_square": [
+      63674
+    ],
+    "chart_bar_square_fill": [
+      63675
+    ],
+    "chart_pie": [
+      62919
+    ],
+    "chart_pie_fill": [
+      62920
+    ],
+    "chat_bubble": [
+      62459
+    ],
+    "chat_bubble_2": [
+      63676
+    ],
+    "chat_bubble_2_fill": [
+      63677
+    ],
+    "chat_bubble_fill": [
+      63678
+    ],
+    "chat_bubble_text": [
+      63679
+    ],
+    "chat_bubble_text_fill": [
+      63680
+    ],
+    "checkmark": [
+      62461
+    ],
+    "checkmark_alt": [
+      63681
+    ],
+    "checkmark_alt_circle": [
+      63682
+    ],
+    "checkmark_alt_circle_fill": [
+      63683
+    ],
+    "checkmark_circle": [
+      62462
+    ],
+    "checkmark_circle_fill": [
+      62463
+    ],
+    "checkmark_rectangle": [
+      62921
+    ],
+    "checkmark_rectangle_fill": [
+      62922
+    ],
+    "checkmark_seal": [
+      62923
+    ],
+    "checkmark_seal_fill": [
+      62924
+    ],
+    "checkmark_shield": [
+      62925
+    ],
+    "checkmark_shield_fill": [
+      62926
+    ],
+    "checkmark_square": [
+      62927
+    ],
+    "checkmark_square_fill": [
+      62928
+    ],
+    "chevron_back": [
+      62415
+    ],
+    "chevron_compact_down": [
+      62929
+    ],
+    "chevron_compact_left": [
+      62930
+    ],
+    "chevron_compact_right": [
+      62931
+    ],
+    "chevron_compact_up": [
+      62932
+    ],
+    "chevron_down": [
+      62933
+    ],
+    "chevron_down_circle": [
+      62934
+    ],
+    "chevron_down_circle_fill": [
+      62935
+    ],
+    "chevron_down_square": [
+      62936
+    ],
+    "chevron_down_square_fill": [
+      62937
+    ],
+    "chevron_forward": [
+      62417
+    ],
+    "chevron_left": [
+      62418
+    ],
+    "chevron_left_2": [
+      62938
+    ],
+    "chevron_left_circle": [
+      62939
+    ],
+    "chevron_left_circle_fill": [
+      62940
+    ],
+    "chevron_left_slash_chevron_right": [
+      62941
+    ],
+    "chevron_left_square": [
+      62942
+    ],
+    "chevron_left_square_fill": [
+      62943
+    ],
+    "chevron_right": [
+      62419
+    ],
+    "chevron_right_2": [
+      62944
+    ],
+    "chevron_right_circle": [
+      62945
+    ],
+    "chevron_right_circle_fill": [
+      62946
+    ],
+    "chevron_right_square": [
+      62947
+    ],
+    "chevron_right_square_fill": [
+      62948
+    ],
+    "chevron_up": [
+      62949
+    ],
+    "chevron_up_chevron_down": [
+      62950
+    ],
+    "chevron_up_circle": [
+      62951
+    ],
+    "chevron_up_circle_fill": [
+      62952
+    ],
+    "chevron_up_square": [
+      62953
+    ],
+    "chevron_up_square_fill": [
+      62954
+    ],
+    "circle": [
+      62465
+    ],
+    "circle_bottomthird_split": [
+      62955
+    ],
+    "circle_fill": [
+      62464
+    ],
+    "circle_grid_3x3": [
+      62956
+    ],
+    "circle_grid_3x3_fill": [
+      62957
+    ],
+    "circle_grid_hex": [
+      62958
+    ],
+    "circle_grid_hex_fill": [
+      62959
+    ],
+    "circle_lefthalf_fill": [
+      62960
+    ],
+    "circle_righthalf_fill": [
+      62961
+    ],
+    "clear": [
+      62962
+    ],
+    "clear_fill": [
+      62963
+    ],
+    "clock": [
+      62466,
+      62654
+    ],
+    "clock_fill": [
+      62467,
+      62655
+    ],
+    "cloud": [
+      62964
+    ],
+    "cloud_bolt": [
+      62965
+    ],
+    "cloud_bolt_fill": [
+      62966
+    ],
+    "cloud_bolt_rain": [
+      62967
+    ],
+    "cloud_bolt_rain_fill": [
+      62968
+    ],
+    "cloud_download": [
+      63684
+    ],
+    "cloud_download_fill": [
+      63685
+    ],
+    "cloud_drizzle": [
+      62969
+    ],
+    "cloud_drizzle_fill": [
+      62970
+    ],
+    "cloud_fill": [
+      62971
+    ],
+    "cloud_fog": [
+      62972
+    ],
+    "cloud_fog_fill": [
+      62973
+    ],
+    "cloud_hail": [
+      62974
+    ],
+    "cloud_hail_fill": [
+      62975
+    ],
+    "cloud_heavyrain": [
+      62976
+    ],
+    "cloud_heavyrain_fill": [
+      62977
+    ],
+    "cloud_moon": [
+      62978
+    ],
+    "cloud_moon_bolt": [
+      62979
+    ],
+    "cloud_moon_bolt_fill": [
+      62980
+    ],
+    "cloud_moon_fill": [
+      62981
+    ],
+    "cloud_moon_rain": [
+      62982
+    ],
+    "cloud_moon_rain_fill": [
+      62983
+    ],
+    "cloud_rain": [
+      62984
+    ],
+    "cloud_rain_fill": [
+      62985
+    ],
+    "cloud_sleet": [
+      62986
+    ],
+    "cloud_sleet_fill": [
+      62987
+    ],
+    "cloud_snow": [
+      62988
+    ],
+    "cloud_snow_fill": [
+      62989
+    ],
+    "cloud_sun": [
+      62990
+    ],
+    "cloud_sun_bolt": [
+      62991
+    ],
+    "cloud_sun_bolt_fill": [
+      62992
+    ],
+    "cloud_sun_fill": [
+      62993
+    ],
+    "cloud_sun_rain": [
+      62994
+    ],
+    "cloud_sun_rain_fill": [
+      62995
+    ],
+    "cloud_upload": [
+      63686
+    ],
+    "cloud_upload_fill": [
+      63687
+    ],
+    "color_filter": [
+      63688
+    ],
+    "color_filter_fill": [
+      63689
+    ],
+    "command": [
+      62996
+    ],
+    "compass": [
+      63690
+    ],
+    "compass_fill": [
+      63691
+    ],
+    "control": [
+      62997
+    ],
+    "creditcard": [
+      62998
+    ],
+    "creditcard_fill": [
+      62999
+    ],
+    "crop": [
+      63000
+    ],
+    "crop_rotate": [
+      63001
+    ],
+    "cube": [
+      63002
+    ],
+    "cube_box": [
+      63003
+    ],
+    "cube_box_fill": [
+      63004
+    ],
+    "cube_fill": [
+      63005
+    ],
+    "cursor_rays": [
+      63006
+    ],
+    "decrease_indent": [
+      63007
+    ],
+    "decrease_quotelevel": [
+      63008
+    ],
+    "delete_left": [
+      63009
+    ],
+    "delete_left_fill": [
+      63010
+    ],
+    "delete_right": [
+      63011
+    ],
+    "delete_right_fill": [
+      63012
+    ],
+    "desktopcomputer": [
+      63013
+    ],
+    "device_desktop": [
+      63692
+    ],
+    "device_laptop": [
+      63693
+    ],
+    "device_phone_landscape": [
+      63694
+    ],
+    "device_phone_portrait": [
+      63695
+    ],
+    "dial": [
+      63014
+    ],
+    "dial_fill": [
+      63015
+    ],
+    "divide": [
+      63016
+    ],
+    "divide_circle": [
+      63017
+    ],
+    "divide_circle_fill": [
+      63018
+    ],
+    "divide_square": [
+      63019
+    ],
+    "divide_square_fill": [
+      63020
+    ],
+    "doc": [
+      63021
+    ],
+    "doc_append": [
+      63022
+    ],
+    "doc_chart": [
+      63696
+    ],
+    "doc_chart_fill": [
+      63697
+    ],
+    "doc_checkmark": [
+      63698
+    ],
+    "doc_checkmark_fill": [
+      63699
+    ],
+    "doc_circle": [
+      63023
+    ],
+    "doc_circle_fill": [
+      63024
+    ],
+    "doc_fill": [
+      63025
+    ],
+    "doc_on_clipboard": [
+      63026
+    ],
+    "doc_on_clipboard_fill": [
+      63027
+    ],
+    "doc_on_doc": [
+      63028
+    ],
+    "doc_on_doc_fill": [
+      63029
+    ],
+    "doc_person": [
+      63700
+    ],
+    "doc_person_fill": [
+      63701
+    ],
+    "doc_plaintext": [
+      63030
+    ],
+    "doc_richtext": [
+      63031
+    ],
+    "doc_text": [
+      63032
+    ],
+    "doc_text_fill": [
+      63033
+    ],
+    "doc_text_search": [
+      63034
+    ],
+    "doc_text_viewfinder": [
+      63035
+    ],
+    "dot_radiowaves_left_right": [
+      63036
+    ],
+    "dot_radiowaves_right": [
+      63037
+    ],
+    "dot_square": [
+      63038
+    ],
+    "dot_square_fill": [
+      63039
+    ],
+    "download_circle": [
+      63702
+    ],
+    "download_circle_fill": [
+      63703
+    ],
+    "drop": [
+      63704
+    ],
+    "drop_fill": [
+      63705
+    ],
+    "drop_triangle": [
+      63040
+    ],
+    "drop_triangle_fill": [
+      63041
+    ],
+    "ear": [
+      63042
+    ],
+    "eject": [
+      63043
+    ],
+    "eject_fill": [
+      63044
+    ],
+    "ellipses_bubble": [
+      63045
+    ],
+    "ellipses_bubble_fill": [
+      63046
+    ],
+    "ellipsis": [
+      62570
+    ],
+    "ellipsis_circle": [
+      63047
+    ],
+    "ellipsis_circle_fill": [
+      63048
+    ],
+    "ellipsis_vertical": [
+      63706
+    ],
+    "ellipsis_vertical_circle": [
+      63707
+    ],
+    "ellipsis_vertical_circle_fill": [
+      63708
+    ],
+    "envelope": [
+      62498
+    ],
+    "envelope_badge": [
+      63049
+    ],
+    "envelope_badge_fill": [
+      63050
+    ],
+    "envelope_circle": [
+      63051
+    ],
+    "envelope_circle_fill": [
+      63052
+    ],
+    "envelope_fill": [
+      62499
+    ],
+    "envelope_open": [
+      63053
+    ],
+    "envelope_open_fill": [
+      63054
+    ],
+    "equal": [
+      63055
+    ],
+    "equal_circle": [
+      63056
+    ],
+    "equal_circle_fill": [
+      63057
+    ],
+    "equal_square": [
+      63058
+    ],
+    "equal_square_fill": [
+      63059
+    ],
+    "escape": [
+      63060
+    ],
+    "exclamationmark": [
+      63061
+    ],
+    "exclamationmark_bubble": [
+      63062
+    ],
+    "exclamationmark_bubble_fill": [
+      63063
+    ],
+    "exclamationmark_circle": [
+      63064
+    ],
+    "exclamationmark_circle_fill": [
+      63065
+    ],
+    "exclamationmark_octagon": [
+      63066
+    ],
+    "exclamationmark_octagon_fill": [
+      63067
+    ],
+    "exclamationmark_shield": [
+      63068
+    ],
+    "exclamationmark_shield_fill": [
+      63069
+    ],
+    "exclamationmark_square": [
+      63070
+    ],
+    "exclamationmark_square_fill": [
+      63071
+    ],
+    "exclamationmark_triangle": [
+      63072
+    ],
+    "exclamationmark_triangle_fill": [
+      63073
+    ],
+    "eye": [
+      62500
+    ],
+    "eye_fill": [
+      62501
+    ],
+    "eye_slash": [
+      63074
+    ],
+    "eye_slash_fill": [
+      63075
+    ],
+    "eyedropper": [
+      63076
+    ],
+    "eyedropper_full": [
+      63077
+    ],
+    "eyedropper_halffull": [
+      63078
+    ],
+    "eyeglasses": [
+      63079
+    ],
+    "f_cursive": [
+      63080
+    ],
+    "f_cursive_circle": [
+      63081
+    ],
+    "f_cursive_circle_fill": [
+      63082
+    ],
+    "film": [
+      63083
+    ],
+    "film_fill": [
+      63084
+    ],
+    "flag": [
+      62508
+    ],
+    "flag_circle": [
+      63085
+    ],
+    "flag_circle_fill": [
+      63086
+    ],
+    "flag_fill": [
+      63087
+    ],
+    "flag_slash": [
+      63088
+    ],
+    "flag_slash_fill": [
+      63089
+    ],
+    "flame": [
+      63090
+    ],
+    "flame_fill": [
+      63091
+    ],
+    "floppy_disk": [
+      63709
+    ],
+    "flowchart": [
+      63092
+    ],
+    "flowchart_fill": [
+      63093
+    ],
+    "folder": [
+      62516,
+      62346
+    ],
+    "folder_badge_minus": [
+      63094
+    ],
+    "folder_badge_person_crop": [
+      63095
+    ],
+    "folder_badge_plus": [
+      63096
+    ],
+    "folder_circle": [
+      63097
+    ],
+    "folder_circle_fill": [
+      63098
+    ],
+    "folder_fill": [
+      62517
+    ],
+    "folder_fill_badge_minus": [
+      63099
+    ],
+    "folder_fill_badge_person_crop": [
+      63100
+    ],
+    "folder_fill_badge_plus": [
+      63101
+    ],
+    "forward": [
+      63102
+    ],
+    "forward_end": [
+      63103
+    ],
+    "forward_end_alt": [
+      63104
+    ],
+    "forward_end_alt_fill": [
+      63105
+    ],
+    "forward_end_fill": [
+      63106
+    ],
+    "forward_fill": [
+      63107
+    ],
+    "function": [
+      63108
+    ],
+    "fx": [
+      63109
+    ],
+    "gamecontroller": [
+      62522
+    ],
+    "gamecontroller_alt_fill": [
+      63710
+    ],
+    "gamecontroller_fill": [
+      62523
+    ],
+    "gauge": [
+      63110
+    ],
+    "gauge_badge_minus": [
+      63111
+    ],
+    "gauge_badge_plus": [
+      63112
+    ],
+    "gear": [
+      62481,
+      62482
+    ],
+    "gear_alt": [
+      62524,
+      62199
+    ],
+    "gear_alt_fill": [
+      62525
+    ],
+    "gift": [
+      63113
+    ],
+    "gift_alt": [
+      63114
+    ],
+    "gift_alt_fill": [
+      63115
+    ],
+    "gift_fill": [
+      63116
+    ],
+    "globe": [
+      63117
+    ],
+    "gobackward": [
+      63118
+    ],
+    "gobackward_10": [
+      63119
+    ],
+    "gobackward_15": [
+      63120
+    ],
+    "gobackward_30": [
+      63121
+    ],
+    "gobackward_45": [
+      63122
+    ],
+    "gobackward_60": [
+      63123
+    ],
+    "gobackward_75": [
+      63124
+    ],
+    "gobackward_90": [
+      63125
+    ],
+    "gobackward_minus": [
+      63126
+    ],
+    "goforward": [
+      63127
+    ],
+    "goforward_10": [
+      63128
+    ],
+    "goforward_15": [
+      63129
+    ],
+    "goforward_30": [
+      63130
+    ],
+    "goforward_45": [
+      63131
+    ],
+    "goforward_60": [
+      63132
+    ],
+    "goforward_75": [
+      63133
+    ],
+    "goforward_90": [
+      63134
+    ],
+    "goforward_plus": [
+      63135
+    ],
+    "graph_circle": [
+      63711
+    ],
+    "graph_circle_fill": [
+      63712
+    ],
+    "graph_square": [
+      63713
+    ],
+    "graph_square_fill": [
+      63714
+    ],
+    "greaterthan": [
+      63136
+    ],
+    "greaterthan_circle": [
+      63137
+    ],
+    "greaterthan_circle_fill": [
+      63138
+    ],
+    "greaterthan_square": [
+      63139
+    ],
+    "greaterthan_square_fill": [
+      63140
+    ],
+    "grid": [
+      63141
+    ],
+    "grid_circle": [
+      63142
+    ],
+    "grid_circle_fill": [
+      63143
+    ],
+    "guitars": [
+      63144
+    ],
+    "hammer": [
+      63145
+    ],
+    "hammer_fill": [
+      63146
+    ],
+    "hand_draw": [
+      63147
+    ],
+    "hand_draw_fill": [
+      63148
+    ],
+    "hand_point_left": [
+      63149
+    ],
+    "hand_point_left_fill": [
+      63150
+    ],
+    "hand_point_right": [
+      63151
+    ],
+    "hand_point_right_fill": [
+      63152
+    ],
+    "hand_raised": [
+      63153
+    ],
+    "hand_raised_fill": [
+      63154
+    ],
+    "hand_raised_slash": [
+      63155
+    ],
+    "hand_raised_slash_fill": [
+      63156
+    ],
+    "hand_thumbsdown": [
+      63157
+    ],
+    "hand_thumbsdown_fill": [
+      63158
+    ],
+    "hand_thumbsup": [
+      63159
+    ],
+    "hand_thumbsup_fill": [
+      63160
+    ],
+    "hare": [
+      63161
+    ],
+    "hare_fill": [
+      63162
+    ],
+    "headphones": [
+      63163
+    ],
+    "heart": [
+      62530
+    ],
+    "heart_circle": [
+      63164
+    ],
+    "heart_circle_fill": [
+      63165
+    ],
+    "heart_fill": [
+      62531
+    ],
+    "heart_slash": [
+      63166
+    ],
+    "heart_slash_circle": [
+      63167
+    ],
+    "heart_slash_circle_fill": [
+      63168
+    ],
+    "heart_slash_fill": [
+      63169
+    ],
+    "helm": [
+      63170
+    ],
+    "hexagon": [
+      63171
+    ],
+    "hexagon_fill": [
+      63172
+    ],
+    "hifispeaker": [
+      63173
+    ],
+    "hifispeaker_fill": [
+      63174
+    ],
+    "hourglass": [
+      63175
+    ],
+    "hourglass_bottomhalf_fill": [
+      63176
+    ],
+    "hourglass_tophalf_fill": [
+      63177
+    ],
+    "house": [
+      62535
+    ],
+    "house_alt": [
+      63715
+    ],
+    "house_alt_fill": [
+      63716
+    ],
+    "house_fill": [
+      63178
+    ],
+    "hurricane": [
+      63179
+    ],
+    "increase_indent": [
+      63180
+    ],
+    "increase_quotelevel": [
+      63181
+    ],
+    "infinite": [
+      62537,
+      62538
+    ],
+    "info": [
+      63182
+    ],
+    "info_circle": [
+      62540
+    ],
+    "info_circle_fill": [
+      63183
+    ],
+    "italic": [
+      63184
+    ],
+    "keyboard": [
+      63185
+    ],
+    "keyboard_chevron_compact_down": [
+      63186
+    ],
+    "largecircle_fill_circle": [
+      63187
+    ],
+    "lasso": [
+      63188
+    ],
+    "layers": [
+      63717
+    ],
+    "layers_alt": [
+      63718
+    ],
+    "layers_alt_fill": [
+      63719
+    ],
+    "layers_fill": [
+      63720
+    ],
+    "leaf_arrow_circlepath": [
+      63189
+    ],
+    "lessthan": [
+      63190
+    ],
+    "lessthan_circle": [
+      63191
+    ],
+    "lessthan_circle_fill": [
+      63192
+    ],
+    "lessthan_square": [
+      63193
+    ],
+    "lessthan_square_fill": [
+      63194
+    ],
+    "light_max": [
+      63195
+    ],
+    "light_min": [
+      63196
+    ],
+    "lightbulb": [
+      63197
+    ],
+    "lightbulb_fill": [
+      63198
+    ],
+    "lightbulb_slash": [
+      63199
+    ],
+    "lightbulb_slash_fill": [
+      63200
+    ],
+    "line_horizontal_3": [
+      63201
+    ],
+    "line_horizontal_3_decrease": [
+      63202
+    ],
+    "line_horizontal_3_decrease_circle": [
+      63203
+    ],
+    "line_horizontal_3_decrease_circle_fill": [
+      63204
+    ],
+    "link": [
+      63205
+    ],
+    "link_circle": [
+      63206
+    ],
+    "link_circle_fill": [
+      63207
+    ],
+    "list_bullet": [
+      63208
+    ],
+    "list_bullet_below_rectangle": [
+      63209
+    ],
+    "list_bullet_indent": [
+      63210
+    ],
+    "list_dash": [
+      63211
+    ],
+    "list_number": [
+      63212
+    ],
+    "list_number_rtl": [
+      63213
+    ],
+    "location": [
+      63214
+    ],
+    "location_circle": [
+      63215
+    ],
+    "location_circle_fill": [
+      63216
+    ],
+    "location_fill": [
+      63217
+    ],
+    "location_north": [
+      63218
+    ],
+    "location_north_fill": [
+      63219
+    ],
+    "location_north_line": [
+      63220
+    ],
+    "location_north_line_fill": [
+      63221
+    ],
+    "location_slash": [
+      63222
+    ],
+    "location_slash_fill": [
+      63223
+    ],
+    "lock": [
+      62664
+    ],
+    "lock_circle": [
+      63224
+    ],
+    "lock_circle_fill": [
+      63225
+    ],
+    "lock_fill": [
+      62665
+    ],
+    "lock_open": [
+      63226
+    ],
+    "lock_open_fill": [
+      63227
+    ],
+    "lock_rotation": [
+      63228
+    ],
+    "lock_rotation_open": [
+      63229
+    ],
+    "lock_shield": [
+      63230
+    ],
+    "lock_shield_fill": [
+      63231
+    ],
+    "lock_slash": [
+      63232
+    ],
+    "lock_slash_fill": [
+      63233
+    ],
+    "macwindow": [
+      63234
+    ],
+    "map": [
+      63235
+    ],
+    "map_fill": [
+      63236
+    ],
+    "map_pin": [
+      63237
+    ],
+    "map_pin_ellipse": [
+      63238
+    ],
+    "map_pin_slash": [
+      63239
+    ],
+    "memories": [
+      63240
+    ],
+    "memories_badge_minus": [
+      63241
+    ],
+    "memories_badge_plus": [
+      63242
+    ],
+    "metronome": [
+      63243
+    ],
+    "mic": [
+      62560
+    ],
+    "mic_circle": [
+      63244
+    ],
+    "mic_circle_fill": [
+      63245
+    ],
+    "mic_fill": [
+      62561
+    ],
+    "mic_slash": [
+      62559
+    ],
+    "mic_slash_fill": [
+      63246
+    ],
+    "minus": [
+      63247
+    ],
+    "minus_circle": [
+      62563
+    ],
+    "minus_circle_fill": [
+      63248
+    ],
+    "minus_rectangle": [
+      63249
+    ],
+    "minus_rectangle_fill": [
+      63250
+    ],
+    "minus_slash_plus": [
+      63251
+    ],
+    "minus_square": [
+      63252
+    ],
+    "minus_square_fill": [
+      63253
+    ],
+    "money_dollar": [
+      63721
+    ],
+    "money_dollar_circle": [
+      63722
+    ],
+    "money_dollar_circle_fill": [
+      63723
+    ],
+    "money_euro": [
+      63724
+    ],
+    "money_euro_circle": [
+      63725
+    ],
+    "money_euro_circle_fill": [
+      63726
+    ],
+    "money_pound": [
+      63727
+    ],
+    "money_pound_circle": [
+      63728
+    ],
+    "money_pound_circle_fill": [
+      63729
+    ],
+    "money_rubl": [
+      63730
+    ],
+    "money_rubl_circle": [
+      63731
+    ],
+    "money_rubl_circle_fill": [
+      63732
+    ],
+    "money_yen": [
+      63733
+    ],
+    "money_yen_circle": [
+      63734
+    ],
+    "money_yen_circle_fill": [
+      63735
+    ],
+    "moon": [
+      63254
+    ],
+    "moon_circle": [
+      63255
+    ],
+    "moon_circle_fill": [
+      63256
+    ],
+    "moon_fill": [
+      63257
+    ],
+    "moon_stars": [
+      63258
+    ],
+    "moon_stars_fill": [
+      63259
+    ],
+    "moon_zzz": [
+      63260
+    ],
+    "moon_zzz_fill": [
+      63261
+    ],
+    "move": [
+      63736
+    ],
+    "multiply": [
+      63262
+    ],
+    "multiply_circle": [
+      63263
+    ],
+    "multiply_circle_fill": [
+      63264
+    ],
+    "multiply_square": [
+      63265
+    ],
+    "multiply_square_fill": [
+      63266
+    ],
+    "music_albums": [
+      63737
+    ],
+    "music_albums_fill": [
+      63738
+    ],
+    "music_house": [
+      63267
+    ],
+    "music_house_fill": [
+      63268
+    ],
+    "music_mic": [
+      63269
+    ],
+    "music_note": [
+      62571
+    ],
+    "music_note_2": [
+      62572
+    ],
+    "music_note_list": [
+      63270
+    ],
+    "nosign": [
+      63271
+    ],
+    "number": [
+      63272
+    ],
+    "number_circle": [
+      63273
+    ],
+    "number_circle_fill": [
+      63274
+    ],
+    "number_square": [
+      63275
+    ],
+    "number_square_fill": [
+      63276
+    ],
+    "option": [
+      63277
+    ],
+    "paintbrush": [
+      63278
+    ],
+    "paintbrush_fill": [
+      63279
+    ],
+    "pano": [
+      63280
+    ],
+    "pano_fill": [
+      63281
+    ],
+    "paperclip": [
+      63282
+    ],
+    "paperplane": [
+      63283
+    ],
+    "paperplane_fill": [
+      63284
+    ],
+    "paragraph": [
+      63285
+    ],
+    "pause": [
+      62583
+    ],
+    "pause_circle": [
+      63286
+    ],
+    "pause_circle_fill": [
+      63287
+    ],
+    "pause_fill": [
+      62584
+    ],
+    "pause_rectangle": [
+      63288
+    ],
+    "pause_rectangle_fill": [
+      63289
+    ],
+    "paw": [
+      62586,
+      62585
+    ],
+    "pencil": [
+      62334,
+      62143
+    ],
+    "pencil_circle": [
+      63290
+    ],
+    "pencil_circle_fill": [
+      63291
+    ],
+    "pencil_ellipsis_rectangle": [
+      63292
+    ],
+    "pencil_outline": [
+      63293
+    ],
+    "pencil_slash": [
+      63294
+    ],
+    "percent": [
+      63295
+    ],
+    "person": [
+      62589
+    ],
+    "person_2": [
+      63296
+    ],
+    "person_2_alt": [
+      63739
+    ],
+    "person_2_fill": [
+      63297
+    ],
+    "person_2_square_stack": [
+      63298
+    ],
+    "person_2_square_stack_fill": [
+      63299
+    ],
+    "person_3": [
+      62587
+    ],
+    "person_3_fill": [
+      62588
+    ],
+    "person_alt": [
+      63740
+    ],
+    "person_alt_circle": [
+      63741
+    ],
+    "person_alt_circle_fill": [
+      63742
+    ],
+    "person_badge_minus": [
+      63300
+    ],
+    "person_badge_minus_fill": [
+      63301
+    ],
+    "person_badge_plus": [
+      62591
+    ],
+    "person_badge_plus_fill": [
+      62592
+    ],
+    "person_circle": [
+      63302
+    ],
+    "person_circle_fill": [
+      63303
+    ],
+    "person_crop_circle": [
+      62489
+    ],
+    "person_crop_circle_badge_checkmark": [
+      63304
+    ],
+    "person_crop_circle_badge_exclam": [
+      63305
+    ],
+    "person_crop_circle_badge_minus": [
+      63306
+    ],
+    "person_crop_circle_badge_plus": [
+      63307
+    ],
+    "person_crop_circle_badge_xmark": [
+      63308
+    ],
+    "person_crop_circle_fill": [
+      63309
+    ],
+    "person_crop_circle_fill_badge_checkmark": [
+      63310
+    ],
+    "person_crop_circle_fill_badge_exclam": [
+      63311
+    ],
+    "person_crop_circle_fill_badge_minus": [
+      63312
+    ],
+    "person_crop_circle_fill_badge_plus": [
+      63313
+    ],
+    "person_crop_circle_fill_badge_xmark": [
+      63314
+    ],
+    "person_crop_rectangle": [
+      63315
+    ],
+    "person_crop_rectangle_fill": [
+      63316
+    ],
+    "person_crop_square": [
+      63317
+    ],
+    "person_crop_square_fill": [
+      63318
+    ],
+    "person_fill": [
+      62590
+    ],
+    "personalhotspot": [
+      63319
+    ],
+    "perspective": [
+      63320
+    ],
+    "phone": [
+      62648
+    ],
+    "phone_arrow_down_left": [
+      63321
+    ],
+    "phone_arrow_right": [
+      63322
+    ],
+    "phone_arrow_up_right": [
+      63323
+    ],
+    "phone_badge_plus": [
+      63324
+    ],
+    "phone_circle": [
+      63325
+    ],
+    "phone_circle_fill": [
+      63326
+    ],
+    "phone_down": [
+      63327
+    ],
+    "phone_down_circle": [
+      63328
+    ],
+    "phone_down_circle_fill": [
+      63329
+    ],
+    "phone_down_fill": [
+      63330
+    ],
+    "phone_fill": [
+      62649
+    ],
+    "phone_fill_arrow_down_left": [
+      63331
+    ],
+    "phone_fill_arrow_right": [
+      63332
+    ],
+    "phone_fill_arrow_up_right": [
+      63333
+    ],
+    "phone_fill_badge_plus": [
+      63334
+    ],
+    "photo": [
+      63335
+    ],
+    "photo_fill": [
+      63336
+    ],
+    "photo_fill_on_rectangle_fill": [
+      63337
+    ],
+    "photo_on_rectangle": [
+      63338
+    ],
+    "piano": [
+      63743
+    ],
+    "pin": [
+      63339
+    ],
+    "pin_fill": [
+      63340
+    ],
+    "pin_slash": [
+      63341
+    ],
+    "pin_slash_fill": [
+      63342
+    ],
+    "placemark": [
+      62549
+    ],
+    "placemark_fill": [
+      62550
+    ],
+    "play": [
+      62599
+    ],
+    "play_circle": [
+      63343
+    ],
+    "play_circle_fill": [
+      63344
+    ],
+    "play_fill": [
+      62600
+    ],
+    "play_rectangle": [
+      63345
+    ],
+    "play_rectangle_fill": [
+      63346
+    ],
+    "playpause": [
+      63347
+    ],
+    "playpause_fill": [
+      63348
+    ],
+    "plus": [
+      62601
+    ],
+    "plus_app": [
+      63349
+    ],
+    "plus_app_fill": [
+      63350
+    ],
+    "plus_bubble": [
+      63351
+    ],
+    "plus_bubble_fill": [
+      63352
+    ],
+    "plus_circle": [
+      62602
+    ],
+    "plus_circle_fill": [
+      62603
+    ],
+    "plus_rectangle": [
+      63353
+    ],
+    "plus_rectangle_fill": [
+      63354
+    ],
+    "plus_rectangle_fill_on_rectangle_fill": [
+      63355
+    ],
+    "plus_rectangle_on_rectangle": [
+      63356
+    ],
+    "plus_slash_minus": [
+      63357
+    ],
+    "plus_square": [
+      63358
+    ],
+    "plus_square_fill": [
+      63359
+    ],
+    "plus_square_fill_on_square_fill": [
+      63360
+    ],
+    "plus_square_on_square": [
+      63361
+    ],
+    "plusminus": [
+      63362
+    ],
+    "plusminus_circle": [
+      63363
+    ],
+    "plusminus_circle_fill": [
+      63364
+    ],
+    "power": [
+      63365
+    ],
+    "printer": [
+      63366
+    ],
+    "printer_fill": [
+      63367
+    ],
+    "projective": [
+      63368
+    ],
+    "purchased": [
+      63369
+    ],
+    "purchased_circle": [
+      63370
+    ],
+    "purchased_circle_fill": [
+      63371
+    ],
+    "qrcode": [
+      63372
+    ],
+    "qrcode_viewfinder": [
+      63373
+    ],
+    "question": [
+      63374
+    ],
+    "question_circle": [
+      63375
+    ],
+    "question_circle_fill": [
+      63376
+    ],
+    "question_diamond": [
+      63377
+    ],
+    "question_diamond_fill": [
+      63378
+    ],
+    "question_square": [
+      63379
+    ],
+    "question_square_fill": [
+      63380
+    ],
+    "quote_bubble": [
+      63381
+    ],
+    "quote_bubble_fill": [
+      63382
+    ],
+    "radiowaves_left": [
+      63383
+    ],
+    "radiowaves_right": [
+      63384
+    ],
+    "rays": [
+      63385
+    ],
+    "recordingtape": [
+      63386
+    ],
+    "rectangle": [
+      63387
+    ],
+    "rectangle_3_offgrid": [
+      63388
+    ],
+    "rectangle_3_offgrid_fill": [
+      63389
+    ],
+    "rectangle_arrow_up_right_arrow_down_left": [
+      63390
+    ],
+    "rectangle_arrow_up_right_arrow_down_left_slash": [
+      63391
+    ],
+    "rectangle_badge_checkmark": [
+      63392
+    ],
+    "rectangle_badge_xmark": [
+      63393
+    ],
+    "rectangle_compress_vertical": [
+      63394
+    ],
+    "rectangle_dock": [
+      63395
+    ],
+    "rectangle_expand_vertical": [
+      63396
+    ],
+    "rectangle_fill": [
+      63397
+    ],
+    "rectangle_fill_badge_checkmark": [
+      63398
+    ],
+    "rectangle_fill_badge_xmark": [
+      63399
+    ],
+    "rectangle_fill_on_rectangle_angled_fill": [
+      63400
+    ],
+    "rectangle_fill_on_rectangle_fill": [
+      63401
+    ],
+    "rectangle_grid_1x2": [
+      63402
+    ],
+    "rectangle_grid_1x2_fill": [
+      63403
+    ],
+    "rectangle_grid_2x2": [
+      63404
+    ],
+    "rectangle_grid_2x2_fill": [
+      63405
+    ],
+    "rectangle_grid_3x2": [
+      63406
+    ],
+    "rectangle_grid_3x2_fill": [
+      63407
+    ],
+    "rectangle_on_rectangle": [
+      63408
+    ],
+    "rectangle_on_rectangle_angled": [
+      63409
+    ],
+    "rectangle_paperclip": [
+      63410
+    ],
+    "rectangle_split_3x1": [
+      63411
+    ],
+    "rectangle_split_3x1_fill": [
+      63412
+    ],
+    "rectangle_split_3x3": [
+      63413
+    ],
+    "rectangle_split_3x3_fill": [
+      63414
+    ],
+    "rectangle_stack": [
+      62409
+    ],
+    "rectangle_stack_badge_minus": [
+      63415
+    ],
+    "rectangle_stack_badge_person_crop": [
+      63416
+    ],
+    "rectangle_stack_badge_plus": [
+      63417
+    ],
+    "rectangle_stack_fill": [
+      62410
+    ],
+    "rectangle_stack_fill_badge_minus": [
+      63418
+    ],
+    "rectangle_stack_fill_badge_person_crop": [
+      63419
+    ],
+    "rectangle_stack_fill_badge_plus": [
+      63420
+    ],
+    "rectangle_stack_person_crop": [
+      63421
+    ],
+    "rectangle_stack_person_crop_fill": [
+      63422
+    ],
+    "repeat": [
+      63423
+    ],
+    "repeat_1": [
+      63424
+    ],
+    "resize": [
+      63744
+    ],
+    "resize_h": [
+      63745
+    ],
+    "resize_v": [
+      63746
+    ],
+    "return_icon": [
+      63425
+    ],
+    "rhombus": [
+      63426
+    ],
+    "rhombus_fill": [
+      63427
+    ],
+    "rocket": [
+      63747
+    ],
+    "rocket_fill": [
+      63748
+    ],
+    "rosette": [
+      63428
+    ],
+    "rotate_left": [
+      63429
+    ],
+    "rotate_left_fill": [
+      63430
+    ],
+    "rotate_right": [
+      63431
+    ],
+    "rotate_right_fill": [
+      63432
+    ],
+    "scissors": [
+      63433
+    ],
+    "scissors_alt": [
+      63749
+    ],
+    "scope": [
+      63434
+    ],
+    "scribble": [
+      63435
+    ],
+    "search": [
+      62629
+    ],
+    "search_circle": [
+      63436
+    ],
+    "search_circle_fill": [
+      63437
+    ],
+    "selection_pin_in_out": [
+      63438
+    ],
+    "shield": [
+      63439
+    ],
+    "shield_fill": [
+      63440
+    ],
+    "shield_lefthalf_fill": [
+      63441
+    ],
+    "shield_slash": [
+      63442
+    ],
+    "shield_slash_fill": [
+      63443
+    ],
+    "shift": [
+      63444
+    ],
+    "shift_fill": [
+      63445
+    ],
+    "shuffle": [
+      62633,
+      62632,
+      61985
+    ],
+    "sidebar_left": [
+      63446
+    ],
+    "sidebar_right": [
+      63447
+    ],
+    "signature": [
+      63448
+    ],
+    "skew": [
+      63449
+    ],
+    "slash_circle": [
+      63450
+    ],
+    "slash_circle_fill": [
+      63451
+    ],
+    "slider_horizontal_3": [
+      63452
+    ],
+    "slider_horizontal_below_rectangle": [
+      63453
+    ],
+    "slowmo": [
+      63454
+    ],
+    "smallcircle_circle": [
+      63455
+    ],
+    "smallcircle_circle_fill": [
+      63456
+    ],
+    "smallcircle_fill_circle": [
+      63457
+    ],
+    "smallcircle_fill_circle_fill": [
+      63458
+    ],
+    "smiley": [
+      63459
+    ],
+    "smiley_fill": [
+      63460
+    ],
+    "smoke": [
+      63461
+    ],
+    "smoke_fill": [
+      63462
+    ],
+    "snow": [
+      63463
+    ],
+    "sort_down": [
+      63750
+    ],
+    "sort_down_circle": [
+      63751
+    ],
+    "sort_down_circle_fill": [
+      63752
+    ],
+    "sort_up": [
+      63753
+    ],
+    "sort_up_circle": [
+      63754
+    ],
+    "sort_up_circle_fill": [
+      63755
+    ],
+    "sparkles": [
+      63464
+    ],
+    "speaker": [
+      63465
+    ],
+    "speaker_1": [
+      63466
+    ],
+    "speaker_1_fill": [
+      62391
+    ],
+    "speaker_2": [
+      63467
+    ],
+    "speaker_2_fill": [
+      63468
+    ],
+    "speaker_3": [
+      63469
+    ],
+    "speaker_3_fill": [
+      62394
+    ],
+    "speaker_fill": [
+      62392
+    ],
+    "speaker_slash": [
+      63470
+    ],
+    "speaker_slash_fill": [
+      62393
+    ],
+    "speaker_slash_fill_rtl": [
+      63471
+    ],
+    "speaker_slash_rtl": [
+      63472
+    ],
+    "speaker_zzz": [
+      63473
+    ],
+    "speaker_zzz_fill": [
+      63474
+    ],
+    "speaker_zzz_fill_rtl": [
+      63475
+    ],
+    "speaker_zzz_rtl": [
+      63476
+    ],
+    "speedometer": [
+      63477
+    ],
+    "sportscourt": [
+      63478
+    ],
+    "sportscourt_fill": [
+      63479
+    ],
+    "square": [
+      63480
+    ],
+    "square_arrow_down": [
+      63481
+    ],
+    "square_arrow_down_fill": [
+      63482
+    ],
+    "square_arrow_down_on_square": [
+      63483
+    ],
+    "square_arrow_down_on_square_fill": [
+      63484
+    ],
+    "square_arrow_left": [
+      63756
+    ],
+    "square_arrow_left_fill": [
+      63757
+    ],
+    "square_arrow_right": [
+      63758
+    ],
+    "square_arrow_right_fill": [
+      63759
+    ],
+    "square_arrow_up": [
+      62666,
+      61984
+    ],
+    "square_arrow_up_fill": [
+      62667
+    ],
+    "square_arrow_up_on_square": [
+      63485
+    ],
+    "square_arrow_up_on_square_fill": [
+      63486
+    ],
+    "square_favorites": [
+      63760
+    ],
+    "square_favorites_alt": [
+      63761
+    ],
+    "square_favorites_alt_fill": [
+      63762
+    ],
+    "square_favorites_fill": [
+      63763
+    ],
+    "square_fill": [
+      63487
+    ],
+    "square_fill_line_vertical_square": [
+      63488
+    ],
+    "square_fill_line_vertical_square_fill": [
+      63489
+    ],
+    "square_fill_on_circle_fill": [
+      63490
+    ],
+    "square_fill_on_square_fill": [
+      63491
+    ],
+    "square_grid_2x2": [
+      63492
+    ],
+    "square_grid_2x2_fill": [
+      63493
+    ],
+    "square_grid_3x2": [
+      63494
+    ],
+    "square_grid_3x2_fill": [
+      63495
+    ],
+    "square_grid_4x3_fill": [
+      63496
+    ],
+    "square_lefthalf_fill": [
+      63497
+    ],
+    "square_line_vertical_square": [
+      63498
+    ],
+    "square_line_vertical_square_fill": [
+      63499
+    ],
+    "square_list": [
+      63764
+    ],
+    "square_list_fill": [
+      63765
+    ],
+    "square_on_circle": [
+      63500
+    ],
+    "square_on_square": [
+      63501
+    ],
+    "square_pencil": [
+      62487
+    ],
+    "square_pencil_fill": [
+      62487
+    ],
+    "square_righthalf_fill": [
+      63502
+    ],
+    "square_split_1x2": [
+      63503
+    ],
+    "square_split_1x2_fill": [
+      63504
+    ],
+    "square_split_2x1": [
+      63505
+    ],
+    "square_split_2x1_fill": [
+      63506
+    ],
+    "square_split_2x2": [
+      63507
+    ],
+    "square_split_2x2_fill": [
+      63508
+    ],
+    "square_stack": [
+      63509
+    ],
+    "square_stack_3d_down_dottedline": [
+      63510
+    ],
+    "square_stack_3d_down_right": [
+      63511
+    ],
+    "square_stack_3d_down_right_fill": [
+      63512
+    ],
+    "square_stack_3d_up": [
+      63513
+    ],
+    "square_stack_3d_up_fill": [
+      63514
+    ],
+    "square_stack_3d_up_slash": [
+      63515
+    ],
+    "square_stack_3d_up_slash_fill": [
+      63516
+    ],
+    "square_stack_fill": [
+      63517
+    ],
+    "squares_below_rectangle": [
+      63518
+    ],
+    "star": [
+      63519
+    ],
+    "star_circle": [
+      63520
+    ],
+    "star_circle_fill": [
+      63521
+    ],
+    "star_fill": [
+      63522
+    ],
+    "star_lefthalf_fill": [
+      63523
+    ],
+    "star_slash": [
+      63524
+    ],
+    "star_slash_fill": [
+      63525
+    ],
+    "staroflife": [
+      63526
+    ],
+    "staroflife_fill": [
+      63527
+    ],
+    "stop": [
+      63528
+    ],
+    "stop_circle": [
+      63529
+    ],
+    "stop_circle_fill": [
+      63530
+    ],
+    "stop_fill": [
+      63531
+    ],
+    "stopwatch": [
+      63532
+    ],
+    "stopwatch_fill": [
+      63533
+    ],
+    "strikethrough": [
+      63534
+    ],
+    "suit_club": [
+      63535
+    ],
+    "suit_club_fill": [
+      63536
+    ],
+    "suit_diamond": [
+      63537
+    ],
+    "suit_diamond_fill": [
+      63538
+    ],
+    "suit_heart": [
+      63539
+    ],
+    "suit_heart_fill": [
+      63540
+    ],
+    "suit_spade": [
+      63541
+    ],
+    "suit_spade_fill": [
+      63542
+    ],
+    "sum": [
+      63543
+    ],
+    "sun_dust": [
+      63544
+    ],
+    "sun_dust_fill": [
+      63545
+    ],
+    "sun_haze": [
+      63546
+    ],
+    "sun_haze_fill": [
+      63547
+    ],
+    "sun_max": [
+      62646
+    ],
+    "sun_max_fill": [
+      62647
+    ],
+    "sun_min": [
+      63548
+    ],
+    "sun_min_fill": [
+      63549
+    ],
+    "sunrise": [
+      63550
+    ],
+    "sunrise_fill": [
+      63551
+    ],
+    "sunset": [
+      63552
+    ],
+    "sunset_fill": [
+      63553
+    ],
+    "t_bubble": [
+      63554
+    ],
+    "t_bubble_fill": [
+      63555
+    ],
+    "table": [
+      63556
+    ],
+    "table_badge_more": [
+      63557
+    ],
+    "table_badge_more_fill": [
+      63558
+    ],
+    "table_fill": [
+      63559
+    ],
+    "tag": [
+      62604,
+      62606
+    ],
+    "tag_circle": [
+      63560
+    ],
+    "tag_circle_fill": [
+      63561
+    ],
+    "tag_fill": [
+      62605,
+      62607
+    ],
+    "text_aligncenter": [
+      63562
+    ],
+    "text_alignleft": [
+      63563
+    ],
+    "text_alignright": [
+      63564
+    ],
+    "text_append": [
+      63565
+    ],
+    "text_badge_checkmark": [
+      63566
+    ],
+    "text_badge_minus": [
+      63567
+    ],
+    "text_badge_plus": [
+      63568
+    ],
+    "text_badge_star": [
+      63569
+    ],
+    "text_badge_xmark": [
+      63570
+    ],
+    "text_bubble": [
+      63571
+    ],
+    "text_bubble_fill": [
+      63572
+    ],
+    "text_cursor": [
+      63573
+    ],
+    "text_insert": [
+      63574
+    ],
+    "text_justify": [
+      63575
+    ],
+    "text_justifyleft": [
+      63576
+    ],
+    "text_justifyright": [
+      63577
+    ],
+    "text_quote": [
+      63578
+    ],
+    "textbox": [
+      63579
+    ],
+    "textformat": [
+      63580
+    ],
+    "textformat_123": [
+      63581
+    ],
+    "textformat_abc": [
+      63582
+    ],
+    "textformat_abc_dottedunderline": [
+      63583
+    ],
+    "textformat_alt": [
+      63584
+    ],
+    "textformat_size": [
+      63585
+    ],
+    "textformat_subscript": [
+      63586
+    ],
+    "textformat_superscript": [
+      63587
+    ],
+    "thermometer": [
+      63588
+    ],
+    "thermometer_snowflake": [
+      63589
+    ],
+    "thermometer_sun": [
+      63590
+    ],
+    "ticket": [
+      63766
+    ],
+    "ticket_fill": [
+      63767
+    ],
+    "tickets": [
+      63768
+    ],
+    "tickets_fill": [
+      63769
+    ],
+    "timelapse": [
+      63591
+    ],
+    "timer": [
+      63592
+    ],
+    "timer_fill": [
+      63770
+    ],
+    "today": [
+      63771
+    ],
+    "today_fill": [
+      63772
+    ],
+    "tornado": [
+      63593
+    ],
+    "tortoise": [
+      63594
+    ],
+    "tortoise_fill": [
+      63595
+    ],
+    "tram_fill": [
+      63596
+    ],
+    "trash": [
+      62660,
+      62335
+    ],
+    "trash_circle": [
+      63597
+    ],
+    "trash_circle_fill": [
+      63598
+    ],
+    "trash_fill": [
+      62661
+    ],
+    "trash_slash": [
+      63599
+    ],
+    "trash_slash_fill": [
+      63600
+    ],
+    "tray": [
+      63601
+    ],
+    "tray_2": [
+      63602
+    ],
+    "tray_2_fill": [
+      63603
+    ],
+    "tray_arrow_down": [
+      63604
+    ],
+    "tray_arrow_down_fill": [
+      63605
+    ],
+    "tray_arrow_up": [
+      63606
+    ],
+    "tray_arrow_up_fill": [
+      63607
+    ],
+    "tray_fill": [
+      63608
+    ],
+    "tray_full": [
+      63609
+    ],
+    "tray_full_fill": [
+      63610
+    ],
+    "tree": [
+      63773
+    ],
+    "triangle": [
+      63611
+    ],
+    "triangle_fill": [
+      63612
+    ],
+    "triangle_lefthalf_fill": [
+      63613
+    ],
+    "triangle_righthalf_fill": [
+      63614
+    ],
+    "tropicalstorm": [
+      63615
+    ],
+    "tuningfork": [
+      63616
+    ],
+    "tv": [
+      63617
+    ],
+    "tv_circle": [
+      63618
+    ],
+    "tv_circle_fill": [
+      63619
+    ],
+    "tv_fill": [
+      63620
+    ],
+    "tv_music_note": [
+      63621
+    ],
+    "tv_music_note_fill": [
+      63622
+    ],
+    "uiwindow_split_2x1": [
+      63623
+    ],
+    "umbrella": [
+      63624
+    ],
+    "umbrella_fill": [
+      63625
+    ],
+    "underline": [
+      63626
+    ],
+    "upload_circle": [
+      63774
+    ],
+    "upload_circle_fill": [
+      63775
+    ],
+    "videocam": [
+      62668
+    ],
+    "videocam_circle": [
+      63776
+    ],
+    "videocam_circle_fill": [
+      63777
+    ],
+    "videocam_fill": [
+      62669
+    ],
+    "view_2d": [
+      63627
+    ],
+    "view_3d": [
+      63628
+    ],
+    "viewfinder": [
+      63629
+    ],
+    "viewfinder_circle": [
+      63630
+    ],
+    "viewfinder_circle_fill": [
+      63631
+    ],
+    "wand_rays": [
+      63632
+    ],
+    "wand_rays_inverse": [
+      63633
+    ],
+    "wand_stars": [
+      63634
+    ],
+    "wand_stars_inverse": [
+      63635
+    ],
+    "waveform": [
+      63636
+    ],
+    "waveform_circle": [
+      63637
+    ],
+    "waveform_circle_fill": [
+      63638
+    ],
+    "waveform_path": [
+      63639
+    ],
+    "waveform_path_badge_minus": [
+      63640
+    ],
+    "waveform_path_badge_plus": [
+      63641
+    ],
+    "waveform_path_ecg": [
+      63642
+    ],
+    "wifi": [
+      63643
+    ],
+    "wifi_exclamationmark": [
+      63644
+    ],
+    "wifi_slash": [
+      63645
+    ],
+    "wind": [
+      63646
+    ],
+    "wind_snow": [
+      63647
+    ],
+    "wrench": [
+      63648
+    ],
+    "wrench_fill": [
+      63649
+    ],
+    "xmark": [
+      62468,
+      62167
+    ],
+    "xmark_circle": [
+      62469
+    ],
+    "xmark_circle_fill": [
+      62318,
+      62470
+    ],
+    "xmark_octagon": [
+      63650
+    ],
+    "xmark_octagon_fill": [
+      63651
+    ],
+    "xmark_rectangle": [
+      63652
+    ],
+    "xmark_rectangle_fill": [
+      63653
+    ],
+    "xmark_seal": [
+      63654
+    ],
+    "xmark_seal_fill": [
+      63655
+    ],
+    "xmark_shield": [
+      63656
+    ],
+    "xmark_shield_fill": [
+      63657
+    ],
+    "xmark_square": [
+      63658
+    ],
+    "xmark_square_fill": [
+      63659
+    ],
+    "zoom_in": [
+      63660
+    ],
+    "zoom_out": [
+      63661
+    ],
+    "zzz": [
+      63662
+    ]
+  }
 }
