@@ -74,7 +74,7 @@ def generate_dart_file(data):
   data = data['icons']
   for name, codepoints in data.items():
     if name not in old_names.keys():
-      output.append(f"  /// <i class='cupertino-icons md-36'>{name}</i> &#x2014; cupertino icon named \"{name}\". Available on cupertino_icons package 1.0.0+ only.")
+      output.append(f"  /// <i class='cupertino-icons md-36'>{name}</i> &#x2014; Cupertino icon named \"{name}\". Available on cupertino_icons package 1.0.0+ only.")
       output.append("\n")
       if codepoints[0] in old_names.values():
         for old_name, old_codepoint in old_names.items():
