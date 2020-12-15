@@ -23,6 +23,7 @@ mapped_codepoints = {
   "chevron_back": (0xf3cf),
   "chevron_forward": (0xf3d1),
   "house": (0xf447),
+  "car": (0xf36f),
   "cart": (0xf3f7),
   "ellipsis": (0xf46a),
   "phone": (0xf4b8),
