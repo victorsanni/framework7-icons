@@ -20,7 +20,6 @@ INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', 'src')
 OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, 'manifest.json')
 AUTO_WIDTH = True
-KERNING = 15
 
 def createGlyph(name, codepoint, file):
   glyph = f.createChar(codepoint, name)
@@ -30,38 +29,6 @@ def createGlyph(name, codepoint, file):
   else:
     build_data['icons'][name].append(codepoint)
   glyph.importOutlines(file)
-
-  # Add ligatures
-  ligature = [];
-  for c in name:
-    if (c == '_'):
-      c = "underscore"
-    if (c == '-'):
-      c = "hyphen"
-    if (c == ' '):
-      c = "space"
-    if (c == '1'):
-      c = "one"
-    if (c == '2'):
-      c = "two"
-    if (c == '3'):
-      c = "three"
-    if (c == '4'):
-      c = "four"
-    if (c == '5'):
-      c = "five"
-    if (c == '6'):
-      c = "six"
-    if (c == '7'):
-      c = "seven"
-    if (c == '8'):
-      c = "eight"
-    if (c == '9'):
-      c = "nine"
-    if (c == '0'):
-      c = "zero"
-    ligature.append(c)
-  glyph.addPosSub('ligatable1', ligature)
 
   # set glyph size explicitly or automatically depending on autowidth
   if AUTO_WIDTH:
@@ -87,15 +54,11 @@ f.em = 512
 f.ascent = 448
 f.descent = 64
 
-# Add lookup table
-f.addLookup("ligatable","gsub_ligature",(),(("liga",(("latn",("dflt")),)),))
-f.addLookupSubtable("ligatable","ligatable1")
-
 # Import base characters
-for char in "0123456789abcdefghijklmnopqrstuvwzxyz_- ":
-  glyph = f.createChar(ord(char))
-  glyph.importOutlines(BLANK_PATH)
-  glyph.width = 0
+blank_glyph = f.createChar(-1, "BLANK")
+blank_glyph.importOutlines(BLANK_PATH)
+blank_glyph.width = 0
+blank_glyph.altuni = [ord(c) for c in "0123456789abcdefghijklmnopqrstuvwzxyz_- "]
 
 manifest_file = open(MANIFEST_PATH, 'r')
 manifest_data = json.loads(manifest_file.read())
