@@ -12,7 +12,7 @@ import json
 import copy
 import collections
 
-from existing_map import mapped_codepoints
+from existing_map import mapped_codepoints, aliases
 
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 BLANK_PATH = os.path.join(SCRIPT_PATH, 'blank.svg')
@@ -21,15 +21,21 @@ OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, 'manifest.json')
 AUTO_WIDTH = True
 
-def createGlyph(name, codepoint, file):
+def createGlyph(name, codepoints, file):
+  assert len(codepoints) == len(set(codepoints))
+  assert len(codepoints) != 0
+  codepoint, *tail = codepoints
   glyph = f.createChar(codepoint, name)
+  assert not glyph.changed, ("Glyph %s is already assigned. Check for duplicated SVGs.") % glyph
+  if tail:
+    glyph.altuni = tail
 
-  if not name in build_data['icons']:
-    build_data['icons'][name] = [codepoint]
-  else:
-    build_data['icons'][name].append(codepoint)
+  assert name not in build_data['icons']
+  build_data['icons'][name] = codepoints
+  for alias in aliases.pop(name, []):
+    build_data['icons'][alias] = codepoints
+
   glyph.importOutlines(file)
-
   # set glyph size explicitly or automatically depending on autowidth
   if AUTO_WIDTH:
     glyph.left_side_bearing = glyph.right_side_bearing = 0
@@ -41,6 +47,7 @@ def createGlyph(name, codepoint, file):
     # There are legacy font glyphs from different svg sources. Leave them as is.
     else:
       glyph.width = 512
+  return glyph
 
 unusable_names = {
   # Keywords in Dart we can't use as names.
@@ -71,60 +78,55 @@ font_name = manifest_data['name']
 
 # Start at this codepoint since it's the last manually used codepoint from
 # cupertino_icons 0.1.3.
-codepoint = 0xf4d4
+last_new_codepoint = 0xf4d3
 
 for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
   for filename in sorted(filenames):
     name, ext = os.path.splitext(filename)
     filePath = os.path.join(dirname, filename)
     size = os.path.getsize(filePath)
-    if ext in ['.svg', '.eps']:
+    if ext not in ['.svg', '.eps']:
+      continue
+    # hack removal of <switch> </switch> tags
+    svgfile = open(filePath, 'r+')
+    tmpsvgfile = tempfile.NamedTemporaryFile(suffix=ext, delete=False, mode='w')
+    svgtext = svgfile.read()
+    svgfile.seek(0)
 
-      # hack removal of <switch> </switch> tags
-      svgfile = open(filePath, 'r+')
-      tmpsvgfile = tempfile.NamedTemporaryFile(suffix=ext, delete=False, mode='w')
-      svgtext = svgfile.read()
-      svgfile.seek(0)
+    # replace the <switch> </switch> tags with 'nothing'
+    svgtext = svgtext.replace('<switch>', '')
+    svgtext = svgtext.replace('</switch>', '')
 
-      # replace the <switch> </switch> tags with 'nothing'
-      svgtext = svgtext.replace('<switch>', '')
-      svgtext = svgtext.replace('</switch>', '')
+    tmpsvgfile.file.write(svgtext)
 
-      tmpsvgfile.file.write(svgtext)
+    svgfile.close()
+    tmpsvgfile.file.close()
 
-      svgfile.close()
-      tmpsvgfile.file.close()
+    filePath = tmpsvgfile.name
+    # end hack
 
-      filePath = tmpsvgfile.name
-      # end hack
+    if (name in unusable_names):
+      name = unusable_names[name]
 
-      if (name in unusable_names):
-        name = unusable_names[name]
+    mapped_value = mapped_codepoints.pop(name, None)
+    codepoints = [(last_new_codepoint:=last_new_codepoint + 1)] if mapped_value is None else mapped_value
+    glyph = createGlyph(name, codepoints, filePath);
 
-      if (name in mapped_codepoints[0]):
-        mapped_value = mapped_codepoints[0][name]
-        if isinstance(mapped_value, int):
-          createGlyph(name, mapped_codepoints[0][name], filePath)
-        else:
-          for repeated_codepoint in mapped_codepoints[0][name]:
-            createGlyph(name, repeated_codepoint, filePath)
-        mapped_codepoints[0].pop(name)
-      else:
-        createGlyph(name, codepoint, filePath)
-        codepoint += 1
+    # if we created a temporary file, let's clean it up
+    os.unlink(tmpsvgfile.name)
 
-      # if we created a temporary file, let's clean it up
-      os.unlink(tmpsvgfile.name)
 
-    # resize glyphs if autowidth is enabled
-    if AUTO_WIDTH:
-      f.autoWidth(0, 0, 512)
+# resize glyphs if autowidth is enabled
+if AUTO_WIDTH:
+  f.autoWidth(0, 0, 512)
 
-  fontfile = '%s/CupertinoIcons' % (OUTPUT_FONT_DIR)
+fontfile = '%s/CupertinoIcons' % (OUTPUT_FONT_DIR)
 
 f.fontname = font_name
 f.familyname = font_name
 f.fullname = font_name
+f.version = "1.07"
+f.copyright = ""
 f.generate(fontfile + '.ttf')
 
 scriptPath = os.path.dirname(os.path.realpath(__file__))
@@ -135,7 +137,10 @@ subprocess.call('ttfautohint -s -f -n ' + fontfile + '.ttf ' + fontfile + '-hint
 manifest_data['icons'] = collections.OrderedDict(sorted(build_data['icons'].items(), key=lambda glyph: glyph[0]))
 
 print("Save Manifest, Icons: %s" % ( len(manifest_data['icons']) ))
-print(f"Unused mappings {mapped_codepoints}")
+if mapped_codepoints:
+  print(f"Unused mappings {mapped_codepoints}")
+if aliases:
+  print(f"Unused aliases {aliases}")
 f = open(MANIFEST_PATH, 'w')
 f.write( json.dumps(manifest_data, indent=2, separators=(',', ': ')) )
 f.close()
