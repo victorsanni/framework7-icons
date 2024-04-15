@@ -125,7 +125,7 @@ fontfile = '%s/CupertinoIcons' % (OUTPUT_FONT_DIR)
 f.fontname = font_name
 f.familyname = font_name
 f.fullname = font_name
-f.version = "1.07"
+f.version = "1.08"
 f.copyright = ""
 f.generate(fontfile + '.ttf')
 
