@@ -15,11 +15,15 @@ import collections
 from existing_map import mapped_codepoints, aliases
 
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
-BLANK_PATH = os.path.join(SCRIPT_PATH, 'blank.svg')
 INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', 'src')
 OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, 'manifest.json')
 AUTO_WIDTH = True
+
+def getOrCreateLigatureCompChar(char):
+  glyph = f.createChar(ord(char))
+  glyph.width = 0
+  return glyph.glyphname
 
 def createGlyph(name, codepoints, file):
   assert len(codepoints) == len(set(codepoints))
@@ -29,6 +33,8 @@ def createGlyph(name, codepoints, file):
   assert not glyph.changed, ("Glyph %s is already assigned. Check for duplicated SVGs.") % glyph
   if tail:
     glyph.altuni = tail
+
+  glyph.addPosSub('ligacomp', [getOrCreateLigatureCompChar(c) for c in name])
 
   assert name not in build_data['icons']
   build_data['icons'][name] = codepoints
@@ -61,11 +67,9 @@ f.em = 512
 f.ascent = 448
 f.descent = 64
 
-# Import base characters
-blank_glyph = f.createChar(-1, "BLANK")
-blank_glyph.importOutlines(BLANK_PATH)
-blank_glyph.width = 0
-blank_glyph.altuni = [ord(c) for c in "0123456789abcdefghijklmnopqrstuvwzxyz_- "]
+# Add lookup table
+f.addLookup("ligatable","gsub_ligature",None,(("liga",(("latn",("dflt")),)),))
+f.addLookupSubtable("ligatable","ligacomp")
 
 manifest_file = open(MANIFEST_PATH, 'r')
 manifest_data = json.loads(manifest_file.read())
@@ -127,7 +131,8 @@ f.familyname = font_name
 f.fullname = font_name
 f.version = "1.08"
 f.copyright = ""
-f.generate(fontfile + '.ttf')
+# Generate the ttf without the glyphnames in the post table to reduce size
+f.generate(fontfile + '.ttf', flags=('opentype','short-post'))
 
 scriptPath = os.path.dirname(os.path.realpath(__file__))
 
