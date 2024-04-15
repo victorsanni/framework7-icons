@@ -20,7 +20,7 @@ OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, 'manifest.json')
 AUTO_WIDTH = True
 
-def getOrCreateLigatureCompChar(char):
+def getOrCreateLigatureComponentFor(char):
   glyph = f.createChar(ord(char))
   glyph.width = 0
   return glyph.glyphname
@@ -34,12 +34,14 @@ def createGlyph(name, codepoints, file):
   if tail:
     glyph.altuni = tail
 
-  glyph.addPosSub('ligacomp', [getOrCreateLigatureCompChar(c) for c in name])
-
   assert name not in build_data['icons']
   build_data['icons'][name] = codepoints
+  glyph.addPosSub('ligacomp', [getOrCreateLigatureComponentFor(c) for c in name])
   for alias in aliases.pop(name, []):
+    assert alias != name
+    assert alias
     build_data['icons'][alias] = codepoints
+    glyph.addPosSub('ligacomp', [getOrCreateLigatureComponentFor(c) for c in alias])
 
   glyph.importOutlines(file)
   # set glyph size explicitly or automatically depending on autowidth
